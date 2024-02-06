@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/7030183d014c4ef988d59b89a959edbd/artifacts
+end_time: 1707178616018
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7030183d014c4ef988d59b89a959edbd
+run_name: masked-shoat-631
+run_uuid: 7030183d014c4ef988d59b89a959edbd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707178615975
+status: 3
+tags: []
+user_id: aasthakhatgarh

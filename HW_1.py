@@ -1,6 +1,7 @@
 # Implementing Multi Layer Perceptron (MLP) with 1 hidden layer using numpy
 import numpy as np
 import pandas as pd
+import mlflow # for logging the results
 
 # Initalize parameters
 def initalize_parameters(n_input, n_hidden, n_output):
@@ -76,25 +77,47 @@ def predict(X, Y, W1, W2, b1, b2):
     accuracy = np.mean(predictions == Y) # accuracy of the model
     return accuracy 
 
-# Function to run the experiment
+# Function to run the experiment 
+# mlfow is used to log the results
 def run_experiment(train, test, validate, n_hidden, num_iterations, learning_rate):
 
-    # load data
-    X_train, Y_train = load_data(train)
-    #X_test, Y_test = load_data(test)
-    X_validate, Y_validate = load_data(validate)
+    with mlflow.start_run():
+        mlflow.log_param("hidden_layer_size", n_hidden)
+        mlflow.log_param("num_iterations", num_iterations)
+        mlflow.log_param("learning_rate", learning_rate)
 
-    # train model
-    W1, W2, b1, b2 = model(X_train, Y_train, n_hidden, num_iterations, learning_rate)
+        # load data
+        X_train, Y_train = load_data(train)
+        X_train_normalized, mean, std = normalize_features(X_train) # normalize input features
+        X_validate, Y_validate = load_data(validate)
+        x_validate_normalized = (X_validate - mean)/std # normalize input features
+        #X_test, Y_test = load_data(test)
+        #x_test_normalized = (X_test - mean)/std # normalize input features
 
-    # evaluate model
-    train_accuracy = predict(X_train, Y_train, W1, W2, b1, b2)
-    validate_accuracy = predict(X_validate, Y_validate, W1, W2, b1, b2)
-    #test_accuracy = predict(X_test, Y_test, W1, W2, b1, b2)
+        # train model
+        W1, W2, b1, b2 = model(X_train_normalized, Y_train, n_hidden, num_iterations, learning_rate)
 
-    print(f"Train accuracy: {train_accuracy}")
-    print(f"Validation accuracy: {validate_accuracy}")
-    #print(f"Test accuracy: {test_accuracy}")
+        # evaluate model
+        train_accuracy = predict(X_train_normalized, Y_train, W1, W2, b1, b2)
+        validate_accuracy = predict(x_validate_normalized, Y_validate, W1, W2, b1, b2)
+        #test_accuracy = predict(X_test_normalized, Y_test, W1, W2, b1, b2)
+
+        print(f"Train accuracy: {train_accuracy}")
+        print(f"Validation accuracy: {validate_accuracy}")
+        #print(f"Test accuracy: {test_accuracy}")
+
+        mlflow.log_metric("train_accuracy", train_accuracy)
+        mlflow.log_metric("validation_accuracy", validate_accuracy)
+        #mlflow.log_metric("test_accuracy", test_accuracy)
+
+        # save model parameters
+        save_model_parameters(W1, W2, b1, b2, 'model_parameters.npz')
+        mlflow.log_artifact('model_parameters.npz')
+
+# save model parameters
+def save_model_parameters(W1, W2, b1, b2, filename='model_parameters.npz'):
+    np.savez(filename, W1=W1, W2=W2, b1=b1, b2=b2)
+
 
 # load data
 def load_data(path):
@@ -103,8 +126,16 @@ def load_data(path):
     Y = data[['label']].values.reshape(-1,1) # output features in the form of numpy array
     return X, Y
 
+# normalize data
+def normalize_features(X):
+    mean = np.mean(X, axis=0) # mean of the input features
+    std = np.std(X, axis=0) # standard deviation of the input features
+    X_normalized = (X - mean)/std # normalized input features
+    return X_normalized, mean, std
+
 # main function
 if __name__ == "__main__":
-    for i in range(1, 5):
-        run_experiment('spiral_train.csv', 'spiral_test.csv', 'spiral_valid.csv', i, 1000, 0.02) # run the experiment
+    for i in range(1, 10):
+        print(f"Hidden layer size: {i}")
+        run_experiment('spiral_train.csv', 'spiral_test.csv', 'spiral_valid.csv', i, 1000, 0.01) # run the experiment
 

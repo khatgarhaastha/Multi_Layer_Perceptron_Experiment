@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/db9490465e5a4bc78fec345ab8bc2f3f/artifacts
+end_time: 1707178616062
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: db9490465e5a4bc78fec345ab8bc2f3f
+run_name: intrigued-sheep-608
+run_uuid: db9490465e5a4bc78fec345ab8bc2f3f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707178616019
+status: 3
+tags: []
+user_id: aasthakhatgarh

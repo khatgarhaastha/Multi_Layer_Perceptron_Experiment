@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/84da84861d9045609dea562292c9f3da/artifacts
+end_time: 1707178616211
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 84da84861d9045609dea562292c9f3da
+run_name: grandiose-dove-459
+run_uuid: 84da84861d9045609dea562292c9f3da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707178616164
+status: 3
+tags: []
+user_id: aasthakhatgarh

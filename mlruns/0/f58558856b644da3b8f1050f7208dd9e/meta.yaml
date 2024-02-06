@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/f58558856b644da3b8f1050f7208dd9e/artifacts
+end_time: 1707178616377
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f58558856b644da3b8f1050f7208dd9e
+run_name: vaunted-shrimp-135
+run_uuid: f58558856b644da3b8f1050f7208dd9e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707178616320
+status: 3
+tags: []
+user_id: aasthakhatgarh

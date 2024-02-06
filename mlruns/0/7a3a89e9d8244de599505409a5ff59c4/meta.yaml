@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/7a3a89e9d8244de599505409a5ff59c4/artifacts
+end_time: 1707178533961
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7a3a89e9d8244de599505409a5ff59c4
+run_name: judicious-owl-561
+run_uuid: 7a3a89e9d8244de599505409a5ff59c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707178533921
+status: 4
+tags: []
+user_id: aasthakhatgarh

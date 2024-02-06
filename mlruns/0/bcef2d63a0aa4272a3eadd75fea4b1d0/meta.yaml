@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/bcef2d63a0aa4272a3eadd75fea4b1d0/artifacts
+end_time: 1707178616319
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bcef2d63a0aa4272a3eadd75fea4b1d0
+run_name: capricious-elk-337
+run_uuid: bcef2d63a0aa4272a3eadd75fea4b1d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707178616266
+status: 3
+tags: []
+user_id: aasthakhatgarh
