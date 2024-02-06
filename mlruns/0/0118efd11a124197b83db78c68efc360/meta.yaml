@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/0118efd11a124197b83db78c68efc360/artifacts
+end_time: 1707185631553
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0118efd11a124197b83db78c68efc360
+run_name: peaceful-chimp-105
+run_uuid: 0118efd11a124197b83db78c68efc360
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185631512
+status: 3
+tags: []
+user_id: aasthakhatgarh

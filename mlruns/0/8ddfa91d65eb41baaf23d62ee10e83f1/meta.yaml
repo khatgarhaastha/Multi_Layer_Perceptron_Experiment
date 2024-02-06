@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/8ddfa91d65eb41baaf23d62ee10e83f1/artifacts
+end_time: 1707185682759
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8ddfa91d65eb41baaf23d62ee10e83f1
+run_name: rebellious-calf-689
+run_uuid: 8ddfa91d65eb41baaf23d62ee10e83f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185682705
+status: 3
+tags: []
+user_id: aasthakhatgarh

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/06507750a7bd4af288d64963592a558c/artifacts
+end_time: 1707185632453
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 06507750a7bd4af288d64963592a558c
+run_name: hilarious-squid-848
+run_uuid: 06507750a7bd4af288d64963592a558c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185632409
+status: 3
+tags: []
+user_id: aasthakhatgarh

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/a2c2ee227840434e99442a844211b428/artifacts
+end_time: 1707185630367
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a2c2ee227840434e99442a844211b428
+run_name: flawless-horse-786
+run_uuid: a2c2ee227840434e99442a844211b428
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185630322
+status: 3
+tags: []
+user_id: aasthakhatgarh

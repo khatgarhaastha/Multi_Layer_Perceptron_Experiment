@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/86d1411028f04118a9c633a469e02bb2/artifacts
+end_time: 1707185545296
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 86d1411028f04118a9c633a469e02bb2
+run_name: popular-calf-810
+run_uuid: 86d1411028f04118a9c633a469e02bb2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185545241
+status: 3
+tags: []
+user_id: aasthakhatgarh

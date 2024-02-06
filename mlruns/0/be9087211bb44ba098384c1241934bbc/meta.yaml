@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/be9087211bb44ba098384c1241934bbc/artifacts
+end_time: 1707185586856
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: be9087211bb44ba098384c1241934bbc
+run_name: judicious-horse-953
+run_uuid: be9087211bb44ba098384c1241934bbc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185586818
+status: 3
+tags: []
+user_id: aasthakhatgarh

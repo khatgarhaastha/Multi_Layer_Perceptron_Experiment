@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/ad46422f4f0740c2b9562a0e705baad5/artifacts
+end_time: 1707184330512
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ad46422f4f0740c2b9562a0e705baad5
+run_name: shivering-tern-940
+run_uuid: ad46422f4f0740c2b9562a0e705baad5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184330452
+status: 3
+tags: []
+user_id: aasthakhatgarh

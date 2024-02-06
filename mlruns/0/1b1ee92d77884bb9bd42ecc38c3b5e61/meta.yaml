@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/1b1ee92d77884bb9bd42ecc38c3b5e61/artifacts
+end_time: 1707185526940
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1b1ee92d77884bb9bd42ecc38c3b5e61
+run_name: kindly-swan-495
+run_uuid: 1b1ee92d77884bb9bd42ecc38c3b5e61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185526856
+status: 3
+tags: []
+user_id: aasthakhatgarh

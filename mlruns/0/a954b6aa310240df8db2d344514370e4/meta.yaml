@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/a954b6aa310240df8db2d344514370e4/artifacts
+end_time: 1707181364723
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a954b6aa310240df8db2d344514370e4
+run_name: likeable-robin-123
+run_uuid: a954b6aa310240df8db2d344514370e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707181364700
+status: 3
+tags: []
+user_id: aasthakhatgarh

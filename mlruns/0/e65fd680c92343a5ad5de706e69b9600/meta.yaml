@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/e65fd680c92343a5ad5de706e69b9600/artifacts
+end_time: 1707185629909
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e65fd680c92343a5ad5de706e69b9600
+run_name: intrigued-grub-900
+run_uuid: e65fd680c92343a5ad5de706e69b9600
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185629648
+status: 3
+tags: []
+user_id: aasthakhatgarh

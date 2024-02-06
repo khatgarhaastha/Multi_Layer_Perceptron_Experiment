@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/ba3ac29960e2426a9b0cc452ab56ec96/artifacts
+end_time: 1707184181956
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ba3ac29960e2426a9b0cc452ab56ec96
+run_name: learned-croc-802
+run_uuid: ba3ac29960e2426a9b0cc452ab56ec96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184181893
+status: 3
+tags: []
+user_id: aasthakhatgarh

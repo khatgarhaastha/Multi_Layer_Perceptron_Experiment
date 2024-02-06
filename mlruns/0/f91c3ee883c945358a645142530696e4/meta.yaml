@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/f91c3ee883c945358a645142530696e4/artifacts
+end_time: 1707185669395
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f91c3ee883c945358a645142530696e4
+run_name: carefree-ray-314
+run_uuid: f91c3ee883c945358a645142530696e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185669344
+status: 3
+tags: []
+user_id: aasthakhatgarh

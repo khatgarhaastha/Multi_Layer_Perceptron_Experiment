@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/f97f003804654cd4b7e2c8f33f100ad0/artifacts
+end_time: 1707185681918
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f97f003804654cd4b7e2c8f33f100ad0
+run_name: painted-shrimp-575
+run_uuid: f97f003804654cd4b7e2c8f33f100ad0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185681572
+status: 3
+tags: []
+user_id: aasthakhatgarh

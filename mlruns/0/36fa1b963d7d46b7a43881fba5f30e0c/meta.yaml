@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/36fa1b963d7d46b7a43881fba5f30e0c/artifacts
+end_time: 1707185686883
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 36fa1b963d7d46b7a43881fba5f30e0c
+run_name: marvelous-flea-342
+run_uuid: 36fa1b963d7d46b7a43881fba5f30e0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185686846
+status: 3
+tags: []
+user_id: aasthakhatgarh

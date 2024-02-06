@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/b3948724bc65446b9ae0f21f09c39b7b/artifacts
+end_time: 1707184979420
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b3948724bc65446b9ae0f21f09c39b7b
+run_name: glamorous-shrew-516
+run_uuid: b3948724bc65446b9ae0f21f09c39b7b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184979333
+status: 3
+tags: []
+user_id: aasthakhatgarh

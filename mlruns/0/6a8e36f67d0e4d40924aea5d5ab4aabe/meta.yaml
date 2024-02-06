@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/6a8e36f67d0e4d40924aea5d5ab4aabe/artifacts
+end_time: 1707185681521
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6a8e36f67d0e4d40924aea5d5ab4aabe
+run_name: agreeable-worm-586
+run_uuid: 6a8e36f67d0e4d40924aea5d5ab4aabe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185681374
+status: 3
+tags: []
+user_id: aasthakhatgarh

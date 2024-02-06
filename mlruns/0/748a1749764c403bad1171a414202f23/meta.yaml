@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/748a1749764c403bad1171a414202f23/artifacts
+end_time: 1707185666091
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 748a1749764c403bad1171a414202f23
+run_name: treasured-shrew-195
+run_uuid: 748a1749764c403bad1171a414202f23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185666034
+status: 3
+tags: []
+user_id: aasthakhatgarh

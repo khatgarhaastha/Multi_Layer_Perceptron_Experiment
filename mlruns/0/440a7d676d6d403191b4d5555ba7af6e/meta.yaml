@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/440a7d676d6d403191b4d5555ba7af6e/artifacts
+end_time: 1707184332509
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 440a7d676d6d403191b4d5555ba7af6e
+run_name: painted-colt-820
+run_uuid: 440a7d676d6d403191b4d5555ba7af6e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184332480
+status: 3
+tags: []
+user_id: aasthakhatgarh

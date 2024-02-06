@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/db11aae1614c41f5af0723e3cc6b2126/artifacts
+end_time: 1707185671441
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: db11aae1614c41f5af0723e3cc6b2126
+run_name: beautiful-duck-656
+run_uuid: db11aae1614c41f5af0723e3cc6b2126
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185671403
+status: 3
+tags: []
+user_id: aasthakhatgarh

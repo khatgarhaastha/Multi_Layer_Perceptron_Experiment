@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/add394fc83a045e4a8f44352343be5bf/artifacts
+end_time: 1707184978297
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: add394fc83a045e4a8f44352343be5bf
+run_name: upset-fly-502
+run_uuid: add394fc83a045e4a8f44352343be5bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184978254
+status: 3
+tags: []
+user_id: aasthakhatgarh

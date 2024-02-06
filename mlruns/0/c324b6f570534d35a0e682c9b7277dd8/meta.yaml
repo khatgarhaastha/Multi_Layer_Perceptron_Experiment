@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/c324b6f570534d35a0e682c9b7277dd8/artifacts
+end_time: 1707185575670
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c324b6f570534d35a0e682c9b7277dd8
+run_name: placid-snipe-157
+run_uuid: c324b6f570534d35a0e682c9b7277dd8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185575631
+status: 3
+tags: []
+user_id: aasthakhatgarh

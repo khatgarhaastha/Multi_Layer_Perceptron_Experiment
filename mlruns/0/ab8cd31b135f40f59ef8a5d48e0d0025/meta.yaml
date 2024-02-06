@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/ab8cd31b135f40f59ef8a5d48e0d0025/artifacts
+end_time: 1707184971351
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ab8cd31b135f40f59ef8a5d48e0d0025
+run_name: sassy-stoat-250
+run_uuid: ab8cd31b135f40f59ef8a5d48e0d0025
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184971263
+status: 3
+tags: []
+user_id: aasthakhatgarh

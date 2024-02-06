@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/3f0c8cb88a9845b180bc6483a2f63c88/artifacts
+end_time: 1707184181238
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3f0c8cb88a9845b180bc6483a2f63c88
+run_name: traveling-trout-916
+run_uuid: 3f0c8cb88a9845b180bc6483a2f63c88
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184181196
+status: 3
+tags: []
+user_id: aasthakhatgarh

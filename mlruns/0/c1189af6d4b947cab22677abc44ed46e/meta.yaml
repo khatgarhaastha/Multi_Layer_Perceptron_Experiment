@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/c1189af6d4b947cab22677abc44ed46e/artifacts
+end_time: 1707185668278
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c1189af6d4b947cab22677abc44ed46e
+run_name: upbeat-snipe-541
+run_uuid: c1189af6d4b947cab22677abc44ed46e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185668240
+status: 3
+tags: []
+user_id: aasthakhatgarh

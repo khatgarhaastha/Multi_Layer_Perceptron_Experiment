@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/295de7ae9fa9437fb641ea5fcb17aa85/artifacts
+end_time: 1707185682987
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 295de7ae9fa9437fb641ea5fcb17aa85
+run_name: enthused-shoat-626
+run_uuid: 295de7ae9fa9437fb641ea5fcb17aa85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185682933
+status: 3
+tags: []
+user_id: aasthakhatgarh

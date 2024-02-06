@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/0b7b4cf85ecb43ad98ea060611c7985a/artifacts
+end_time: 1707184977417
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0b7b4cf85ecb43ad98ea060611c7985a
+run_name: resilient-sow-194
+run_uuid: 0b7b4cf85ecb43ad98ea060611c7985a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184977330
+status: 3
+tags: []
+user_id: aasthakhatgarh

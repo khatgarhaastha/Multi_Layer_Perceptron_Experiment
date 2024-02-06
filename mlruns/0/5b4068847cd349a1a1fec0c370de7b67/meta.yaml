@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/5b4068847cd349a1a1fec0c370de7b67/artifacts
+end_time: 1707185682355
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5b4068847cd349a1a1fec0c370de7b67
+run_name: funny-goose-642
+run_uuid: 5b4068847cd349a1a1fec0c370de7b67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185682154
+status: 3
+tags: []
+user_id: aasthakhatgarh

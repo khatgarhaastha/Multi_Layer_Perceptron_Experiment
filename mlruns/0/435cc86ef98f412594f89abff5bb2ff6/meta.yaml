@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/435cc86ef98f412594f89abff5bb2ff6/artifacts
+end_time: 1707185668175
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 435cc86ef98f412594f89abff5bb2ff6
+run_name: glamorous-ox-220
+run_uuid: 435cc86ef98f412594f89abff5bb2ff6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185668130
+status: 3
+tags: []
+user_id: aasthakhatgarh

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/a83d3e9fa4ce478cadf1d70afb07efa9/artifacts
+end_time: 1707185547043
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a83d3e9fa4ce478cadf1d70afb07efa9
+run_name: sneaky-foal-727
+run_uuid: a83d3e9fa4ce478cadf1d70afb07efa9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185546994
+status: 3
+tags: []
+user_id: aasthakhatgarh

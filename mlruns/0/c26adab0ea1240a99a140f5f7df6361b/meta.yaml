@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/c26adab0ea1240a99a140f5f7df6361b/artifacts
+end_time: 1707184181884
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c26adab0ea1240a99a140f5f7df6361b
+run_name: clumsy-fish-857
+run_uuid: c26adab0ea1240a99a140f5f7df6361b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184181815
+status: 3
+tags: []
+user_id: aasthakhatgarh

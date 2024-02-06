@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/221b4863269048549d4399d9605942e8/artifacts
+end_time: 1707184328660
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 221b4863269048549d4399d9605942e8
+run_name: enchanting-colt-503
+run_uuid: 221b4863269048549d4399d9605942e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184328636
+status: 3
+tags: []
+user_id: aasthakhatgarh

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/e2c08619fc69450d8da2cb7c88e83183/artifacts
+end_time: 1707185630462
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e2c08619fc69450d8da2cb7c88e83183
+run_name: clumsy-shad-677
+run_uuid: e2c08619fc69450d8da2cb7c88e83183
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185630432
+status: 3
+tags: []
+user_id: aasthakhatgarh

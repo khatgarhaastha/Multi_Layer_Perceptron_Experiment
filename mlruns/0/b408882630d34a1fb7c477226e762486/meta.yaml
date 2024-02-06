@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/b408882630d34a1fb7c477226e762486/artifacts
+end_time: 1707185682150
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b408882630d34a1fb7c477226e762486
+run_name: resilient-skink-965
+run_uuid: b408882630d34a1fb7c477226e762486
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185682074
+status: 3
+tags: []
+user_id: aasthakhatgarh

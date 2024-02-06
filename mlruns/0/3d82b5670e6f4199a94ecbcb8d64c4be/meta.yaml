@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/3d82b5670e6f4199a94ecbcb8d64c4be/artifacts
+end_time: 1707185574616
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3d82b5670e6f4199a94ecbcb8d64c4be
+run_name: dazzling-deer-492
+run_uuid: 3d82b5670e6f4199a94ecbcb8d64c4be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185574559
+status: 3
+tags: []
+user_id: aasthakhatgarh

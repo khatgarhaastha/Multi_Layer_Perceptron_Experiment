@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/7bdbb0f8b1ab432a99505d29eeae17be/artifacts
+end_time: 1707184332582
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7bdbb0f8b1ab432a99505d29eeae17be
+run_name: selective-swan-493
+run_uuid: 7bdbb0f8b1ab432a99505d29eeae17be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184332559
+status: 3
+tags: []
+user_id: aasthakhatgarh

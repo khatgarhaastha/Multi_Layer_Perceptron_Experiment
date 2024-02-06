@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/5328e6cf772d404f8d363f935c3be8bd/artifacts
+end_time: 1707184326232
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5328e6cf772d404f8d363f935c3be8bd
+run_name: worried-cat-169
+run_uuid: 5328e6cf772d404f8d363f935c3be8bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184326151
+status: 3
+tags: []
+user_id: aasthakhatgarh

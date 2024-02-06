@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/d9dc58017d864175af2a13da8692562f/artifacts
+end_time: 1707184331482
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d9dc58017d864175af2a13da8692562f
+run_name: caring-moose-339
+run_uuid: d9dc58017d864175af2a13da8692562f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184331453
+status: 3
+tags: []
+user_id: aasthakhatgarh

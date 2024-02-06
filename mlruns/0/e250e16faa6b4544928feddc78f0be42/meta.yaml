@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/e250e16faa6b4544928feddc78f0be42/artifacts
+end_time: 1707184179908
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e250e16faa6b4544928feddc78f0be42
+run_name: suave-hawk-175
+run_uuid: e250e16faa6b4544928feddc78f0be42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184179875
+status: 3
+tags: []
+user_id: aasthakhatgarh

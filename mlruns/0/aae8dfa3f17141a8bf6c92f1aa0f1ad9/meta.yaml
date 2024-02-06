@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/aae8dfa3f17141a8bf6c92f1aa0f1ad9/artifacts
+end_time: 1707185574158
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aae8dfa3f17141a8bf6c92f1aa0f1ad9
+run_name: nebulous-carp-289
+run_uuid: aae8dfa3f17141a8bf6c92f1aa0f1ad9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185574059
+status: 3
+tags: []
+user_id: aasthakhatgarh

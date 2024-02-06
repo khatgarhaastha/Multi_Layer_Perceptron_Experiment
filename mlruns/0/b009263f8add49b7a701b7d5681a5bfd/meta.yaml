@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/b009263f8add49b7a701b7d5681a5bfd/artifacts
+end_time: 1707185668230
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b009263f8add49b7a701b7d5681a5bfd
+run_name: fearless-loon-591
+run_uuid: b009263f8add49b7a701b7d5681a5bfd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185668186
+status: 3
+tags: []
+user_id: aasthakhatgarh

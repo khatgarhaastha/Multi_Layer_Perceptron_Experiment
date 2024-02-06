@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/abe1c47f2ab44211b78d3f706f28a569/artifacts
+end_time: 1707185633622
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: abe1c47f2ab44211b78d3f706f28a569
+run_name: efficient-mare-307
+run_uuid: abe1c47f2ab44211b78d3f706f28a569
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185633583
+status: 3
+tags: []
+user_id: aasthakhatgarh

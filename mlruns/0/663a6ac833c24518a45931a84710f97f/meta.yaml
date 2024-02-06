@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/663a6ac833c24518a45931a84710f97f/artifacts
+end_time: 1707185518851
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 663a6ac833c24518a45931a84710f97f
+run_name: intrigued-sponge-720
+run_uuid: 663a6ac833c24518a45931a84710f97f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185518790
+status: 3
+tags: []
+user_id: aasthakhatgarh

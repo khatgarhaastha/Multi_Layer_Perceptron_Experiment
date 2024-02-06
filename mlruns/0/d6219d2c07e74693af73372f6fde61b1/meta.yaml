@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/d6219d2c07e74693af73372f6fde61b1/artifacts
+end_time: 1707185586955
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d6219d2c07e74693af73372f6fde61b1
+run_name: enthused-quail-441
+run_uuid: d6219d2c07e74693af73372f6fde61b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185586914
+status: 3
+tags: []
+user_id: aasthakhatgarh

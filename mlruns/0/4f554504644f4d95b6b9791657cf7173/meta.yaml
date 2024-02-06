@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/4f554504644f4d95b6b9791657cf7173/artifacts
+end_time: 1707185664817
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4f554504644f4d95b6b9791657cf7173
+run_name: trusting-perch-812
+run_uuid: 4f554504644f4d95b6b9791657cf7173
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185664775
+status: 3
+tags: []
+user_id: aasthakhatgarh

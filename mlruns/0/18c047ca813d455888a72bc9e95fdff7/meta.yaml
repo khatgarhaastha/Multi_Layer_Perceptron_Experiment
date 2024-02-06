@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/18c047ca813d455888a72bc9e95fdff7/artifacts
+end_time: 1707185575571
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 18c047ca813d455888a72bc9e95fdff7
+run_name: delightful-bat-202
+run_uuid: 18c047ca813d455888a72bc9e95fdff7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185575503
+status: 3
+tags: []
+user_id: aasthakhatgarh

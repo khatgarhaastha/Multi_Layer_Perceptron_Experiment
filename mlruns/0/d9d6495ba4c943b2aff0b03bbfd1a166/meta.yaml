@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/d9d6495ba4c943b2aff0b03bbfd1a166/artifacts
+end_time: 1707185587144
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d9d6495ba4c943b2aff0b03bbfd1a166
+run_name: clean-crane-960
+run_uuid: d9d6495ba4c943b2aff0b03bbfd1a166
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185587103
+status: 3
+tags: []
+user_id: aasthakhatgarh

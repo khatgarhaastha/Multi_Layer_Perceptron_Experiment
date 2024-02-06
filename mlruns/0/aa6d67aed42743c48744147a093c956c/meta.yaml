@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/aa6d67aed42743c48744147a093c956c/artifacts
+end_time: 1707185591871
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aa6d67aed42743c48744147a093c956c
+run_name: bouncy-ant-551
+run_uuid: aa6d67aed42743c48744147a093c956c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185591837
+status: 3
+tags: []
+user_id: aasthakhatgarh

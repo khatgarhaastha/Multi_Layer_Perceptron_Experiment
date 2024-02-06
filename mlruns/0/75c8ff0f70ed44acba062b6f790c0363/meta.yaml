@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/75c8ff0f70ed44acba062b6f790c0363/artifacts
+end_time: 1707185524090
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 75c8ff0f70ed44acba062b6f790c0363
+run_name: carefree-toad-720
+run_uuid: 75c8ff0f70ed44acba062b6f790c0363
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185524018
+status: 3
+tags: []
+user_id: aasthakhatgarh

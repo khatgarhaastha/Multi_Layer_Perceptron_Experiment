@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/d5505f6052164313948d45acb8d7b366/artifacts
+end_time: 1707185631760
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d5505f6052164313948d45acb8d7b366
+run_name: monumental-colt-65
+run_uuid: d5505f6052164313948d45acb8d7b366
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185631713
+status: 3
+tags: []
+user_id: aasthakhatgarh

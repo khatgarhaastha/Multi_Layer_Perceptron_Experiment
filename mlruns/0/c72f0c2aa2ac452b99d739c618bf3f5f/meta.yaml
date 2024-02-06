@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/c72f0c2aa2ac452b99d739c618bf3f5f/artifacts
+end_time: 1707185686027
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c72f0c2aa2ac452b99d739c618bf3f5f
+run_name: rumbling-tern-861
+run_uuid: c72f0c2aa2ac452b99d739c618bf3f5f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185685927
+status: 3
+tags: []
+user_id: aasthakhatgarh

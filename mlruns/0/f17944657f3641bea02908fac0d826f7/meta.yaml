@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/f17944657f3641bea02908fac0d826f7/artifacts
+end_time: 1707185682696
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f17944657f3641bea02908fac0d826f7
+run_name: inquisitive-bear-887
+run_uuid: f17944657f3641bea02908fac0d826f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185682647
+status: 3
+tags: []
+user_id: aasthakhatgarh

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/04ee93f8f6d840eead82a071e49374eb/artifacts
+end_time: 1707185545509
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 04ee93f8f6d840eead82a071e49374eb
+run_name: delicate-snake-742
+run_uuid: 04ee93f8f6d840eead82a071e49374eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185545423
+status: 3
+tags: []
+user_id: aasthakhatgarh

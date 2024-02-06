@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/97821a87fde842e799f9dd15f4f3ee98/artifacts
+end_time: 1707184979599
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 97821a87fde842e799f9dd15f4f3ee98
+run_name: bemused-horse-725
+run_uuid: 97821a87fde842e799f9dd15f4f3ee98
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184979529
+status: 3
+tags: []
+user_id: aasthakhatgarh

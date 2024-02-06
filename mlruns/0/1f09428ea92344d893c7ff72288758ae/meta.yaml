@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/1f09428ea92344d893c7ff72288758ae/artifacts
+end_time: 1707185577960
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1f09428ea92344d893c7ff72288758ae
+run_name: righteous-mare-729
+run_uuid: 1f09428ea92344d893c7ff72288758ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185577909
+status: 3
+tags: []
+user_id: aasthakhatgarh

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/e3171968f2094d0c8a95bc93d75877b7/artifacts
+end_time: 1707185493215
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e3171968f2094d0c8a95bc93d75877b7
+run_name: beautiful-zebra-857
+run_uuid: e3171968f2094d0c8a95bc93d75877b7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185493167
+status: 3
+tags: []
+user_id: aasthakhatgarh

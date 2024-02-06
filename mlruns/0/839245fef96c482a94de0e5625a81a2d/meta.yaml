@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/839245fef96c482a94de0e5625a81a2d/artifacts
+end_time: 1707184183271
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 839245fef96c482a94de0e5625a81a2d
+run_name: efficient-carp-760
+run_uuid: 839245fef96c482a94de0e5625a81a2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184183237
+status: 3
+tags: []
+user_id: aasthakhatgarh

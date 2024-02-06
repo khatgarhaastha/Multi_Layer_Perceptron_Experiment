@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/0d7b88b7b7b34201a9db864039deea3b/artifacts
+end_time: 1707185492865
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0d7b88b7b7b34201a9db864039deea3b
+run_name: adaptable-fly-736
+run_uuid: 0d7b88b7b7b34201a9db864039deea3b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185492746
+status: 3
+tags: []
+user_id: aasthakhatgarh

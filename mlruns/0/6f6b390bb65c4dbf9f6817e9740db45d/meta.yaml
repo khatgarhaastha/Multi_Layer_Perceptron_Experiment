@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/6f6b390bb65c4dbf9f6817e9740db45d/artifacts
+end_time: 1707185494861
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6f6b390bb65c4dbf9f6817e9740db45d
+run_name: magnificent-gnat-810
+run_uuid: 6f6b390bb65c4dbf9f6817e9740db45d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185494796
+status: 3
+tags: []
+user_id: aasthakhatgarh

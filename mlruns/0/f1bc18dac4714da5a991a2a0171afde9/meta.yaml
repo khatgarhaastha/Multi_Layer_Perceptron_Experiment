@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/f1bc18dac4714da5a991a2a0171afde9/artifacts
+end_time: 1707185651563
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f1bc18dac4714da5a991a2a0171afde9
+run_name: dapper-snake-359
+run_uuid: f1bc18dac4714da5a991a2a0171afde9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185651531
+status: 3
+tags: []
+user_id: aasthakhatgarh

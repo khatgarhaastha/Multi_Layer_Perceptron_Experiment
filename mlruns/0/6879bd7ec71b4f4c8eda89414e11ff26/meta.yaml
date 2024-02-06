@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/6879bd7ec71b4f4c8eda89414e11ff26/artifacts
+end_time: 1707185498731
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6879bd7ec71b4f4c8eda89414e11ff26
+run_name: bouncy-fish-722
+run_uuid: 6879bd7ec71b4f4c8eda89414e11ff26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185498678
+status: 3
+tags: []
+user_id: aasthakhatgarh

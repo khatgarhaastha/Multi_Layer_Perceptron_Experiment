@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/ddcbfcddf8dd4af6836f4dc78cdbfa28/artifacts
+end_time: 1707185633134
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ddcbfcddf8dd4af6836f4dc78cdbfa28
+run_name: placid-lamb-423
+run_uuid: ddcbfcddf8dd4af6836f4dc78cdbfa28
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185633091
+status: 3
+tags: []
+user_id: aasthakhatgarh

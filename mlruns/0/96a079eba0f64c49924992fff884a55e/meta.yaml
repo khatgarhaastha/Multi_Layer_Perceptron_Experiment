@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/96a079eba0f64c49924992fff884a55e/artifacts
+end_time: 1707185665451
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 96a079eba0f64c49924992fff884a55e
+run_name: melodic-moose-597
+run_uuid: 96a079eba0f64c49924992fff884a55e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185665276
+status: 3
+tags: []
+user_id: aasthakhatgarh

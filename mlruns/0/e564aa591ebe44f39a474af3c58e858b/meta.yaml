@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/e564aa591ebe44f39a474af3c58e858b/artifacts
+end_time: 1707185592581
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e564aa591ebe44f39a474af3c58e858b
+run_name: popular-mouse-791
+run_uuid: e564aa591ebe44f39a474af3c58e858b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185592551
+status: 3
+tags: []
+user_id: aasthakhatgarh

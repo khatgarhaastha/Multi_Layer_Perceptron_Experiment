@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/d9dd8326023e4efa84d221f6afb14f8d/artifacts
+end_time: 1707185633516
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d9dd8326023e4efa84d221f6afb14f8d
+run_name: mercurial-moose-224
+run_uuid: d9dd8326023e4efa84d221f6afb14f8d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185633470
+status: 3
+tags: []
+user_id: aasthakhatgarh

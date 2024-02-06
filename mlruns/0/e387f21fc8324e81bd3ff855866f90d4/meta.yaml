@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/e387f21fc8324e81bd3ff855866f90d4/artifacts
+end_time: 1707185664711
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e387f21fc8324e81bd3ff855866f90d4
+run_name: legendary-doe-740
+run_uuid: e387f21fc8324e81bd3ff855866f90d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185664678
+status: 3
+tags: []
+user_id: aasthakhatgarh

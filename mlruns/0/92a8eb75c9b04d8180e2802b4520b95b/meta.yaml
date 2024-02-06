@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/92a8eb75c9b04d8180e2802b4520b95b/artifacts
+end_time: 1707185575434
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 92a8eb75c9b04d8180e2802b4520b95b
+run_name: thoughtful-dog-306
+run_uuid: 92a8eb75c9b04d8180e2802b4520b95b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185575397
+status: 3
+tags: []
+user_id: aasthakhatgarh

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/a99e3a03c75c46c8a276aba17e9cfc21/artifacts
+end_time: 1707184329959
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a99e3a03c75c46c8a276aba17e9cfc21
+run_name: awesome-tern-435
+run_uuid: a99e3a03c75c46c8a276aba17e9cfc21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184329889
+status: 3
+tags: []
+user_id: aasthakhatgarh

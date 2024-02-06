@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/7d52f863518843a5bb6aa0c201cce0fe/artifacts
+end_time: 1707181360346
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7d52f863518843a5bb6aa0c201cce0fe
+run_name: amusing-wolf-813
+run_uuid: 7d52f863518843a5bb6aa0c201cce0fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707181360304
+status: 3
+tags: []
+user_id: aasthakhatgarh

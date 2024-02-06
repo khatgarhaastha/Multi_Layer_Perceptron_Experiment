@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/6a1293b089fb4658a83cf25c9d3040f7/artifacts
+end_time: 1707185571072
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6a1293b089fb4658a83cf25c9d3040f7
+run_name: able-grub-219
+run_uuid: 6a1293b089fb4658a83cf25c9d3040f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185571008
+status: 3
+tags: []
+user_id: aasthakhatgarh

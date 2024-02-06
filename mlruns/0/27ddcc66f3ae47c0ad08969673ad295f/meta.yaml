@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/27ddcc66f3ae47c0ad08969673ad295f/artifacts
+end_time: 1707184332670
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 27ddcc66f3ae47c0ad08969673ad295f
+run_name: trusting-goose-46
+run_uuid: 27ddcc66f3ae47c0ad08969673ad295f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184332641
+status: 3
+tags: []
+user_id: aasthakhatgarh

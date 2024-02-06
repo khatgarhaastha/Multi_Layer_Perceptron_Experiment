@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/0ab3e558db47477694521ad86efa838f/artifacts
+end_time: 1707184975038
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0ab3e558db47477694521ad86efa838f
+run_name: merciful-mole-88
+run_uuid: 0ab3e558db47477694521ad86efa838f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184974984
+status: 3
+tags: []
+user_id: aasthakhatgarh

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/cd253e4b36c8481f82c5fbb7fc48fb42/artifacts
+end_time: 1707181365542
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cd253e4b36c8481f82c5fbb7fc48fb42
+run_name: mysterious-slug-31
+run_uuid: cd253e4b36c8481f82c5fbb7fc48fb42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707181365495
+status: 3
+tags: []
+user_id: aasthakhatgarh

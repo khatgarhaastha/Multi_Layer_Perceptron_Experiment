@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/c71d0b3b338e4bd0884e650f6a5278c1/artifacts
+end_time: 1707185553125
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c71d0b3b338e4bd0884e650f6a5278c1
+run_name: salty-rat-324
+run_uuid: c71d0b3b338e4bd0884e650f6a5278c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185553055
+status: 3
+tags: []
+user_id: aasthakhatgarh

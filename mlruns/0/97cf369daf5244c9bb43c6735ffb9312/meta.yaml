@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/97cf369daf5244c9bb43c6735ffb9312/artifacts
+end_time: 1707185632315
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 97cf369daf5244c9bb43c6735ffb9312
+run_name: burly-turtle-281
+run_uuid: 97cf369daf5244c9bb43c6735ffb9312
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185632230
+status: 3
+tags: []
+user_id: aasthakhatgarh

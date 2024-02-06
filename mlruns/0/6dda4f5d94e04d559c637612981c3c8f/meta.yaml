@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/6dda4f5d94e04d559c637612981c3c8f/artifacts
+end_time: 1707184333217
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6dda4f5d94e04d559c637612981c3c8f
+run_name: sincere-skink-803
+run_uuid: 6dda4f5d94e04d559c637612981c3c8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184333156
+status: 3
+tags: []
+user_id: aasthakhatgarh

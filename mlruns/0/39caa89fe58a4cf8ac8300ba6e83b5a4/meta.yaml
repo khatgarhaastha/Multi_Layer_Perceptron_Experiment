@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/39caa89fe58a4cf8ac8300ba6e83b5a4/artifacts
+end_time: 1707184182731
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 39caa89fe58a4cf8ac8300ba6e83b5a4
+run_name: learned-worm-702
+run_uuid: 39caa89fe58a4cf8ac8300ba6e83b5a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184182698
+status: 3
+tags: []
+user_id: aasthakhatgarh

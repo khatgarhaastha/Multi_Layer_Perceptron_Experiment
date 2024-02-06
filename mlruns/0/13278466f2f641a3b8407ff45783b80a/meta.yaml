@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/13278466f2f641a3b8407ff45783b80a/artifacts
+end_time: 1707185666580
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 13278466f2f641a3b8407ff45783b80a
+run_name: upbeat-dolphin-744
+run_uuid: 13278466f2f641a3b8407ff45783b80a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185666515
+status: 3
+tags: []
+user_id: aasthakhatgarh

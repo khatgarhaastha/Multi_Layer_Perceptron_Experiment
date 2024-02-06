@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/b6ae882458164fbd9b693a07293f55c4/artifacts
+end_time: 1707184182548
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b6ae882458164fbd9b693a07293f55c4
+run_name: merciful-sow-367
+run_uuid: b6ae882458164fbd9b693a07293f55c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184182527
+status: 3
+tags: []
+user_id: aasthakhatgarh

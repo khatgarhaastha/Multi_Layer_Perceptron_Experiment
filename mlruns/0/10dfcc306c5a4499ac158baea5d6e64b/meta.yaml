@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/10dfcc306c5a4499ac158baea5d6e64b/artifacts
+end_time: 1707184182812
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 10dfcc306c5a4499ac158baea5d6e64b
+run_name: angry-bee-267
+run_uuid: 10dfcc306c5a4499ac158baea5d6e64b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184182782
+status: 3
+tags: []
+user_id: aasthakhatgarh

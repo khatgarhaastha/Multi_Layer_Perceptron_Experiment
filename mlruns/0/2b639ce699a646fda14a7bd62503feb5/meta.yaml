@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/2b639ce699a646fda14a7bd62503feb5/artifacts
+end_time: 1707185592860
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2b639ce699a646fda14a7bd62503feb5
+run_name: nosy-goose-953
+run_uuid: 2b639ce699a646fda14a7bd62503feb5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185592821
+status: 3
+tags: []
+user_id: aasthakhatgarh

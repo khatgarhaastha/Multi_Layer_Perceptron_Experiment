@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/99d22c80a8bd487abe4cd0990d2b09f8/artifacts
+end_time: 1707185574543
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 99d22c80a8bd487abe4cd0990d2b09f8
+run_name: able-dog-720
+run_uuid: 99d22c80a8bd487abe4cd0990d2b09f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185574496
+status: 3
+tags: []
+user_id: aasthakhatgarh

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/5a82b8f6ec714d87900f0a7b731c0cb7/artifacts
+end_time: 1707181365352
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5a82b8f6ec714d87900f0a7b731c0cb7
+run_name: suave-steed-462
+run_uuid: 5a82b8f6ec714d87900f0a7b731c0cb7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707181365274
+status: 3
+tags: []
+user_id: aasthakhatgarh

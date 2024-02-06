@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/baa53066e5dc40e5b713e669d5950d31/artifacts
+end_time: 1707185555038
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: baa53066e5dc40e5b713e669d5950d31
+run_name: stately-rat-612
+run_uuid: baa53066e5dc40e5b713e669d5950d31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185554748
+status: 3
+tags: []
+user_id: aasthakhatgarh

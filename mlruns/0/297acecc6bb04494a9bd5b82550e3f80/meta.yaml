@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/297acecc6bb04494a9bd5b82550e3f80/artifacts
+end_time: 1707184975641
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 297acecc6bb04494a9bd5b82550e3f80
+run_name: gregarious-dove-418
+run_uuid: 297acecc6bb04494a9bd5b82550e3f80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184975325
+status: 3
+tags: []
+user_id: aasthakhatgarh

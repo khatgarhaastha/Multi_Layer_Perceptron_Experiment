@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/93ff2f101f7140e7a7b999e5958b29ac/artifacts
+end_time: 1707185553032
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 93ff2f101f7140e7a7b999e5958b29ac
+run_name: treasured-foal-378
+run_uuid: 93ff2f101f7140e7a7b999e5958b29ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185552980
+status: 3
+tags: []
+user_id: aasthakhatgarh

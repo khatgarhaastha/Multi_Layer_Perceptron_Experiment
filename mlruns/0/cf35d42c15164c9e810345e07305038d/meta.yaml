@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/cf35d42c15164c9e810345e07305038d/artifacts
+end_time: 1707185671730
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cf35d42c15164c9e810345e07305038d
+run_name: smiling-cat-588
+run_uuid: cf35d42c15164c9e810345e07305038d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185671709
+status: 3
+tags: []
+user_id: aasthakhatgarh

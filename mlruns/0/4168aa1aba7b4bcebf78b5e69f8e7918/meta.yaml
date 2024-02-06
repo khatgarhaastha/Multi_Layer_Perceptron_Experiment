@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/4168aa1aba7b4bcebf78b5e69f8e7918/artifacts
+end_time: 1707185549682
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4168aa1aba7b4bcebf78b5e69f8e7918
+run_name: omniscient-perch-573
+run_uuid: 4168aa1aba7b4bcebf78b5e69f8e7918
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185549631
+status: 3
+tags: []
+user_id: aasthakhatgarh

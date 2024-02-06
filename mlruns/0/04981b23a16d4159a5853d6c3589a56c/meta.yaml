@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/04981b23a16d4159a5853d6c3589a56c/artifacts
+end_time: 1707181360252
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 04981b23a16d4159a5853d6c3589a56c
+run_name: judicious-swan-442
+run_uuid: 04981b23a16d4159a5853d6c3589a56c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707181360216
+status: 3
+tags: []
+user_id: aasthakhatgarh

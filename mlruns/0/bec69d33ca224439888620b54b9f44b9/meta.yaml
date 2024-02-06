@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/bec69d33ca224439888620b54b9f44b9/artifacts
+end_time: 1707181363135
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bec69d33ca224439888620b54b9f44b9
+run_name: mysterious-mule-261
+run_uuid: bec69d33ca224439888620b54b9f44b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707181363113
+status: 3
+tags: []
+user_id: aasthakhatgarh

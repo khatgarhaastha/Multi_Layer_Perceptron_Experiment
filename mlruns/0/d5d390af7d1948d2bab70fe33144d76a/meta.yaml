@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/d5d390af7d1948d2bab70fe33144d76a/artifacts
+end_time: 1707184976370
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d5d390af7d1948d2bab70fe33144d76a
+run_name: puzzled-roo-94
+run_uuid: d5d390af7d1948d2bab70fe33144d76a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184976305
+status: 3
+tags: []
+user_id: aasthakhatgarh

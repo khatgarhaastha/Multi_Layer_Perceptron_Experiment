@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/ed980386fbe94b9c86f3ab6a0b182b87/artifacts
+end_time: 1707185592538
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ed980386fbe94b9c86f3ab6a0b182b87
+run_name: masked-bug-593
+run_uuid: ed980386fbe94b9c86f3ab6a0b182b87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185592482
+status: 3
+tags: []
+user_id: aasthakhatgarh

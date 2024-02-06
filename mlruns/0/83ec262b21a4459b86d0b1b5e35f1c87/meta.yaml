@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/83ec262b21a4459b86d0b1b5e35f1c87/artifacts
+end_time: 1707185498555
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 83ec262b21a4459b86d0b1b5e35f1c87
+run_name: lyrical-goose-170
+run_uuid: 83ec262b21a4459b86d0b1b5e35f1c87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185498509
+status: 3
+tags: []
+user_id: aasthakhatgarh

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/3068a3f7b4ca4949a8f7fd95dda9ac14/artifacts
+end_time: 1707185527412
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3068a3f7b4ca4949a8f7fd95dda9ac14
+run_name: auspicious-trout-165
+run_uuid: 3068a3f7b4ca4949a8f7fd95dda9ac14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185527359
+status: 3
+tags: []
+user_id: aasthakhatgarh

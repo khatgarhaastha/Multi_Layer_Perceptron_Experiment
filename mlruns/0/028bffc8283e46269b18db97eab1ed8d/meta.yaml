@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/028bffc8283e46269b18db97eab1ed8d/artifacts
+end_time: 1707181361836
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 028bffc8283e46269b18db97eab1ed8d
+run_name: selective-shoat-539
+run_uuid: 028bffc8283e46269b18db97eab1ed8d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707181361800
+status: 3
+tags: []
+user_id: aasthakhatgarh

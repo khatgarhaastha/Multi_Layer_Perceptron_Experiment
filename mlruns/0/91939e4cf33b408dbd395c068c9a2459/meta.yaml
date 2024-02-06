@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/91939e4cf33b408dbd395c068c9a2459/artifacts
+end_time: 1707185632051
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 91939e4cf33b408dbd395c068c9a2459
+run_name: dapper-mink-883
+run_uuid: 91939e4cf33b408dbd395c068c9a2459
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185632019
+status: 3
+tags: []
+user_id: aasthakhatgarh

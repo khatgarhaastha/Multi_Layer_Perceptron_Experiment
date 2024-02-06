@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/ea6d0594fb874843ab4401cc40c26e31/artifacts
+end_time: 1707184974631
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ea6d0594fb874843ab4401cc40c26e31
+run_name: agreeable-seal-456
+run_uuid: ea6d0594fb874843ab4401cc40c26e31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184974476
+status: 3
+tags: []
+user_id: aasthakhatgarh

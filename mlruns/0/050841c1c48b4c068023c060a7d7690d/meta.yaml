@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/050841c1c48b4c068023c060a7d7690d/artifacts
+end_time: 1707181363105
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 050841c1c48b4c068023c060a7d7690d
+run_name: merciful-dog-775
+run_uuid: 050841c1c48b4c068023c060a7d7690d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707181363077
+status: 3
+tags: []
+user_id: aasthakhatgarh

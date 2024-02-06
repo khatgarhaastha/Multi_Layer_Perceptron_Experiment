@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/fe355abb54ac4064bbf111ab68111bee/artifacts
+end_time: 1707185592882
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fe355abb54ac4064bbf111ab68111bee
+run_name: clean-doe-522
+run_uuid: fe355abb54ac4064bbf111ab68111bee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185592863
+status: 3
+tags: []
+user_id: aasthakhatgarh

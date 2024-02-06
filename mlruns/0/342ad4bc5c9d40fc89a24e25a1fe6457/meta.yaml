@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/342ad4bc5c9d40fc89a24e25a1fe6457/artifacts
+end_time: 1707185494606
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 342ad4bc5c9d40fc89a24e25a1fe6457
+run_name: unleashed-kit-220
+run_uuid: 342ad4bc5c9d40fc89a24e25a1fe6457
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185494455
+status: 3
+tags: []
+user_id: aasthakhatgarh

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/8074efacb0f14f05a0cde0efe33559a3/artifacts
+end_time: 1707185646109
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8074efacb0f14f05a0cde0efe33559a3
+run_name: auspicious-ray-506
+run_uuid: 8074efacb0f14f05a0cde0efe33559a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185646033
+status: 3
+tags: []
+user_id: aasthakhatgarh

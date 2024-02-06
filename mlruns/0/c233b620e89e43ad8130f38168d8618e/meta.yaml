@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/c233b620e89e43ad8130f38168d8618e/artifacts
+end_time: 1707185670133
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c233b620e89e43ad8130f38168d8618e
+run_name: luxuriant-perch-51
+run_uuid: c233b620e89e43ad8130f38168d8618e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185670087
+status: 3
+tags: []
+user_id: aasthakhatgarh

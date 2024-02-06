@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/e4e007ec00d14137b396c3a6636b291f/artifacts
+end_time: 1707185520769
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e4e007ec00d14137b396c3a6636b291f
+run_name: illustrious-duck-781
+run_uuid: e4e007ec00d14137b396c3a6636b291f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185520680
+status: 3
+tags: []
+user_id: aasthakhatgarh

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/fe7efd36cbe64899a4b5c9e8c1032d98/artifacts
+end_time: 1707184178719
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fe7efd36cbe64899a4b5c9e8c1032d98
+run_name: gaudy-kite-463
+run_uuid: fe7efd36cbe64899a4b5c9e8c1032d98
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184178696
+status: 3
+tags: []
+user_id: aasthakhatgarh

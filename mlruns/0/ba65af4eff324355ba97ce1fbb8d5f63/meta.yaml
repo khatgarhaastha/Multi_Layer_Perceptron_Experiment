@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/ba65af4eff324355ba97ce1fbb8d5f63/artifacts
+end_time: 1707185498666
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ba65af4eff324355ba97ce1fbb8d5f63
+run_name: traveling-seal-205
+run_uuid: ba65af4eff324355ba97ce1fbb8d5f63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185498580
+status: 3
+tags: []
+user_id: aasthakhatgarh

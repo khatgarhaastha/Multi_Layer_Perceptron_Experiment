@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/b9ee8b1d5fca48989abf5056d3631cac/artifacts
+end_time: 1707184979679
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b9ee8b1d5fca48989abf5056d3631cac
+run_name: polite-asp-45
+run_uuid: b9ee8b1d5fca48989abf5056d3631cac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184979616
+status: 3
+tags: []
+user_id: aasthakhatgarh

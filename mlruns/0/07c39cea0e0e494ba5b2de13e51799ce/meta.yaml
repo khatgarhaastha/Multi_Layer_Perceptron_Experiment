@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/07c39cea0e0e494ba5b2de13e51799ce/artifacts
+end_time: 1707185687311
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 07c39cea0e0e494ba5b2de13e51799ce
+run_name: nebulous-seal-512
+run_uuid: 07c39cea0e0e494ba5b2de13e51799ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185687265
+status: 3
+tags: []
+user_id: aasthakhatgarh

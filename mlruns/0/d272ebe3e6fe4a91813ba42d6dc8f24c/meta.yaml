@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/d272ebe3e6fe4a91813ba42d6dc8f24c/artifacts
+end_time: 1707184182640
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d272ebe3e6fe4a91813ba42d6dc8f24c
+run_name: glamorous-roo-273
+run_uuid: d272ebe3e6fe4a91813ba42d6dc8f24c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184182619
+status: 3
+tags: []
+user_id: aasthakhatgarh

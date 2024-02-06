@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/5704178ffd2143a3b3388e25fe59a8e7/artifacts
+end_time: 1707185664632
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5704178ffd2143a3b3388e25fe59a8e7
+run_name: melodic-midge-246
+run_uuid: 5704178ffd2143a3b3388e25fe59a8e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185664522
+status: 3
+tags: []
+user_id: aasthakhatgarh

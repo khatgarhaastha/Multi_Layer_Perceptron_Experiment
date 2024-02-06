@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/1b2fae19852c445abe6189f031f6364b/artifacts
+end_time: 1707184972826
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1b2fae19852c445abe6189f031f6364b
+run_name: powerful-seal-785
+run_uuid: 1b2fae19852c445abe6189f031f6364b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184972613
+status: 3
+tags: []
+user_id: aasthakhatgarh

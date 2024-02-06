@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/a0bdb8a8b10b4b5598276422ae7a5c41/artifacts
+end_time: 1707185522495
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a0bdb8a8b10b4b5598276422ae7a5c41
+run_name: sneaky-bear-280
+run_uuid: a0bdb8a8b10b4b5598276422ae7a5c41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185522466
+status: 3
+tags: []
+user_id: aasthakhatgarh

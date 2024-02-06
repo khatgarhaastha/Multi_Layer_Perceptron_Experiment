@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/d8b9b89fe7ff4f3683321d801d55be0d/artifacts
+end_time: 1707185687812
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d8b9b89fe7ff4f3683321d801d55be0d
+run_name: kindly-conch-352
+run_uuid: d8b9b89fe7ff4f3683321d801d55be0d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185687754
+status: 3
+tags: []
+user_id: aasthakhatgarh

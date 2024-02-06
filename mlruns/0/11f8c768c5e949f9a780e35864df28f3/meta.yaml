@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/11f8c768c5e949f9a780e35864df28f3/artifacts
+end_time: 1707184977224
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 11f8c768c5e949f9a780e35864df28f3
+run_name: silent-bee-420
+run_uuid: 11f8c768c5e949f9a780e35864df28f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184977190
+status: 3
+tags: []
+user_id: aasthakhatgarh

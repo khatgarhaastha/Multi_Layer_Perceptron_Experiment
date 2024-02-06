@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/679b5c7e987a4c69931d403cb8a30197/artifacts
+end_time: 1707185647710
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 679b5c7e987a4c69931d403cb8a30197
+run_name: upbeat-panda-185
+run_uuid: 679b5c7e987a4c69931d403cb8a30197
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185647680
+status: 3
+tags: []
+user_id: aasthakhatgarh

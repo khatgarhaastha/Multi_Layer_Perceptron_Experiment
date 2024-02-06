@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/fa352e39911141488ac1088b60b38c82/artifacts
+end_time: 1707185686976
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fa352e39911141488ac1088b60b38c82
+run_name: judicious-eel-917
+run_uuid: fa352e39911141488ac1088b60b38c82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185686938
+status: 3
+tags: []
+user_id: aasthakhatgarh

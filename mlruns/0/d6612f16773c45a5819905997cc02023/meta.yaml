@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/d6612f16773c45a5819905997cc02023/artifacts
+end_time: 1707185648946
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d6612f16773c45a5819905997cc02023
+run_name: lyrical-penguin-824
+run_uuid: d6612f16773c45a5819905997cc02023
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185648907
+status: 3
+tags: []
+user_id: aasthakhatgarh

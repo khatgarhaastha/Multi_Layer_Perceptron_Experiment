@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/e9fa5597c79a4b2f952e130188fc80e4/artifacts
+end_time: 1707181360931
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e9fa5597c79a4b2f952e130188fc80e4
+run_name: grandiose-bass-546
+run_uuid: e9fa5597c79a4b2f952e130188fc80e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707181360874
+status: 3
+tags: []
+user_id: aasthakhatgarh

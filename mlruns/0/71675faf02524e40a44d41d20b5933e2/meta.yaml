@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/71675faf02524e40a44d41d20b5933e2/artifacts
+end_time: 1707185630512
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 71675faf02524e40a44d41d20b5933e2
+run_name: puzzled-eel-273
+run_uuid: 71675faf02524e40a44d41d20b5933e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185630472
+status: 3
+tags: []
+user_id: aasthakhatgarh

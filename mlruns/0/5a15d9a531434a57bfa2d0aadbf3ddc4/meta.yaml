@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/5a15d9a531434a57bfa2d0aadbf3ddc4/artifacts
+end_time: 1707185650387
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5a15d9a531434a57bfa2d0aadbf3ddc4
+run_name: gifted-kit-715
+run_uuid: 5a15d9a531434a57bfa2d0aadbf3ddc4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185650332
+status: 3
+tags: []
+user_id: aasthakhatgarh

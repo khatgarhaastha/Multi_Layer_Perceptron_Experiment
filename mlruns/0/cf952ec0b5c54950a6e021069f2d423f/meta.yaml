@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/cf952ec0b5c54950a6e021069f2d423f/artifacts
+end_time: 1707184180174
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cf952ec0b5c54950a6e021069f2d423f
+run_name: upset-sloth-2
+run_uuid: cf952ec0b5c54950a6e021069f2d423f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184180091
+status: 3
+tags: []
+user_id: aasthakhatgarh

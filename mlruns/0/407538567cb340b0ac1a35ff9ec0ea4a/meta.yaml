@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/407538567cb340b0ac1a35ff9ec0ea4a/artifacts
+end_time: 1707184329731
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 407538567cb340b0ac1a35ff9ec0ea4a
+run_name: victorious-panda-39
+run_uuid: 407538567cb340b0ac1a35ff9ec0ea4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184329635
+status: 3
+tags: []
+user_id: aasthakhatgarh

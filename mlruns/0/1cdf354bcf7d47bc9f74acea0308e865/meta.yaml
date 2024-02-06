@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/1cdf354bcf7d47bc9f74acea0308e865/artifacts
+end_time: 1707185669188
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1cdf354bcf7d47bc9f74acea0308e865
+run_name: suave-mink-119
+run_uuid: 1cdf354bcf7d47bc9f74acea0308e865
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185669115
+status: 3
+tags: []
+user_id: aasthakhatgarh

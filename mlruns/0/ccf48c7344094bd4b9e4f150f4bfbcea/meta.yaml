@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/ccf48c7344094bd4b9e4f150f4bfbcea/artifacts
+end_time: 1707185521885
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ccf48c7344094bd4b9e4f150f4bfbcea
+run_name: suave-lynx-152
+run_uuid: ccf48c7344094bd4b9e4f150f4bfbcea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185521835
+status: 3
+tags: []
+user_id: aasthakhatgarh

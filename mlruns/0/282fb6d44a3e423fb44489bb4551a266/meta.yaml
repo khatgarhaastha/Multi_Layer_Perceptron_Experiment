@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/282fb6d44a3e423fb44489bb4551a266/artifacts
+end_time: 1707185650052
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 282fb6d44a3e423fb44489bb4551a266
+run_name: flawless-asp-493
+run_uuid: 282fb6d44a3e423fb44489bb4551a266
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185649956
+status: 3
+tags: []
+user_id: aasthakhatgarh

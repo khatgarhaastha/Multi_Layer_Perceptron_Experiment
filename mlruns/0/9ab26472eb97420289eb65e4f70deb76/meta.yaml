@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/9ab26472eb97420289eb65e4f70deb76/artifacts
+end_time: 1707184181033
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9ab26472eb97420289eb65e4f70deb76
+run_name: nimble-conch-119
+run_uuid: 9ab26472eb97420289eb65e4f70deb76
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184180996
+status: 3
+tags: []
+user_id: aasthakhatgarh

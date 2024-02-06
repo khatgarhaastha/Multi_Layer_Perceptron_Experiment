@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/11882fa5691f462d966b8de92c22b75e/artifacts
+end_time: 1707185652115
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 11882fa5691f462d966b8de92c22b75e
+run_name: bemused-hound-4
+run_uuid: 11882fa5691f462d966b8de92c22b75e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185652085
+status: 3
+tags: []
+user_id: aasthakhatgarh

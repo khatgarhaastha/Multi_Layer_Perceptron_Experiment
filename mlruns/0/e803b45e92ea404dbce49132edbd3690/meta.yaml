@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/e803b45e92ea404dbce49132edbd3690/artifacts
+end_time: 1707185684035
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e803b45e92ea404dbce49132edbd3690
+run_name: stylish-mule-881
+run_uuid: e803b45e92ea404dbce49132edbd3690
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185683976
+status: 3
+tags: []
+user_id: aasthakhatgarh

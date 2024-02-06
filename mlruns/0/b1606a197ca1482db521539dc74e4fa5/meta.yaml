@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/b1606a197ca1482db521539dc74e4fa5/artifacts
+end_time: 1707185687032
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b1606a197ca1482db521539dc74e4fa5
+run_name: bouncy-foal-555
+run_uuid: b1606a197ca1482db521539dc74e4fa5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185686988
+status: 3
+tags: []
+user_id: aasthakhatgarh

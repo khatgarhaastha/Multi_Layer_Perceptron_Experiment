@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/aaf0fb198b6c4ab3a43a9c7f3c3afa60/artifacts
+end_time: 1707185670874
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aaf0fb198b6c4ab3a43a9c7f3c3afa60
+run_name: unequaled-goose-905
+run_uuid: aaf0fb198b6c4ab3a43a9c7f3c3afa60
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185670810
+status: 3
+tags: []
+user_id: aasthakhatgarh

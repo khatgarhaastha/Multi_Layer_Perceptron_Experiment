@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/c847db38af7f4d5c8e1a444d6c1b9078/artifacts
+end_time: 1707185544128
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c847db38af7f4d5c8e1a444d6c1b9078
+run_name: smiling-quail-198
+run_uuid: c847db38af7f4d5c8e1a444d6c1b9078
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185544084
+status: 3
+tags: []
+user_id: aasthakhatgarh

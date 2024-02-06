@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/f7c3272296934f8da62bd511d74cf062/artifacts
+end_time: 1707185667631
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f7c3272296934f8da62bd511d74cf062
+run_name: adaptable-trout-350
+run_uuid: f7c3272296934f8da62bd511d74cf062
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185667567
+status: 3
+tags: []
+user_id: aasthakhatgarh

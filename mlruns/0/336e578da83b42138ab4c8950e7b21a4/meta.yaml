@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/336e578da83b42138ab4c8950e7b21a4/artifacts
+end_time: 1707184178344
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 336e578da83b42138ab4c8950e7b21a4
+run_name: casual-shrike-109
+run_uuid: 336e578da83b42138ab4c8950e7b21a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184178055
+status: 3
+tags: []
+user_id: aasthakhatgarh

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/24e967920de74f648621619fbf9c3e74/artifacts
+end_time: 1707185648494
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 24e967920de74f648621619fbf9c3e74
+run_name: powerful-zebra-538
+run_uuid: 24e967920de74f648621619fbf9c3e74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185648444
+status: 3
+tags: []
+user_id: aasthakhatgarh

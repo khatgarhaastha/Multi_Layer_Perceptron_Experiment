@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/8fc88bc103004f70a4f2fc0ec09548cc/artifacts
+end_time: 1707181363035
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8fc88bc103004f70a4f2fc0ec09548cc
+run_name: judicious-whale-372
+run_uuid: 8fc88bc103004f70a4f2fc0ec09548cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707181362998
+status: 3
+tags: []
+user_id: aasthakhatgarh

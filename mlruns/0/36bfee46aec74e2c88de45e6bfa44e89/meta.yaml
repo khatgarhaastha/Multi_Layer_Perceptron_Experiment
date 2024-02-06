@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/36bfee46aec74e2c88de45e6bfa44e89/artifacts
+end_time: 1707185552962
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 36bfee46aec74e2c88de45e6bfa44e89
+run_name: efficient-whale-742
+run_uuid: 36bfee46aec74e2c88de45e6bfa44e89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185552909
+status: 3
+tags: []
+user_id: aasthakhatgarh

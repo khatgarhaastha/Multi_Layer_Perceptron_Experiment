@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/b054235eb3ba44d7bb10f327ef0fa230/artifacts
+end_time: 1707181363387
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b054235eb3ba44d7bb10f327ef0fa230
+run_name: selective-shark-915
+run_uuid: b054235eb3ba44d7bb10f327ef0fa230
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707181363359
+status: 3
+tags: []
+user_id: aasthakhatgarh

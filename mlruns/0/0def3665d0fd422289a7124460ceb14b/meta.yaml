@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/0def3665d0fd422289a7124460ceb14b/artifacts
+end_time: 1707185646479
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0def3665d0fd422289a7124460ceb14b
+run_name: marvelous-mare-914
+run_uuid: 0def3665d0fd422289a7124460ceb14b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185646415
+status: 3
+tags: []
+user_id: aasthakhatgarh

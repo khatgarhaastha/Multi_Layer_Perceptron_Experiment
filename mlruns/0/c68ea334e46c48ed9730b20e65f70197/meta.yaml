@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/c68ea334e46c48ed9730b20e65f70197/artifacts
+end_time: 1707184327777
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c68ea334e46c48ed9730b20e65f70197
+run_name: likeable-cub-311
+run_uuid: c68ea334e46c48ed9730b20e65f70197
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184327724
+status: 3
+tags: []
+user_id: aasthakhatgarh

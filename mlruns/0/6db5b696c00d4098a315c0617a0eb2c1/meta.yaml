@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/6db5b696c00d4098a315c0617a0eb2c1/artifacts
+end_time: 1707185555569
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6db5b696c00d4098a315c0617a0eb2c1
+run_name: handsome-turtle-954
+run_uuid: 6db5b696c00d4098a315c0617a0eb2c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185555284
+status: 3
+tags: []
+user_id: aasthakhatgarh

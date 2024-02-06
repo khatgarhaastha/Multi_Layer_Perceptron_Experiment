@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/2c91820c5a84469ca3d48bcfb63262bc/artifacts
+end_time: 1707185573717
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2c91820c5a84469ca3d48bcfb63262bc
+run_name: loud-roo-732
+run_uuid: 2c91820c5a84469ca3d48bcfb63262bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185573633
+status: 3
+tags: []
+user_id: aasthakhatgarh

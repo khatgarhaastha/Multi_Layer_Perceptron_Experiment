@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/637b7488a92a4429946f29cd5feb930e/artifacts
+end_time: 1707184327607
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 637b7488a92a4429946f29cd5feb930e
+run_name: defiant-vole-137
+run_uuid: 637b7488a92a4429946f29cd5feb930e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184327579
+status: 3
+tags: []
+user_id: aasthakhatgarh

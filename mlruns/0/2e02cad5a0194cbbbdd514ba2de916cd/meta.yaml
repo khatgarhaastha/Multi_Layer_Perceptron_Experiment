@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/2e02cad5a0194cbbbdd514ba2de916cd/artifacts
+end_time: 1707185554016
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2e02cad5a0194cbbbdd514ba2de916cd
+run_name: nosy-snail-298
+run_uuid: 2e02cad5a0194cbbbdd514ba2de916cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185553957
+status: 3
+tags: []
+user_id: aasthakhatgarh

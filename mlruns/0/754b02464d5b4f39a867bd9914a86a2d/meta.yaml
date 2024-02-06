@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/754b02464d5b4f39a867bd9914a86a2d/artifacts
+end_time: 1707184971972
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 754b02464d5b4f39a867bd9914a86a2d
+run_name: fun-gull-108
+run_uuid: 754b02464d5b4f39a867bd9914a86a2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184971950
+status: 3
+tags: []
+user_id: aasthakhatgarh

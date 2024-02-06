@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/11ca11f68fd045ea84e4569ac9c954e8/artifacts
+end_time: 1707185668651
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 11ca11f68fd045ea84e4569ac9c954e8
+run_name: nosy-grub-469
+run_uuid: 11ca11f68fd045ea84e4569ac9c954e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185668607
+status: 3
+tags: []
+user_id: aasthakhatgarh

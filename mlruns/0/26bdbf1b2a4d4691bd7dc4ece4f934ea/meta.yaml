@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/26bdbf1b2a4d4691bd7dc4ece4f934ea/artifacts
+end_time: 1707185683831
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 26bdbf1b2a4d4691bd7dc4ece4f934ea
+run_name: youthful-dove-388
+run_uuid: 26bdbf1b2a4d4691bd7dc4ece4f934ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185683773
+status: 3
+tags: []
+user_id: aasthakhatgarh

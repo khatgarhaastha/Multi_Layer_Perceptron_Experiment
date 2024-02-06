@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/b584b222a01e45eb8284665b383ee199/artifacts
+end_time: 1707185688092
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b584b222a01e45eb8284665b383ee199
+run_name: worried-bear-785
+run_uuid: b584b222a01e45eb8284665b383ee199
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185688035
+status: 3
+tags: []
+user_id: aasthakhatgarh

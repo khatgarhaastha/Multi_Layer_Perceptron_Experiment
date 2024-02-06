@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/78323e1800954a4d8266b7e8a42fbe49/artifacts
+end_time: 1707185499253
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 78323e1800954a4d8266b7e8a42fbe49
+run_name: handsome-yak-197
+run_uuid: 78323e1800954a4d8266b7e8a42fbe49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185499222
+status: 3
+tags: []
+user_id: aasthakhatgarh

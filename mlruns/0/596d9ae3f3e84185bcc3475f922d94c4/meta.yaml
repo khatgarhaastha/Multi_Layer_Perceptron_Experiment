@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/596d9ae3f3e84185bcc3475f922d94c4/artifacts
+end_time: 1707185687559
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 596d9ae3f3e84185bcc3475f922d94c4
+run_name: stylish-cub-225
+run_uuid: 596d9ae3f3e84185bcc3475f922d94c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185687514
+status: 3
+tags: []
+user_id: aasthakhatgarh

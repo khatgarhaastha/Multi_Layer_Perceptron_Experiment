@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/f5fef45153e7485eb5d2140d37d7a2ae/artifacts
+end_time: 1707185548749
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f5fef45153e7485eb5d2140d37d7a2ae
+run_name: chill-bear-978
+run_uuid: f5fef45153e7485eb5d2140d37d7a2ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185548680
+status: 3
+tags: []
+user_id: aasthakhatgarh

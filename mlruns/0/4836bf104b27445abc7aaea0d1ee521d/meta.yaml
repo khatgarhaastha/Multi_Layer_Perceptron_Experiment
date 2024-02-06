@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/4836bf104b27445abc7aaea0d1ee521d/artifacts
+end_time: 1707184331858
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4836bf104b27445abc7aaea0d1ee521d
+run_name: brawny-sponge-765
+run_uuid: 4836bf104b27445abc7aaea0d1ee521d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184331833
+status: 3
+tags: []
+user_id: aasthakhatgarh

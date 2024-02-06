@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/370003eadbac4777a45b2f336e1eb4d2/artifacts
+end_time: 1707184973635
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 370003eadbac4777a45b2f336e1eb4d2
+run_name: omniscient-horse-133
+run_uuid: 370003eadbac4777a45b2f336e1eb4d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184973369
+status: 3
+tags: []
+user_id: aasthakhatgarh

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/541d654936a446c4b605967f0896c954/artifacts
+end_time: 1707181364625
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 541d654936a446c4b605967f0896c954
+run_name: masked-snake-398
+run_uuid: 541d654936a446c4b605967f0896c954
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707181364575
+status: 3
+tags: []
+user_id: aasthakhatgarh

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/d2207dd68c754453adcad66364d25075/artifacts
+end_time: 1707185683590
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d2207dd68c754453adcad66364d25075
+run_name: charming-mule-493
+run_uuid: d2207dd68c754453adcad66364d25075
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185683528
+status: 3
+tags: []
+user_id: aasthakhatgarh

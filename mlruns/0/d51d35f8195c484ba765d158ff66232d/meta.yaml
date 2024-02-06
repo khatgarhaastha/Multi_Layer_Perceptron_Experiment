@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/d51d35f8195c484ba765d158ff66232d/artifacts
+end_time: 1707185550750
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d51d35f8195c484ba765d158ff66232d
+run_name: upset-turtle-20
+run_uuid: d51d35f8195c484ba765d158ff66232d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185550688
+status: 3
+tags: []
+user_id: aasthakhatgarh

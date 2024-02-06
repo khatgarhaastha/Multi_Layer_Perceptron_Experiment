@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/2c3601aee850415698f8a50eb3879ced/artifacts
+end_time: 1707185592362
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2c3601aee850415698f8a50eb3879ced
+run_name: shivering-mouse-689
+run_uuid: 2c3601aee850415698f8a50eb3879ced
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185592324
+status: 3
+tags: []
+user_id: aasthakhatgarh

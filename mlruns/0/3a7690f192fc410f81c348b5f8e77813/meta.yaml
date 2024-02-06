@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/3a7690f192fc410f81c348b5f8e77813/artifacts
+end_time: 1707181365662
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3a7690f192fc410f81c348b5f8e77813
+run_name: nebulous-gnat-96
+run_uuid: 3a7690f192fc410f81c348b5f8e77813
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707181365607
+status: 3
+tags: []
+user_id: aasthakhatgarh

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/06605f9451114d1686ebc7f22f2e6fab/artifacts
+end_time: 1707185668120
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 06605f9451114d1686ebc7f22f2e6fab
+run_name: fun-asp-263
+run_uuid: 06605f9451114d1686ebc7f22f2e6fab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185668088
+status: 3
+tags: []
+user_id: aasthakhatgarh

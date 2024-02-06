@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/b4bb8d6f8fda4cb4912c7d316ceb89c9/artifacts
+end_time: 1707184328529
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b4bb8d6f8fda4cb4912c7d316ceb89c9
+run_name: sedate-fish-316
+run_uuid: b4bb8d6f8fda4cb4912c7d316ceb89c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184328491
+status: 3
+tags: []
+user_id: aasthakhatgarh

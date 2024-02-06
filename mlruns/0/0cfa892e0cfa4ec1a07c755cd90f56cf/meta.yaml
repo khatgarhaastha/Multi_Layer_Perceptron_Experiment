@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/0cfa892e0cfa4ec1a07c755cd90f56cf/artifacts
+end_time: 1707184329175
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0cfa892e0cfa4ec1a07c755cd90f56cf
+run_name: fearless-ox-586
+run_uuid: 0cfa892e0cfa4ec1a07c755cd90f56cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184329149
+status: 3
+tags: []
+user_id: aasthakhatgarh

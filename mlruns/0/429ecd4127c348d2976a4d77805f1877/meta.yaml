@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/429ecd4127c348d2976a4d77805f1877/artifacts
+end_time: 1707185650319
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 429ecd4127c348d2976a4d77805f1877
+run_name: efficient-lark-624
+run_uuid: 429ecd4127c348d2976a4d77805f1877
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185650256
+status: 3
+tags: []
+user_id: aasthakhatgarh

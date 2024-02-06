@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/e59f497e84794af0ab89dcb2550cec6f/artifacts
+end_time: 1707185588570
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e59f497e84794af0ab89dcb2550cec6f
+run_name: omniscient-elk-31
+run_uuid: e59f497e84794af0ab89dcb2550cec6f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185588520
+status: 3
+tags: []
+user_id: aasthakhatgarh

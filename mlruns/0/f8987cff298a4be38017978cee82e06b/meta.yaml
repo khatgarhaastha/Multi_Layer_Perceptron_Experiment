@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/f8987cff298a4be38017978cee82e06b/artifacts
+end_time: 1707184331606
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f8987cff298a4be38017978cee82e06b
+run_name: able-dolphin-388
+run_uuid: f8987cff298a4be38017978cee82e06b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184331544
+status: 3
+tags: []
+user_id: aasthakhatgarh

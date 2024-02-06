@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/b324565bd0aa4080a39185aa564edfa9/artifacts
+end_time: 1707184328628
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b324565bd0aa4080a39185aa564edfa9
+run_name: spiffy-foal-61
+run_uuid: b324565bd0aa4080a39185aa564edfa9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184328599
+status: 3
+tags: []
+user_id: aasthakhatgarh

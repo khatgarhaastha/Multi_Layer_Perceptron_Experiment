@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/885d8929f90241139530e631a20a5e7c/artifacts
+end_time: 1707181362461
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 885d8929f90241139530e631a20a5e7c
+run_name: smiling-smelt-994
+run_uuid: 885d8929f90241139530e631a20a5e7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707181362402
+status: 3
+tags: []
+user_id: aasthakhatgarh

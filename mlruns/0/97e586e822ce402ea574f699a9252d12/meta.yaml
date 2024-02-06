@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/97e586e822ce402ea574f699a9252d12/artifacts
+end_time: 1707185545098
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 97e586e822ce402ea574f699a9252d12
+run_name: delightful-pug-869
+run_uuid: 97e586e822ce402ea574f699a9252d12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185544496
+status: 3
+tags: []
+user_id: aasthakhatgarh

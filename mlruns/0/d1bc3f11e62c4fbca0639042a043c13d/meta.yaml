@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/d1bc3f11e62c4fbca0639042a043c13d/artifacts
+end_time: 1707185592015
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d1bc3f11e62c4fbca0639042a043c13d
+run_name: likeable-dolphin-61
+run_uuid: d1bc3f11e62c4fbca0639042a043c13d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185591985
+status: 3
+tags: []
+user_id: aasthakhatgarh

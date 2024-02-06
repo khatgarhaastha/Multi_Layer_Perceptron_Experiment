@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/ffd6dc88d19a4a81a50c9d9aeff24a5e/artifacts
+end_time: 1707185668723
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ffd6dc88d19a4a81a50c9d9aeff24a5e
+run_name: stylish-sheep-35
+run_uuid: ffd6dc88d19a4a81a50c9d9aeff24a5e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185668662
+status: 3
+tags: []
+user_id: aasthakhatgarh

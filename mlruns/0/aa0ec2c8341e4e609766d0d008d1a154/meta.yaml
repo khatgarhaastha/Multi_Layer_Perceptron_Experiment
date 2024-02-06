@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/aa0ec2c8341e4e609766d0d008d1a154/artifacts
+end_time: 1707185552156
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aa0ec2c8341e4e609766d0d008d1a154
+run_name: adventurous-ant-144
+run_uuid: aa0ec2c8341e4e609766d0d008d1a154
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185552122
+status: 3
+tags: []
+user_id: aasthakhatgarh

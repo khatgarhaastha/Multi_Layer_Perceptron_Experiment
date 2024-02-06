@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/17e7d1fe7d574b5392c99bb32ebc764c/artifacts
+end_time: 1707185493478
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 17e7d1fe7d574b5392c99bb32ebc764c
+run_name: mercurial-perch-245
+run_uuid: 17e7d1fe7d574b5392c99bb32ebc764c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185493423
+status: 3
+tags: []
+user_id: aasthakhatgarh

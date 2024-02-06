@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/ca12f4bf65584d8986189e36853b77c7/artifacts
+end_time: 1707185587316
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ca12f4bf65584d8986189e36853b77c7
+run_name: rogue-eel-705
+run_uuid: ca12f4bf65584d8986189e36853b77c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185587239
+status: 3
+tags: []
+user_id: aasthakhatgarh

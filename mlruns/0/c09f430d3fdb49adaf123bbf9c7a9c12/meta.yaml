@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/c09f430d3fdb49adaf123bbf9c7a9c12/artifacts
+end_time: 1707184183308
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c09f430d3fdb49adaf123bbf9c7a9c12
+run_name: invincible-crab-863
+run_uuid: c09f430d3fdb49adaf123bbf9c7a9c12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184183282
+status: 3
+tags: []
+user_id: aasthakhatgarh

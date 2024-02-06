@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/bf4527add3c84a148f14558dfcc50135/artifacts
+end_time: 1707185647670
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bf4527add3c84a148f14558dfcc50135
+run_name: painted-koi-53
+run_uuid: bf4527add3c84a148f14558dfcc50135
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185647636
+status: 3
+tags: []
+user_id: aasthakhatgarh

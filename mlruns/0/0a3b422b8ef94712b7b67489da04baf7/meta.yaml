@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/0a3b422b8ef94712b7b67489da04baf7/artifacts
+end_time: 1707185521559
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0a3b422b8ef94712b7b67489da04baf7
+run_name: bright-duck-501
+run_uuid: 0a3b422b8ef94712b7b67489da04baf7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185521527
+status: 3
+tags: []
+user_id: aasthakhatgarh

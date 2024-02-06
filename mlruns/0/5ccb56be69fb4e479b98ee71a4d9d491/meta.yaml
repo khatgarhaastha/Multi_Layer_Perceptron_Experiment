@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/5ccb56be69fb4e479b98ee71a4d9d491/artifacts
+end_time: 1707185633184
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5ccb56be69fb4e479b98ee71a4d9d491
+run_name: crawling-whale-906
+run_uuid: 5ccb56be69fb4e479b98ee71a4d9d491
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185633146
+status: 3
+tags: []
+user_id: aasthakhatgarh

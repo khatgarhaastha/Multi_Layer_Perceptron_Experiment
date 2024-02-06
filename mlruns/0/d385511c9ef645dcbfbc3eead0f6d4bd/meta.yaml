@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/d385511c9ef645dcbfbc3eead0f6d4bd/artifacts
+end_time: 1707184971419
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d385511c9ef645dcbfbc3eead0f6d4bd
+run_name: capricious-conch-152
+run_uuid: d385511c9ef645dcbfbc3eead0f6d4bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184971371
+status: 3
+tags: []
+user_id: aasthakhatgarh

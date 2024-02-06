@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/f548f5109c2045e49fd655c4d3480c79/artifacts
+end_time: 1707185574956
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f548f5109c2045e49fd655c4d3480c79
+run_name: kindly-fowl-816
+run_uuid: f548f5109c2045e49fd655c4d3480c79
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185574873
+status: 3
+tags: []
+user_id: aasthakhatgarh

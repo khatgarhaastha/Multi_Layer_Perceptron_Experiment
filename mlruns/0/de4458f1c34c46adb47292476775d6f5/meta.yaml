@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/de4458f1c34c46adb47292476775d6f5/artifacts
+end_time: 1707185684330
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: de4458f1c34c46adb47292476775d6f5
+run_name: marvelous-duck-665
+run_uuid: de4458f1c34c46adb47292476775d6f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185684266
+status: 3
+tags: []
+user_id: aasthakhatgarh

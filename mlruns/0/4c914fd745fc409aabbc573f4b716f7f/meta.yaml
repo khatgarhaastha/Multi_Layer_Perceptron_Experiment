@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/4c914fd745fc409aabbc573f4b716f7f/artifacts
+end_time: 1707185545183
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4c914fd745fc409aabbc573f4b716f7f
+run_name: gaudy-crab-358
+run_uuid: 4c914fd745fc409aabbc573f4b716f7f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185545104
+status: 3
+tags: []
+user_id: aasthakhatgarh

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/88ffc6d915c6451c950f18e44987f888/artifacts
+end_time: 1707181365169
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 88ffc6d915c6451c950f18e44987f888
+run_name: exultant-steed-313
+run_uuid: 88ffc6d915c6451c950f18e44987f888
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707181365132
+status: 3
+tags: []
+user_id: aasthakhatgarh

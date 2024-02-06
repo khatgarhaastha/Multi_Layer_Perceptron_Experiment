@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/f1a9819bc4fe40b3b6d9595fecccab92/artifacts
+end_time: 1707184969836
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f1a9819bc4fe40b3b6d9595fecccab92
+run_name: exultant-whale-142
+run_uuid: f1a9819bc4fe40b3b6d9595fecccab92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184969785
+status: 3
+tags: []
+user_id: aasthakhatgarh

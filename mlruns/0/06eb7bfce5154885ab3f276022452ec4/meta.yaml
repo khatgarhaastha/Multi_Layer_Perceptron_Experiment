@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/06eb7bfce5154885ab3f276022452ec4/artifacts
+end_time: 1707184181703
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 06eb7bfce5154885ab3f276022452ec4
+run_name: merciful-whale-55
+run_uuid: 06eb7bfce5154885ab3f276022452ec4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184181622
+status: 3
+tags: []
+user_id: aasthakhatgarh

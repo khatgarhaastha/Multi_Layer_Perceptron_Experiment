@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/a83b0fc21adc4f44846ac8ebc967a4d4/artifacts
+end_time: 1707184182325
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a83b0fc21adc4f44846ac8ebc967a4d4
+run_name: secretive-carp-668
+run_uuid: a83b0fc21adc4f44846ac8ebc967a4d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184182292
+status: 3
+tags: []
+user_id: aasthakhatgarh

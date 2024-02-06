@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/28cba006a63742f38b2a754800525782/artifacts
+end_time: 1707185628801
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 28cba006a63742f38b2a754800525782
+run_name: respected-cow-37
+run_uuid: 28cba006a63742f38b2a754800525782
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185628643
+status: 3
+tags: []
+user_id: aasthakhatgarh

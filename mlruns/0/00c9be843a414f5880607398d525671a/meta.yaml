@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/00c9be843a414f5880607398d525671a/artifacts
+end_time: 1707185632094
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 00c9be843a414f5880607398d525671a
+run_name: wise-snail-475
+run_uuid: 00c9be843a414f5880607398d525671a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185632062
+status: 3
+tags: []
+user_id: aasthakhatgarh

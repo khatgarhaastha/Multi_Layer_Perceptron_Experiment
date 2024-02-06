@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/8ec87d4a22ed41deb43dbe5d6696b351/artifacts
+end_time: 1707181363682
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8ec87d4a22ed41deb43dbe5d6696b351
+run_name: glamorous-shoat-917
+run_uuid: 8ec87d4a22ed41deb43dbe5d6696b351
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707181363611
+status: 3
+tags: []
+user_id: aasthakhatgarh

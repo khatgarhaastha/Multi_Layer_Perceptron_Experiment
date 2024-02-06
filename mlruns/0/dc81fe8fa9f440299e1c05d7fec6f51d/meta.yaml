@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/dc81fe8fa9f440299e1c05d7fec6f51d/artifacts
+end_time: 1707184181401
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dc81fe8fa9f440299e1c05d7fec6f51d
+run_name: lyrical-lamb-945
+run_uuid: dc81fe8fa9f440299e1c05d7fec6f51d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184181373
+status: 3
+tags: []
+user_id: aasthakhatgarh

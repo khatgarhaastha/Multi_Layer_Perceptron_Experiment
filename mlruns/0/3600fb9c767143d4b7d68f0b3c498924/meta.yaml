@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/3600fb9c767143d4b7d68f0b3c498924/artifacts
+end_time: 1707185577791
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3600fb9c767143d4b7d68f0b3c498924
+run_name: casual-stork-920
+run_uuid: 3600fb9c767143d4b7d68f0b3c498924
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185577744
+status: 3
+tags: []
+user_id: aasthakhatgarh

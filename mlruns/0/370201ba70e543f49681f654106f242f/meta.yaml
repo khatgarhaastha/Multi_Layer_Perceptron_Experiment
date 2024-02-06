@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/370201ba70e543f49681f654106f242f/artifacts
+end_time: 1707181365770
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 370201ba70e543f49681f654106f242f
+run_name: resilient-hawk-952
+run_uuid: 370201ba70e543f49681f654106f242f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707181365725
+status: 3
+tags: []
+user_id: aasthakhatgarh

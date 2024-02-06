@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/d6dff54b96a3417b89e49e1661ccffee/artifacts
+end_time: 1707185651039
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d6dff54b96a3417b89e49e1661ccffee
+run_name: stylish-kite-412
+run_uuid: d6dff54b96a3417b89e49e1661ccffee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185651011
+status: 3
+tags: []
+user_id: aasthakhatgarh

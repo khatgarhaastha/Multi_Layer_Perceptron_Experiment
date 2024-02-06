@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/e9906ff01ecc4b2ea7dec24a1dda9b32/artifacts
+end_time: 1707185525275
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e9906ff01ecc4b2ea7dec24a1dda9b32
+run_name: monumental-gnat-823
+run_uuid: e9906ff01ecc4b2ea7dec24a1dda9b32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185525196
+status: 3
+tags: []
+user_id: aasthakhatgarh

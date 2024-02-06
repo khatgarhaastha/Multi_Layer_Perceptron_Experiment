@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/86964bff5354447a805d5e09b6d19874/artifacts
+end_time: 1707185688161
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 86964bff5354447a805d5e09b6d19874
+run_name: bittersweet-deer-472
+run_uuid: 86964bff5354447a805d5e09b6d19874
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185688105
+status: 3
+tags: []
+user_id: aasthakhatgarh

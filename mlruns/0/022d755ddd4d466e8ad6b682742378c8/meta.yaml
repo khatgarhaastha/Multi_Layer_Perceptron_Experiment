@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/022d755ddd4d466e8ad6b682742378c8/artifacts
+end_time: 1707181361114
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 022d755ddd4d466e8ad6b682742378c8
+run_name: nervous-fish-675
+run_uuid: 022d755ddd4d466e8ad6b682742378c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707181361079
+status: 3
+tags: []
+user_id: aasthakhatgarh

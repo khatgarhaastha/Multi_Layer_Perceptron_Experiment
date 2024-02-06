@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/62b417ef8e0240fd86a6224a7e75edcb/artifacts
+end_time: 1707185519590
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 62b417ef8e0240fd86a6224a7e75edcb
+run_name: righteous-squid-129
+run_uuid: 62b417ef8e0240fd86a6224a7e75edcb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185519520
+status: 3
+tags: []
+user_id: aasthakhatgarh

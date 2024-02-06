@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/1e52d974eb074733a70c3d2762782cf2/artifacts
+end_time: 1707185666993
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1e52d974eb074733a70c3d2762782cf2
+run_name: smiling-kit-279
+run_uuid: 1e52d974eb074733a70c3d2762782cf2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185666929
+status: 3
+tags: []
+user_id: aasthakhatgarh

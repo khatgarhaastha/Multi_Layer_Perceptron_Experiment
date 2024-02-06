@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/41404f8a84a0441eaf86a5c08f11e6ab/artifacts
+end_time: 1707185576863
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 41404f8a84a0441eaf86a5c08f11e6ab
+run_name: loud-hare-178
+run_uuid: 41404f8a84a0441eaf86a5c08f11e6ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185576791
+status: 3
+tags: []
+user_id: aasthakhatgarh

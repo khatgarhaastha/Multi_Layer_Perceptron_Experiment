@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/b9319d34bdb84f7eb063841e2bb767ee/artifacts
+end_time: 1707185491047
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b9319d34bdb84f7eb063841e2bb767ee
+run_name: upset-hare-638
+run_uuid: b9319d34bdb84f7eb063841e2bb767ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185490729
+status: 3
+tags: []
+user_id: aasthakhatgarh

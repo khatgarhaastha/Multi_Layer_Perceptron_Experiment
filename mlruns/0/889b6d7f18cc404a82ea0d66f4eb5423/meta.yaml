@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/889b6d7f18cc404a82ea0d66f4eb5423/artifacts
+end_time: 1707185570752
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 889b6d7f18cc404a82ea0d66f4eb5423
+run_name: honorable-ram-580
+run_uuid: 889b6d7f18cc404a82ea0d66f4eb5423
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185570683
+status: 3
+tags: []
+user_id: aasthakhatgarh

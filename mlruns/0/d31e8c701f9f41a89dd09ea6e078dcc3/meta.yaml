@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/d31e8c701f9f41a89dd09ea6e078dcc3/artifacts
+end_time: 1707184330143
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d31e8c701f9f41a89dd09ea6e078dcc3
+run_name: nosy-loon-284
+run_uuid: d31e8c701f9f41a89dd09ea6e078dcc3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184330120
+status: 3
+tags: []
+user_id: aasthakhatgarh

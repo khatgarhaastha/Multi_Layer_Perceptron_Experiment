@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/16863a5a9d1d4810bc7b790372cc505c/artifacts
+end_time: 1707185652207
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 16863a5a9d1d4810bc7b790372cc505c
+run_name: invincible-roo-172
+run_uuid: 16863a5a9d1d4810bc7b790372cc505c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185652175
+status: 3
+tags: []
+user_id: aasthakhatgarh

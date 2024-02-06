@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/6c94136fedd248b696f2c546b0f8ae70/artifacts
+end_time: 1707184180644
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6c94136fedd248b696f2c546b0f8ae70
+run_name: unleashed-elk-796
+run_uuid: 6c94136fedd248b696f2c546b0f8ae70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184180619
+status: 3
+tags: []
+user_id: aasthakhatgarh

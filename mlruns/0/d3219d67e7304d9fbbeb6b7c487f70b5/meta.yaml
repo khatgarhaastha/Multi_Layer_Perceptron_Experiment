@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/d3219d67e7304d9fbbeb6b7c487f70b5/artifacts
+end_time: 1707184973193
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d3219d67e7304d9fbbeb6b7c487f70b5
+run_name: enthused-finch-466
+run_uuid: d3219d67e7304d9fbbeb6b7c487f70b5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184973000
+status: 3
+tags: []
+user_id: aasthakhatgarh

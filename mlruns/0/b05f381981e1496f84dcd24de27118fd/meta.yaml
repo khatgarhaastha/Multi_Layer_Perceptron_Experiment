@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/b05f381981e1496f84dcd24de27118fd/artifacts
+end_time: 1707181364491
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b05f381981e1496f84dcd24de27118fd
+run_name: painted-ray-567
+run_uuid: b05f381981e1496f84dcd24de27118fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707181364458
+status: 3
+tags: []
+user_id: aasthakhatgarh

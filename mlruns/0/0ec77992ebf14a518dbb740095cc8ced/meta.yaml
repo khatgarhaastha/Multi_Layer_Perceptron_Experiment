@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/0ec77992ebf14a518dbb740095cc8ced/artifacts
+end_time: 1707185494441
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0ec77992ebf14a518dbb740095cc8ced
+run_name: adaptable-bat-17
+run_uuid: 0ec77992ebf14a518dbb740095cc8ced
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185494378
+status: 3
+tags: []
+user_id: aasthakhatgarh

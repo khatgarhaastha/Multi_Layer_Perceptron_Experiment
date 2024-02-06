@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/4bca00f8950440a4b5b47ad699ce749b/artifacts
+end_time: 1707185553279
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4bca00f8950440a4b5b47ad699ce749b
+run_name: handsome-shrimp-776
+run_uuid: 4bca00f8950440a4b5b47ad699ce749b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185553235
+status: 3
+tags: []
+user_id: aasthakhatgarh

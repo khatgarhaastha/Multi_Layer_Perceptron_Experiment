@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/da9eb17b28eb45c8873260c5a295201b/artifacts
+end_time: 1707184971060
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: da9eb17b28eb45c8873260c5a295201b
+run_name: funny-trout-546
+run_uuid: da9eb17b28eb45c8873260c5a295201b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184970777
+status: 3
+tags: []
+user_id: aasthakhatgarh

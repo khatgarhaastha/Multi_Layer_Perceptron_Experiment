@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/7f8750082da0485f8ace63f179f6f3eb/artifacts
+end_time: 1707184177800
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7f8750082da0485f8ace63f179f6f3eb
+run_name: capable-crab-721
+run_uuid: 7f8750082da0485f8ace63f179f6f3eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184177692
+status: 3
+tags: []
+user_id: aasthakhatgarh

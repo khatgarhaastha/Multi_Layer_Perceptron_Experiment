@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/8de7cbfcd6e644c4a0208125414d1fe2/artifacts
+end_time: 1707185646399
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8de7cbfcd6e644c4a0208125414d1fe2
+run_name: bald-dove-468
+run_uuid: 8de7cbfcd6e644c4a0208125414d1fe2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185646317
+status: 3
+tags: []
+user_id: aasthakhatgarh

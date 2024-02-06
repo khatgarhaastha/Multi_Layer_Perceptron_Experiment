@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/3e68b91cc9724c018ee7f07201bc7bcf/artifacts
+end_time: 1707185525481
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3e68b91cc9724c018ee7f07201bc7bcf
+run_name: auspicious-lark-676
+run_uuid: 3e68b91cc9724c018ee7f07201bc7bcf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185525438
+status: 3
+tags: []
+user_id: aasthakhatgarh

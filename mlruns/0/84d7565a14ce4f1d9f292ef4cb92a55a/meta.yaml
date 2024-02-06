@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/84d7565a14ce4f1d9f292ef4cb92a55a/artifacts
+end_time: 1707185686782
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 84d7565a14ce4f1d9f292ef4cb92a55a
+run_name: salty-shoat-544
+run_uuid: 84d7565a14ce4f1d9f292ef4cb92a55a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185686749
+status: 3
+tags: []
+user_id: aasthakhatgarh

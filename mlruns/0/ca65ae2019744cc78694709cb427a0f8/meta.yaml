@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/ca65ae2019744cc78694709cb427a0f8/artifacts
+end_time: 1707185493642
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ca65ae2019744cc78694709cb427a0f8
+run_name: debonair-midge-198
+run_uuid: ca65ae2019744cc78694709cb427a0f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185493491
+status: 3
+tags: []
+user_id: aasthakhatgarh

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/abe55365141540348d9b6bacbcc0fbcd/artifacts
+end_time: 1707185549440
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: abe55365141540348d9b6bacbcc0fbcd
+run_name: hilarious-ram-305
+run_uuid: abe55365141540348d9b6bacbcc0fbcd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185549366
+status: 3
+tags: []
+user_id: aasthakhatgarh

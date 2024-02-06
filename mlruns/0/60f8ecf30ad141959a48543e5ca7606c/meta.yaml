@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/60f8ecf30ad141959a48543e5ca7606c/artifacts
+end_time: 1707185646641
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 60f8ecf30ad141959a48543e5ca7606c
+run_name: resilient-robin-448
+run_uuid: 60f8ecf30ad141959a48543e5ca7606c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185646573
+status: 3
+tags: []
+user_id: aasthakhatgarh

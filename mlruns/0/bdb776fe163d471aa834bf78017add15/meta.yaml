@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/bdb776fe163d471aa834bf78017add15/artifacts
+end_time: 1707184328198
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bdb776fe163d471aa834bf78017add15
+run_name: welcoming-hare-650
+run_uuid: bdb776fe163d471aa834bf78017add15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184328161
+status: 3
+tags: []
+user_id: aasthakhatgarh

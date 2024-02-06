@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/f8525a81a9144ee4b66fd39fb0d0009f/artifacts
+end_time: 1707185688350
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f8525a81a9144ee4b66fd39fb0d0009f
+run_name: melodic-ram-746
+run_uuid: f8525a81a9144ee4b66fd39fb0d0009f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185688296
+status: 3
+tags: []
+user_id: aasthakhatgarh

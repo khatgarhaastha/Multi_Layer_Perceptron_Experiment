@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/8dd2b519416349619fb921c08f5adabc/artifacts
+end_time: 1707185628034
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8dd2b519416349619fb921c08f5adabc
+run_name: abrasive-hog-45
+run_uuid: 8dd2b519416349619fb921c08f5adabc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185627889
+status: 3
+tags: []
+user_id: aasthakhatgarh

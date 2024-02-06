@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/3c87e63e1022471994f96dbdbcc6794d/artifacts
+end_time: 1707185663884
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3c87e63e1022471994f96dbdbcc6794d
+run_name: adorable-shark-928
+run_uuid: 3c87e63e1022471994f96dbdbcc6794d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185663825
+status: 3
+tags: []
+user_id: aasthakhatgarh

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/fc90025d5f9b423daf5e953805753c40/artifacts
+end_time: 1707185668494
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fc90025d5f9b423daf5e953805753c40
+run_name: fortunate-cat-448
+run_uuid: fc90025d5f9b423daf5e953805753c40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185668453
+status: 3
+tags: []
+user_id: aasthakhatgarh

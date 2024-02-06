@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/092bfdf8832e4aaa98909952752ce285/artifacts
+end_time: 1707185587044
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 092bfdf8832e4aaa98909952752ce285
+run_name: thundering-pug-131
+run_uuid: 092bfdf8832e4aaa98909952752ce285
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185586963
+status: 3
+tags: []
+user_id: aasthakhatgarh

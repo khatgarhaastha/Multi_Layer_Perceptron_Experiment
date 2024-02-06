@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/ca1eadff0741451a96a8341524cc061c/artifacts
+end_time: 1707185550677
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ca1eadff0741451a96a8341524cc061c
+run_name: burly-dolphin-774
+run_uuid: ca1eadff0741451a96a8341524cc061c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185550608
+status: 3
+tags: []
+user_id: aasthakhatgarh

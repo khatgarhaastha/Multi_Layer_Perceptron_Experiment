@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/21751047469941948198fbbb00e6e96c/artifacts
+end_time: 1707184971864
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 21751047469941948198fbbb00e6e96c
+run_name: big-bat-595
+run_uuid: 21751047469941948198fbbb00e6e96c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184971819
+status: 3
+tags: []
+user_id: aasthakhatgarh

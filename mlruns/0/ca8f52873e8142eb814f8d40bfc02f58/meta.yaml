@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/ca8f52873e8142eb814f8d40bfc02f58/artifacts
+end_time: 1707184183167
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ca8f52873e8142eb814f8d40bfc02f58
+run_name: selective-ant-983
+run_uuid: ca8f52873e8142eb814f8d40bfc02f58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184183135
+status: 3
+tags: []
+user_id: aasthakhatgarh

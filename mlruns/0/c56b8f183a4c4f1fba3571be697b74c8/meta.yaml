@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/c56b8f183a4c4f1fba3571be697b74c8/artifacts
+end_time: 1707185648623
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c56b8f183a4c4f1fba3571be697b74c8
+run_name: handsome-stag-578
+run_uuid: c56b8f183a4c4f1fba3571be697b74c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185648513
+status: 3
+tags: []
+user_id: aasthakhatgarh

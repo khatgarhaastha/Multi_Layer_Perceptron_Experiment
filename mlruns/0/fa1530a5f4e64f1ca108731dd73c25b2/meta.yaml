@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/fa1530a5f4e64f1ca108731dd73c25b2/artifacts
+end_time: 1707185494722
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fa1530a5f4e64f1ca108731dd73c25b2
+run_name: charming-horse-928
+run_uuid: fa1530a5f4e64f1ca108731dd73c25b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185494615
+status: 3
+tags: []
+user_id: aasthakhatgarh

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/da23733935b94f04a406a7b90e6e048f/artifacts
+end_time: 1707185686833
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: da23733935b94f04a406a7b90e6e048f
+run_name: dapper-newt-660
+run_uuid: da23733935b94f04a406a7b90e6e048f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185686793
+status: 3
+tags: []
+user_id: aasthakhatgarh

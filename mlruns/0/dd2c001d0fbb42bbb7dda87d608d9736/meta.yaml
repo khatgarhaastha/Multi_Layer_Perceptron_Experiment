@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/dd2c001d0fbb42bbb7dda87d608d9736/artifacts
+end_time: 1707185687742
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dd2c001d0fbb42bbb7dda87d608d9736
+run_name: spiffy-carp-397
+run_uuid: dd2c001d0fbb42bbb7dda87d608d9736
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185687683
+status: 3
+tags: []
+user_id: aasthakhatgarh

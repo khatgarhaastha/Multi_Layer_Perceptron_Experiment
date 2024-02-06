@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/69cc05b2196d4e7c9a46acea4b40fad1/artifacts
+end_time: 1707181364661
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 69cc05b2196d4e7c9a46acea4b40fad1
+run_name: awesome-snail-156
+run_uuid: 69cc05b2196d4e7c9a46acea4b40fad1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707181364634
+status: 3
+tags: []
+user_id: aasthakhatgarh

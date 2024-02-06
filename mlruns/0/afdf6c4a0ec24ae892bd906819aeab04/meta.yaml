@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/afdf6c4a0ec24ae892bd906819aeab04/artifacts
+end_time: 1707184183432
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: afdf6c4a0ec24ae892bd906819aeab04
+run_name: zealous-crab-794
+run_uuid: afdf6c4a0ec24ae892bd906819aeab04
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184183399
+status: 3
+tags: []
+user_id: aasthakhatgarh

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/d8743e34be8543b4810ca6de9cd50855/artifacts
+end_time: 1707185687087
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d8743e34be8543b4810ca6de9cd50855
+run_name: nosy-shrike-357
+run_uuid: d8743e34be8543b4810ca6de9cd50855
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185687044
+status: 3
+tags: []
+user_id: aasthakhatgarh

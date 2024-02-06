@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/150485eb169a47f6825a4e7b8e6103e3/artifacts
+end_time: 1707184977853
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 150485eb169a47f6825a4e7b8e6103e3
+run_name: suave-bird-323
+run_uuid: 150485eb169a47f6825a4e7b8e6103e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184977751
+status: 3
+tags: []
+user_id: aasthakhatgarh

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/692ed17aca1e4079960574201b75463f/artifacts
+end_time: 1707185591263
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 692ed17aca1e4079960574201b75463f
+run_name: secretive-kite-50
+run_uuid: 692ed17aca1e4079960574201b75463f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185591222
+status: 3
+tags: []
+user_id: aasthakhatgarh

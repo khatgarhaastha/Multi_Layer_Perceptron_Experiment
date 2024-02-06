@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/cc68f1ff09bc460ba7a5231d59058c89/artifacts
+end_time: 1707185546194
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cc68f1ff09bc460ba7a5231d59058c89
+run_name: dapper-shrimp-349
+run_uuid: cc68f1ff09bc460ba7a5231d59058c89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185546113
+status: 3
+tags: []
+user_id: aasthakhatgarh

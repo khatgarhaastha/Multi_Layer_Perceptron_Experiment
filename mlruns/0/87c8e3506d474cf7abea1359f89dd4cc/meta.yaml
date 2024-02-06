@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/87c8e3506d474cf7abea1359f89dd4cc/artifacts
+end_time: 1707184331650
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 87c8e3506d474cf7abea1359f89dd4cc
+run_name: upbeat-cod-224
+run_uuid: 87c8e3506d474cf7abea1359f89dd4cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184331617
+status: 3
+tags: []
+user_id: aasthakhatgarh

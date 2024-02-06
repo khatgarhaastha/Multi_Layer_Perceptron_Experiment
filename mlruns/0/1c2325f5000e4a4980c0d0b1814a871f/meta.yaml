@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/1c2325f5000e4a4980c0d0b1814a871f/artifacts
+end_time: 1707185646938
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1c2325f5000e4a4980c0d0b1814a871f
+run_name: righteous-kit-56
+run_uuid: 1c2325f5000e4a4980c0d0b1814a871f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185646884
+status: 3
+tags: []
+user_id: aasthakhatgarh

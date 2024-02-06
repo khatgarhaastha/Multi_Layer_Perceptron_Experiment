@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/8ff61957b445486e9551c5751d600eda/artifacts
+end_time: 1707181363805
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8ff61957b445486e9551c5751d600eda
+run_name: fortunate-moth-494
+run_uuid: 8ff61957b445486e9551c5751d600eda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707181363757
+status: 3
+tags: []
+user_id: aasthakhatgarh

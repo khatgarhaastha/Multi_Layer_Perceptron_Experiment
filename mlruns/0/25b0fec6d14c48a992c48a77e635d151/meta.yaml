@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/25b0fec6d14c48a992c48a77e635d151/artifacts
+end_time: 1707185651855
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 25b0fec6d14c48a992c48a77e635d151
+run_name: mysterious-dog-534
+run_uuid: 25b0fec6d14c48a992c48a77e635d151
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185651796
+status: 3
+tags: []
+user_id: aasthakhatgarh

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/813b3d22a75940e6923f0bd1cf5fee75/artifacts
+end_time: 1707185553660
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 813b3d22a75940e6923f0bd1cf5fee75
+run_name: adorable-stoat-41
+run_uuid: 813b3d22a75940e6923f0bd1cf5fee75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185553605
+status: 3
+tags: []
+user_id: aasthakhatgarh

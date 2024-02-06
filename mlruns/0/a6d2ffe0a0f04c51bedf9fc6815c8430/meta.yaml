@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/a6d2ffe0a0f04c51bedf9fc6815c8430/artifacts
+end_time: 1707184971704
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a6d2ffe0a0f04c51bedf9fc6815c8430
+run_name: learned-sheep-171
+run_uuid: a6d2ffe0a0f04c51bedf9fc6815c8430
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184971676
+status: 3
+tags: []
+user_id: aasthakhatgarh

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/6cc2b005fbe3402480fbd4e43ce3f823/artifacts
+end_time: 1707185499376
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6cc2b005fbe3402480fbd4e43ce3f823
+run_name: gifted-horse-982
+run_uuid: 6cc2b005fbe3402480fbd4e43ce3f823
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185499328
+status: 3
+tags: []
+user_id: aasthakhatgarh

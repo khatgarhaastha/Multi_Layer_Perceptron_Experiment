@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/e07af88485de48e08ea7da9a875e8789/artifacts
+end_time: 1707185590494
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e07af88485de48e08ea7da9a875e8789
+run_name: smiling-calf-550
+run_uuid: e07af88485de48e08ea7da9a875e8789
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185590468
+status: 3
+tags: []
+user_id: aasthakhatgarh

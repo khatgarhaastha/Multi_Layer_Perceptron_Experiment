@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/9c47e5b69f4546259a2dcb909338b027/artifacts
+end_time: 1707184181500
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9c47e5b69f4546259a2dcb909338b027
+run_name: abundant-carp-612
+run_uuid: 9c47e5b69f4546259a2dcb909338b027
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184181454
+status: 3
+tags: []
+user_id: aasthakhatgarh

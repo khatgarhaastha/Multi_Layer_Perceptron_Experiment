@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/009c26321c864ebcb75a3d4c2b7e0335/artifacts
+end_time: 1707184976292
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 009c26321c864ebcb75a3d4c2b7e0335
+run_name: merciful-pug-11
+run_uuid: 009c26321c864ebcb75a3d4c2b7e0335
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184976185
+status: 3
+tags: []
+user_id: aasthakhatgarh

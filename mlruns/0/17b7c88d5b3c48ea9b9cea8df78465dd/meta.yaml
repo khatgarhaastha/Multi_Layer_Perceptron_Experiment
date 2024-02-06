@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/17b7c88d5b3c48ea9b9cea8df78465dd/artifacts
+end_time: 1707184179413
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 17b7c88d5b3c48ea9b9cea8df78465dd
+run_name: unruly-wolf-781
+run_uuid: 17b7c88d5b3c48ea9b9cea8df78465dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184179366
+status: 3
+tags: []
+user_id: aasthakhatgarh

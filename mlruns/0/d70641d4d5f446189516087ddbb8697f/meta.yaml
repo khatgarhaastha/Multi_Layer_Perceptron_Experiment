@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/d70641d4d5f446189516087ddbb8697f/artifacts
+end_time: 1707185500521
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d70641d4d5f446189516087ddbb8697f
+run_name: bald-duck-351
+run_uuid: d70641d4d5f446189516087ddbb8697f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185500438
+status: 3
+tags: []
+user_id: aasthakhatgarh

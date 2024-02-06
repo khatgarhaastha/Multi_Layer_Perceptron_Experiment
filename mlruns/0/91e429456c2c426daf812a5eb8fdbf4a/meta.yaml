@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/91e429456c2c426daf812a5eb8fdbf4a/artifacts
+end_time: 1707185671034
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 91e429456c2c426daf812a5eb8fdbf4a
+run_name: redolent-gull-949
+run_uuid: 91e429456c2c426daf812a5eb8fdbf4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185670952
+status: 3
+tags: []
+user_id: aasthakhatgarh

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/c03cb36ff99b47eea8f2cb76854ad849/artifacts
+end_time: 1707185520996
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c03cb36ff99b47eea8f2cb76854ad849
+run_name: skillful-stoat-938
+run_uuid: c03cb36ff99b47eea8f2cb76854ad849
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185520933
+status: 3
+tags: []
+user_id: aasthakhatgarh

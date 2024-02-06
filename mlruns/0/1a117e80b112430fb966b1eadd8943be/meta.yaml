@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/1a117e80b112430fb966b1eadd8943be/artifacts
+end_time: 1707184179035
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1a117e80b112430fb966b1eadd8943be
+run_name: loud-squid-588
+run_uuid: 1a117e80b112430fb966b1eadd8943be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184178900
+status: 3
+tags: []
+user_id: aasthakhatgarh

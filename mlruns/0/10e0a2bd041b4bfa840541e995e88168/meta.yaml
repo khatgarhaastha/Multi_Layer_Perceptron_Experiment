@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/10e0a2bd041b4bfa840541e995e88168/artifacts
+end_time: 1707185591357
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 10e0a2bd041b4bfa840541e995e88168
+run_name: intrigued-goat-211
+run_uuid: 10e0a2bd041b4bfa840541e995e88168
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185591322
+status: 3
+tags: []
+user_id: aasthakhatgarh

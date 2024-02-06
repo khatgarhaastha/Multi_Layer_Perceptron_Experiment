@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/7ce366af95084cffb3250b40b631e076/artifacts
+end_time: 1707181362729
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7ce366af95084cffb3250b40b631e076
+run_name: sneaky-cow-95
+run_uuid: 7ce366af95084cffb3250b40b631e076
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707181362686
+status: 3
+tags: []
+user_id: aasthakhatgarh

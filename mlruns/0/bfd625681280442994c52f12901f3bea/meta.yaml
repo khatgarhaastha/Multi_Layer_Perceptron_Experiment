@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/bfd625681280442994c52f12901f3bea/artifacts
+end_time: 1707181361266
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bfd625681280442994c52f12901f3bea
+run_name: righteous-elk-534
+run_uuid: bfd625681280442994c52f12901f3bea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707181361228
+status: 3
+tags: []
+user_id: aasthakhatgarh

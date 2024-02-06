@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/f8faf1bc06b943e6b8057cfa4dc45a0b/artifacts
+end_time: 1707185547328
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f8faf1bc06b943e6b8057cfa4dc45a0b
+run_name: handsome-duck-581
+run_uuid: f8faf1bc06b943e6b8057cfa4dc45a0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185547143
+status: 3
+tags: []
+user_id: aasthakhatgarh

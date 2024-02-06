@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/fa7858cbb2d845ef873ae6ce6bf77118/artifacts
+end_time: 1707185590741
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fa7858cbb2d845ef873ae6ce6bf77118
+run_name: tasteful-steed-212
+run_uuid: fa7858cbb2d845ef873ae6ce6bf77118
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185590693
+status: 3
+tags: []
+user_id: aasthakhatgarh

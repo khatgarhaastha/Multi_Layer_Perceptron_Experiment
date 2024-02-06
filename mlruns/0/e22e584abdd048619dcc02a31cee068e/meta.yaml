@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/e22e584abdd048619dcc02a31cee068e/artifacts
+end_time: 1707184972980
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e22e584abdd048619dcc02a31cee068e
+run_name: resilient-robin-890
+run_uuid: e22e584abdd048619dcc02a31cee068e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184972835
+status: 3
+tags: []
+user_id: aasthakhatgarh

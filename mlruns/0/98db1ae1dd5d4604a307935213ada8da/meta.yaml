@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/98db1ae1dd5d4604a307935213ada8da/artifacts
+end_time: 1707185495592
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 98db1ae1dd5d4604a307935213ada8da
+run_name: nervous-shoat-653
+run_uuid: 98db1ae1dd5d4604a307935213ada8da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185495531
+status: 3
+tags: []
+user_id: aasthakhatgarh

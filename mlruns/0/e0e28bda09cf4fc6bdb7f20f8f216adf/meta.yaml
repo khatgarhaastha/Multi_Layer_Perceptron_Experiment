@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/e0e28bda09cf4fc6bdb7f20f8f216adf/artifacts
+end_time: 1707185589328
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e0e28bda09cf4fc6bdb7f20f8f216adf
+run_name: debonair-snipe-501
+run_uuid: e0e28bda09cf4fc6bdb7f20f8f216adf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185589127
+status: 3
+tags: []
+user_id: aasthakhatgarh

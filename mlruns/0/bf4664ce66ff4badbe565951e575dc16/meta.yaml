@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/bf4664ce66ff4badbe565951e575dc16/artifacts
+end_time: 1707185627454
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bf4664ce66ff4badbe565951e575dc16
+run_name: adventurous-deer-938
+run_uuid: bf4664ce66ff4badbe565951e575dc16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185627427
+status: 3
+tags: []
+user_id: aasthakhatgarh

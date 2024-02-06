@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/b9dc632fde904decae73858eeab82fc8/artifacts
+end_time: 1707181364767
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b9dc632fde904decae73858eeab82fc8
+run_name: omniscient-hen-123
+run_uuid: b9dc632fde904decae73858eeab82fc8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707181364732
+status: 3
+tags: []
+user_id: aasthakhatgarh

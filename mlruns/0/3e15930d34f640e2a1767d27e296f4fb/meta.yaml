@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/3e15930d34f640e2a1767d27e296f4fb/artifacts
+end_time: 1707181364885
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3e15930d34f640e2a1767d27e296f4fb
+run_name: serious-jay-119
+run_uuid: 3e15930d34f640e2a1767d27e296f4fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707181364846
+status: 3
+tags: []
+user_id: aasthakhatgarh

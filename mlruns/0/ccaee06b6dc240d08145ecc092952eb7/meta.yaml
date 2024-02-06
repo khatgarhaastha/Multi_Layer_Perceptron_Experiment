@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/ccaee06b6dc240d08145ecc092952eb7/artifacts
+end_time: 1707184978578
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ccaee06b6dc240d08145ecc092952eb7
+run_name: lyrical-hare-65
+run_uuid: ccaee06b6dc240d08145ecc092952eb7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184978545
+status: 3
+tags: []
+user_id: aasthakhatgarh

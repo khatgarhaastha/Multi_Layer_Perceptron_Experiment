@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/435f58654ceb45c895375600b2db2a59/artifacts
+end_time: 1707185665266
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 435f58654ceb45c895375600b2db2a59
+run_name: rogue-shrike-969
+run_uuid: 435f58654ceb45c895375600b2db2a59
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185665182
+status: 3
+tags: []
+user_id: aasthakhatgarh

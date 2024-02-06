@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/c10c62eee2a242b5ac5f06588c483ece/artifacts
+end_time: 1707185669572
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c10c62eee2a242b5ac5f06588c483ece
+run_name: luxuriant-seal-150
+run_uuid: c10c62eee2a242b5ac5f06588c483ece
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185669483
+status: 3
+tags: []
+user_id: aasthakhatgarh

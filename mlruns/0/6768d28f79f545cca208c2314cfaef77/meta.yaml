@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/6768d28f79f545cca208c2314cfaef77/artifacts
+end_time: 1707185590310
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6768d28f79f545cca208c2314cfaef77
+run_name: silent-stoat-517
+run_uuid: 6768d28f79f545cca208c2314cfaef77
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185590240
+status: 3
+tags: []
+user_id: aasthakhatgarh

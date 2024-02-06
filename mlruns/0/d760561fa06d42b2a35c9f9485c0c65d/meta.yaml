@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/d760561fa06d42b2a35c9f9485c0c65d/artifacts
+end_time: 1707185628629
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d760561fa06d42b2a35c9f9485c0c65d
+run_name: grandiose-rat-737
+run_uuid: d760561fa06d42b2a35c9f9485c0c65d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185628503
+status: 3
+tags: []
+user_id: aasthakhatgarh

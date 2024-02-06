@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/f04770ccf43b4510a69b3638969c3fad/artifacts
+end_time: 1707185553945
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f04770ccf43b4510a69b3638969c3fad
+run_name: smiling-flea-612
+run_uuid: f04770ccf43b4510a69b3638969c3fad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185553890
+status: 3
+tags: []
+user_id: aasthakhatgarh

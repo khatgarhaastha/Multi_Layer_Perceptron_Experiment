@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/c523e8caae024aafb256cde070a76a01/artifacts
+end_time: 1707184182891
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c523e8caae024aafb256cde070a76a01
+run_name: luminous-gull-581
+run_uuid: c523e8caae024aafb256cde070a76a01
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184182861
+status: 3
+tags: []
+user_id: aasthakhatgarh

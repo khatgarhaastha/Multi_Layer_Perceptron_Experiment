@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/84146355cf2547aea4c8368d0f5e27b4/artifacts
+end_time: 1707184976852
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 84146355cf2547aea4c8368d0f5e27b4
+run_name: rebellious-zebra-616
+run_uuid: 84146355cf2547aea4c8368d0f5e27b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184976790
+status: 3
+tags: []
+user_id: aasthakhatgarh

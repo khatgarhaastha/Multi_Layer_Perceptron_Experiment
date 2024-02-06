@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/ebcee0999fa74e04b6c94d1dc305f3d3/artifacts
+end_time: 1707184326795
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ebcee0999fa74e04b6c94d1dc305f3d3
+run_name: colorful-shad-992
+run_uuid: ebcee0999fa74e04b6c94d1dc305f3d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184326712
+status: 3
+tags: []
+user_id: aasthakhatgarh

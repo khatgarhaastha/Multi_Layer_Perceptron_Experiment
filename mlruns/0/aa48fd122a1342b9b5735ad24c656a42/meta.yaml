@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/aa48fd122a1342b9b5735ad24c656a42/artifacts
+end_time: 1707185591521
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aa48fd122a1342b9b5735ad24c656a42
+run_name: abundant-dolphin-246
+run_uuid: aa48fd122a1342b9b5735ad24c656a42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185591473
+status: 3
+tags: []
+user_id: aasthakhatgarh

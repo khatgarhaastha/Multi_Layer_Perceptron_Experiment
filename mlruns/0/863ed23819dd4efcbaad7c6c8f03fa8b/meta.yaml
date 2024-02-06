@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/863ed23819dd4efcbaad7c6c8f03fa8b/artifacts
+end_time: 1707185500299
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 863ed23819dd4efcbaad7c6c8f03fa8b
+run_name: able-flea-372
+run_uuid: 863ed23819dd4efcbaad7c6c8f03fa8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185500246
+status: 3
+tags: []
+user_id: aasthakhatgarh

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/56be9b7f9a5e446aad325f2dbc1a99ce/artifacts
+end_time: 1707185555583
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 56be9b7f9a5e446aad325f2dbc1a99ce
+run_name: zealous-shrimp-361
+run_uuid: 56be9b7f9a5e446aad325f2dbc1a99ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185555571
+status: 3
+tags: []
+user_id: aasthakhatgarh

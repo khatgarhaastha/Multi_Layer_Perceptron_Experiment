@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/196cb723a4fe43bcbe386f314237a9c5/artifacts
+end_time: 1707181361740
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 196cb723a4fe43bcbe386f314237a9c5
+run_name: beautiful-foal-812
+run_uuid: 196cb723a4fe43bcbe386f314237a9c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707181361640
+status: 3
+tags: []
+user_id: aasthakhatgarh

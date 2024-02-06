@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/02a728e423464a27ac0464c0c59b3f4b/artifacts
+end_time: 1707185521035
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 02a728e423464a27ac0464c0c59b3f4b
+run_name: worried-crow-157
+run_uuid: 02a728e423464a27ac0464c0c59b3f4b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185521005
+status: 3
+tags: []
+user_id: aasthakhatgarh

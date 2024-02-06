@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/e7427a708cad4e3797d4e5db83f6a58f/artifacts
+end_time: 1707184179220
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e7427a708cad4e3797d4e5db83f6a58f
+run_name: capable-frog-295
+run_uuid: e7427a708cad4e3797d4e5db83f6a58f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184179134
+status: 3
+tags: []
+user_id: aasthakhatgarh

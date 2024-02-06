@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/711cc79b681c4a6d99c811176c3f48ef/artifacts
+end_time: 1707184332547
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 711cc79b681c4a6d99c811176c3f48ef
+run_name: illustrious-koi-954
+run_uuid: 711cc79b681c4a6d99c811176c3f48ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184332521
+status: 3
+tags: []
+user_id: aasthakhatgarh

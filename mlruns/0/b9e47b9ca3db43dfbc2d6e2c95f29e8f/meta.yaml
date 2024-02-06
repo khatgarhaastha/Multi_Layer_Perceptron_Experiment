@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/b9e47b9ca3db43dfbc2d6e2c95f29e8f/artifacts
+end_time: 1707185519776
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b9e47b9ca3db43dfbc2d6e2c95f29e8f
+run_name: bouncy-koi-108
+run_uuid: b9e47b9ca3db43dfbc2d6e2c95f29e8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185519670
+status: 3
+tags: []
+user_id: aasthakhatgarh

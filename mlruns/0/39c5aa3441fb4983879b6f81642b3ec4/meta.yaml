@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/39c5aa3441fb4983879b6f81642b3ec4/artifacts
+end_time: 1707184969543
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 39c5aa3441fb4983879b6f81642b3ec4
+run_name: righteous-slug-963
+run_uuid: 39c5aa3441fb4983879b6f81642b3ec4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184969282
+status: 3
+tags: []
+user_id: aasthakhatgarh

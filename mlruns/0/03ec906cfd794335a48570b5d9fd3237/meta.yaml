@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/03ec906cfd794335a48570b5d9fd3237/artifacts
+end_time: 1707185647459
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 03ec906cfd794335a48570b5d9fd3237
+run_name: incongruous-fawn-700
+run_uuid: 03ec906cfd794335a48570b5d9fd3237
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185647413
+status: 3
+tags: []
+user_id: aasthakhatgarh

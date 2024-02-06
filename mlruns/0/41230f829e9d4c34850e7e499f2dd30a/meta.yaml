@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/41230f829e9d4c34850e7e499f2dd30a/artifacts
+end_time: 1707185670663
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 41230f829e9d4c34850e7e499f2dd30a
+run_name: delicate-dog-921
+run_uuid: 41230f829e9d4c34850e7e499f2dd30a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185670601
+status: 3
+tags: []
+user_id: aasthakhatgarh

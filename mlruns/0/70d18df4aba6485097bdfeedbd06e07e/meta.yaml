@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/70d18df4aba6485097bdfeedbd06e07e/artifacts
+end_time: 1707185545415
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 70d18df4aba6485097bdfeedbd06e07e
+run_name: popular-koi-199
+run_uuid: 70d18df4aba6485097bdfeedbd06e07e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185545386
+status: 3
+tags: []
+user_id: aasthakhatgarh

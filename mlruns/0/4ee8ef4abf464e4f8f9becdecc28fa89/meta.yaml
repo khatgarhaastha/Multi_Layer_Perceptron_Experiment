@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/4ee8ef4abf464e4f8f9becdecc28fa89/artifacts
+end_time: 1707185590230
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4ee8ef4abf464e4f8f9becdecc28fa89
+run_name: grandiose-frog-413
+run_uuid: 4ee8ef4abf464e4f8f9becdecc28fa89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185590197
+status: 3
+tags: []
+user_id: aasthakhatgarh

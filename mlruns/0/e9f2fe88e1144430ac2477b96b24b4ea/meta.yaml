@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/e9f2fe88e1144430ac2477b96b24b4ea/artifacts
+end_time: 1707185492903
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e9f2fe88e1144430ac2477b96b24b4ea
+run_name: bold-gnu-252
+run_uuid: e9f2fe88e1144430ac2477b96b24b4ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185492873
+status: 3
+tags: []
+user_id: aasthakhatgarh

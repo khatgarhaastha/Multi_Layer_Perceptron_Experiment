@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/e3cdd03499864b1a955f75f1a137cf0c/artifacts
+end_time: 1707181365123
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e3cdd03499864b1a955f75f1a137cf0c
+run_name: traveling-loon-92
+run_uuid: e3cdd03499864b1a955f75f1a137cf0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707181365070
+status: 3
+tags: []
+user_id: aasthakhatgarh

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/32ede490266c4bb999926d009cfd7ca9/artifacts
+end_time: 1707184178689
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 32ede490266c4bb999926d009cfd7ca9
+run_name: calm-mouse-333
+run_uuid: 32ede490266c4bb999926d009cfd7ca9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184178620
+status: 3
+tags: []
+user_id: aasthakhatgarh

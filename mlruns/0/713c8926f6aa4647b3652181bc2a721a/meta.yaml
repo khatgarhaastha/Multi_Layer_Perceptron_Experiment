@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/713c8926f6aa4647b3652181bc2a721a/artifacts
+end_time: 1707185591825
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 713c8926f6aa4647b3652181bc2a721a
+run_name: big-swan-66
+run_uuid: 713c8926f6aa4647b3652181bc2a721a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185591794
+status: 3
+tags: []
+user_id: aasthakhatgarh

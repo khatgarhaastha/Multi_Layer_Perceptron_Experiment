@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/715033a4924341169eecadca79569aa7/artifacts
+end_time: 1707184178053
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 715033a4924341169eecadca79569aa7
+run_name: righteous-kite-295
+run_uuid: 715033a4924341169eecadca79569aa7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184177909
+status: 3
+tags: []
+user_id: aasthakhatgarh

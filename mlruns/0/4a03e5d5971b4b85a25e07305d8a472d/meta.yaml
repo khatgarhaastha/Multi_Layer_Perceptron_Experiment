@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/4a03e5d5971b4b85a25e07305d8a472d/artifacts
+end_time: 1707185686494
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4a03e5d5971b4b85a25e07305d8a472d
+run_name: shivering-bird-756
+run_uuid: 4a03e5d5971b4b85a25e07305d8a472d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185686431
+status: 3
+tags: []
+user_id: aasthakhatgarh

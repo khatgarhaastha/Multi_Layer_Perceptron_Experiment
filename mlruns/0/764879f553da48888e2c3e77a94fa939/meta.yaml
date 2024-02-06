@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/764879f553da48888e2c3e77a94fa939/artifacts
+end_time: 1707184180572
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 764879f553da48888e2c3e77a94fa939
+run_name: bright-yak-89
+run_uuid: 764879f553da48888e2c3e77a94fa939
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184180539
+status: 3
+tags: []
+user_id: aasthakhatgarh

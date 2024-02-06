@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/839dbc811d62443bb70282ce9e6f98e8/artifacts
+end_time: 1707181363177
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 839dbc811d62443bb70282ce9e6f98e8
+run_name: calm-yak-149
+run_uuid: 839dbc811d62443bb70282ce9e6f98e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707181363143
+status: 3
+tags: []
+user_id: aasthakhatgarh

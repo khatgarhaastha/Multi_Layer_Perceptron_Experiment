@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/a1ac34062c8f4e6f85ec1f0b4fabf273/artifacts
+end_time: 1707185500601
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a1ac34062c8f4e6f85ec1f0b4fabf273
+run_name: nimble-bat-600
+run_uuid: a1ac34062c8f4e6f85ec1f0b4fabf273
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185500546
+status: 3
+tags: []
+user_id: aasthakhatgarh

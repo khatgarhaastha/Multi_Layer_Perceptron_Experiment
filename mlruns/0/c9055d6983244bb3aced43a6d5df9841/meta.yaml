@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/c9055d6983244bb3aced43a6d5df9841/artifacts
+end_time: 1707185645913
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c9055d6983244bb3aced43a6d5df9841
+run_name: peaceful-dove-303
+run_uuid: c9055d6983244bb3aced43a6d5df9841
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185645840
+status: 3
+tags: []
+user_id: aasthakhatgarh

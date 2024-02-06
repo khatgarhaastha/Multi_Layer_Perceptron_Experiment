@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/cf3f91258468489b80fc54339bf9250c/artifacts
+end_time: 1707184979874
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cf3f91258468489b80fc54339bf9250c
+run_name: treasured-stoat-397
+run_uuid: cf3f91258468489b80fc54339bf9250c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184979814
+status: 3
+tags: []
+user_id: aasthakhatgarh

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/50e3250f48c343fdaec3f2ed5f5f1156/artifacts
+end_time: 1707185591020
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 50e3250f48c343fdaec3f2ed5f5f1156
+run_name: clean-bee-583
+run_uuid: 50e3250f48c343fdaec3f2ed5f5f1156
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185590989
+status: 3
+tags: []
+user_id: aasthakhatgarh

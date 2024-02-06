@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/b4fefb99458444e5ae65730d2f47bf7e/artifacts
+end_time: 1707185549613
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b4fefb99458444e5ae65730d2f47bf7e
+run_name: indecisive-loon-290
+run_uuid: b4fefb99458444e5ae65730d2f47bf7e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185549540
+status: 3
+tags: []
+user_id: aasthakhatgarh

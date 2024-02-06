@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/69ff64f201cf4f11a99582f688ee043b/artifacts
+end_time: 1707185627411
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 69ff64f201cf4f11a99582f688ee043b
+run_name: carefree-trout-842
+run_uuid: 69ff64f201cf4f11a99582f688ee043b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185627155
+status: 3
+tags: []
+user_id: aasthakhatgarh

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/1a9eebe4b4b94ff6b0d7a5db7a5861e2/artifacts
+end_time: 1707185519659
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1a9eebe4b4b94ff6b0d7a5db7a5861e2
+run_name: dazzling-goose-240
+run_uuid: 1a9eebe4b4b94ff6b0d7a5db7a5861e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185519592
+status: 3
+tags: []
+user_id: aasthakhatgarh

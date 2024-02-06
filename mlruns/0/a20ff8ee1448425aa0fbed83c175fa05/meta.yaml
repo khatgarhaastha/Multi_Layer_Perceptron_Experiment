@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/a20ff8ee1448425aa0fbed83c175fa05/artifacts
+end_time: 1707185526710
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a20ff8ee1448425aa0fbed83c175fa05
+run_name: capable-fox-192
+run_uuid: a20ff8ee1448425aa0fbed83c175fa05
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185526655
+status: 3
+tags: []
+user_id: aasthakhatgarh

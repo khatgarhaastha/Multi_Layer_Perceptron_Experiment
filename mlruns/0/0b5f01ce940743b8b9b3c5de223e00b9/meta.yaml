@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/0b5f01ce940743b8b9b3c5de223e00b9/artifacts
+end_time: 1707185644881
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0b5f01ce940743b8b9b3c5de223e00b9
+run_name: legendary-ray-892
+run_uuid: 0b5f01ce940743b8b9b3c5de223e00b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185644792
+status: 3
+tags: []
+user_id: aasthakhatgarh

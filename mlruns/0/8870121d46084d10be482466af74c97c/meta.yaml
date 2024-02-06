@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/8870121d46084d10be482466af74c97c/artifacts
+end_time: 1707185688022
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8870121d46084d10be482466af74c97c
+run_name: colorful-gnu-443
+run_uuid: 8870121d46084d10be482466af74c97c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185687965
+status: 3
+tags: []
+user_id: aasthakhatgarh

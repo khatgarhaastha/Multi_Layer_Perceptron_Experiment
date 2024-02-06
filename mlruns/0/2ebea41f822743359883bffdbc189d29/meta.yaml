@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/2ebea41f822743359883bffdbc189d29/artifacts
+end_time: 1707185632677
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2ebea41f822743359883bffdbc189d29
+run_name: useful-grub-613
+run_uuid: 2ebea41f822743359883bffdbc189d29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185632631
+status: 3
+tags: []
+user_id: aasthakhatgarh

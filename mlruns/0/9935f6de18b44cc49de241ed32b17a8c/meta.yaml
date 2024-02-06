@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/9935f6de18b44cc49de241ed32b17a8c/artifacts
+end_time: 1707184329048
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9935f6de18b44cc49de241ed32b17a8c
+run_name: thoughtful-eel-27
+run_uuid: 9935f6de18b44cc49de241ed32b17a8c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184328998
+status: 3
+tags: []
+user_id: aasthakhatgarh

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/f867971647e4493ead2bf118277c5d65/artifacts
+end_time: 1707185569492
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f867971647e4493ead2bf118277c5d65
+run_name: stylish-squid-169
+run_uuid: f867971647e4493ead2bf118277c5d65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185569463
+status: 3
+tags: []
+user_id: aasthakhatgarh

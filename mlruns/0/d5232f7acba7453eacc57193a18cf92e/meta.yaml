@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/d5232f7acba7453eacc57193a18cf92e/artifacts
+end_time: 1707184332125
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d5232f7acba7453eacc57193a18cf92e
+run_name: traveling-sloth-483
+run_uuid: d5232f7acba7453eacc57193a18cf92e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184332074
+status: 3
+tags: []
+user_id: aasthakhatgarh

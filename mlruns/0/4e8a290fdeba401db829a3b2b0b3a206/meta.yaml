@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/4e8a290fdeba401db829a3b2b0b3a206/artifacts
+end_time: 1707185629394
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4e8a290fdeba401db829a3b2b0b3a206
+run_name: classy-snake-97
+run_uuid: 4e8a290fdeba401db829a3b2b0b3a206
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185629165
+status: 3
+tags: []
+user_id: aasthakhatgarh

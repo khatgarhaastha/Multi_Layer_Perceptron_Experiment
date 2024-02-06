@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/3553ea54ed5045b390c853b2e2dcef4f/artifacts
+end_time: 1707185520104
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3553ea54ed5045b390c853b2e2dcef4f
+run_name: abundant-moose-440
+run_uuid: 3553ea54ed5045b390c853b2e2dcef4f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185520072
+status: 3
+tags: []
+user_id: aasthakhatgarh

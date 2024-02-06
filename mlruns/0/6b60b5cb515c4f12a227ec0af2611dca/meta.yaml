@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/6b60b5cb515c4f12a227ec0af2611dca/artifacts
+end_time: 1707185570593
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6b60b5cb515c4f12a227ec0af2611dca
+run_name: auspicious-smelt-858
+run_uuid: 6b60b5cb515c4f12a227ec0af2611dca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185570563
+status: 3
+tags: []
+user_id: aasthakhatgarh

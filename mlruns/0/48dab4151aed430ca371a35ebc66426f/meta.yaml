@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/48dab4151aed430ca371a35ebc66426f/artifacts
+end_time: 1707185647158
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 48dab4151aed430ca371a35ebc66426f
+run_name: casual-fowl-904
+run_uuid: 48dab4151aed430ca371a35ebc66426f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185647121
+status: 3
+tags: []
+user_id: aasthakhatgarh

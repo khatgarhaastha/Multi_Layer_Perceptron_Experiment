@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/22ea2280119f49d58cf0a958246dd101/artifacts
+end_time: 1707184327274
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 22ea2280119f49d58cf0a958246dd101
+run_name: adaptable-sheep-918
+run_uuid: 22ea2280119f49d58cf0a958246dd101
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184327030
+status: 3
+tags: []
+user_id: aasthakhatgarh

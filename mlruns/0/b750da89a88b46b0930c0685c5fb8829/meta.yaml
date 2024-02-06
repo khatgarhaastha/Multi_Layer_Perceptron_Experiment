@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/b750da89a88b46b0930c0685c5fb8829/artifacts
+end_time: 1707185521151
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b750da89a88b46b0930c0685c5fb8829
+run_name: judicious-mole-849
+run_uuid: b750da89a88b46b0930c0685c5fb8829
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185521109
+status: 3
+tags: []
+user_id: aasthakhatgarh

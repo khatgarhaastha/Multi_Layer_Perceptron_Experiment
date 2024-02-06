@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/85340d0485e8471486300f2829c1908a/artifacts
+end_time: 1707184974466
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 85340d0485e8471486300f2829c1908a
+run_name: agreeable-auk-863
+run_uuid: 85340d0485e8471486300f2829c1908a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184974254
+status: 3
+tags: []
+user_id: aasthakhatgarh

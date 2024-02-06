@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/ae1643773f2e4775b34ec3dbba24583f/artifacts
+end_time: 1707181363572
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ae1643773f2e4775b34ec3dbba24583f
+run_name: adorable-yak-580
+run_uuid: ae1643773f2e4775b34ec3dbba24583f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707181363530
+status: 3
+tags: []
+user_id: aasthakhatgarh

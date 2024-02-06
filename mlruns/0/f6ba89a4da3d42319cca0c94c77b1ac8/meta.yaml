@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/f6ba89a4da3d42319cca0c94c77b1ac8/artifacts
+end_time: 1707185647517
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f6ba89a4da3d42319cca0c94c77b1ac8
+run_name: defiant-frog-515
+run_uuid: f6ba89a4da3d42319cca0c94c77b1ac8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185647469
+status: 3
+tags: []
+user_id: aasthakhatgarh

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/9c892dccea7540258e78a38cd71b7a75/artifacts
+end_time: 1707184974719
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9c892dccea7540258e78a38cd71b7a75
+run_name: thoughtful-chimp-792
+run_uuid: 9c892dccea7540258e78a38cd71b7a75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184974648
+status: 3
+tags: []
+user_id: aasthakhatgarh

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/0dbf5b432b9b4bb9b5c6d442ea7f0264/artifacts
+end_time: 1707184327528
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0dbf5b432b9b4bb9b5c6d442ea7f0264
+run_name: selective-pig-204
+run_uuid: 0dbf5b432b9b4bb9b5c6d442ea7f0264
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184327275
+status: 3
+tags: []
+user_id: aasthakhatgarh

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/7ad4edadf7754f92a6f459ddcfc9a62c/artifacts
+end_time: 1707184181561
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7ad4edadf7754f92a6f459ddcfc9a62c
+run_name: colorful-goose-375
+run_uuid: 7ad4edadf7754f92a6f459ddcfc9a62c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184181508
+status: 3
+tags: []
+user_id: aasthakhatgarh

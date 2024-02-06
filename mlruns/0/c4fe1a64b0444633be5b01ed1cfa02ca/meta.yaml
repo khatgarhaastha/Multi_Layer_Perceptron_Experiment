@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/c4fe1a64b0444633be5b01ed1cfa02ca/artifacts
+end_time: 1707185633291
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c4fe1a64b0444633be5b01ed1cfa02ca
+run_name: nimble-hound-820
+run_uuid: c4fe1a64b0444633be5b01ed1cfa02ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185633252
+status: 3
+tags: []
+user_id: aasthakhatgarh

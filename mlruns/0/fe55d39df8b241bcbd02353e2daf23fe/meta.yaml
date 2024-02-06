@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/fe55d39df8b241bcbd02353e2daf23fe/artifacts
+end_time: 1707181363314
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fe55d39df8b241bcbd02353e2daf23fe
+run_name: mysterious-boar-149
+run_uuid: fe55d39df8b241bcbd02353e2daf23fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707181363260
+status: 3
+tags: []
+user_id: aasthakhatgarh

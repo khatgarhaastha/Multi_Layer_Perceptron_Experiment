@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/a1a397d5bf3241148920883e7d14761b/artifacts
+end_time: 1707185498266
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a1a397d5bf3241148920883e7d14761b
+run_name: silent-whale-280
+run_uuid: a1a397d5bf3241148920883e7d14761b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185498187
+status: 3
+tags: []
+user_id: aasthakhatgarh

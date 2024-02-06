@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/a3b94504b5f5483c80dff564a5a3048b/artifacts
+end_time: 1707185631204
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a3b94504b5f5483c80dff564a5a3048b
+run_name: upset-dog-919
+run_uuid: a3b94504b5f5483c80dff564a5a3048b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185631160
+status: 3
+tags: []
+user_id: aasthakhatgarh

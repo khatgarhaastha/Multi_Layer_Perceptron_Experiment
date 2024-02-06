@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/cd6de589d9eb43ddaea66ca8c3808af4/artifacts
+end_time: 1707185668442
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cd6de589d9eb43ddaea66ca8c3808af4
+run_name: gaudy-conch-589
+run_uuid: cd6de589d9eb43ddaea66ca8c3808af4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185668395
+status: 3
+tags: []
+user_id: aasthakhatgarh

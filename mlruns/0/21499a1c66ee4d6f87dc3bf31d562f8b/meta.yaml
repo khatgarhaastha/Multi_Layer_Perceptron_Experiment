@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/21499a1c66ee4d6f87dc3bf31d562f8b/artifacts
+end_time: 1707185687606
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 21499a1c66ee4d6f87dc3bf31d562f8b
+run_name: amazing-foal-859
+run_uuid: 21499a1c66ee4d6f87dc3bf31d562f8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185687571
+status: 3
+tags: []
+user_id: aasthakhatgarh

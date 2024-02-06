@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/aea468403ca742f7ba53f57b8b8ba666/artifacts
+end_time: 1707185666452
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aea468403ca742f7ba53f57b8b8ba666
+run_name: bold-doe-748
+run_uuid: aea468403ca742f7ba53f57b8b8ba666
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185666203
+status: 3
+tags: []
+user_id: aasthakhatgarh

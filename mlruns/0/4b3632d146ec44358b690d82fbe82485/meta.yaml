@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/4b3632d146ec44358b690d82fbe82485/artifacts
+end_time: 1707184180328
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4b3632d146ec44358b690d82fbe82485
+run_name: receptive-worm-705
+run_uuid: 4b3632d146ec44358b690d82fbe82485
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184180236
+status: 3
+tags: []
+user_id: aasthakhatgarh

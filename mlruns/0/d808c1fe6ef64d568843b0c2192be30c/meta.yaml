@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/d808c1fe6ef64d568843b0c2192be30c/artifacts
+end_time: 1707185497510
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d808c1fe6ef64d568843b0c2192be30c
+run_name: polite-bear-253
+run_uuid: d808c1fe6ef64d568843b0c2192be30c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185497472
+status: 3
+tags: []
+user_id: aasthakhatgarh

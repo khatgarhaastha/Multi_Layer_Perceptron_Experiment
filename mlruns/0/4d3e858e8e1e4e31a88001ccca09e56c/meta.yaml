@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/4d3e858e8e1e4e31a88001ccca09e56c/artifacts
+end_time: 1707185497959
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4d3e858e8e1e4e31a88001ccca09e56c
+run_name: caring-grouse-295
+run_uuid: 4d3e858e8e1e4e31a88001ccca09e56c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185497928
+status: 3
+tags: []
+user_id: aasthakhatgarh

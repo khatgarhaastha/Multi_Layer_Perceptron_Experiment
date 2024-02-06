@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/7b083be888e5495f8bce8b661cf5ea5e/artifacts
+end_time: 1707184177908
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7b083be888e5495f8bce8b661cf5ea5e
+run_name: brawny-dove-172
+run_uuid: 7b083be888e5495f8bce8b661cf5ea5e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184177834
+status: 3
+tags: []
+user_id: aasthakhatgarh

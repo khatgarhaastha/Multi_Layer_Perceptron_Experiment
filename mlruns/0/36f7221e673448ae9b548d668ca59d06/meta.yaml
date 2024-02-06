@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/36f7221e673448ae9b548d668ca59d06/artifacts
+end_time: 1707185668597
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 36f7221e673448ae9b548d668ca59d06
+run_name: bright-swan-205
+run_uuid: 36f7221e673448ae9b548d668ca59d06
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185668562
+status: 3
+tags: []
+user_id: aasthakhatgarh

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/e8427dc9bff74c03b000a6a3b6531fdf/artifacts
+end_time: 1707181364377
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e8427dc9bff74c03b000a6a3b6531fdf
+run_name: unique-mink-573
+run_uuid: e8427dc9bff74c03b000a6a3b6531fdf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707181364341
+status: 3
+tags: []
+user_id: aasthakhatgarh

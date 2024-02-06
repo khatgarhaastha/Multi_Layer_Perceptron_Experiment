@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/34a00492ee9c45358a706dbb9930cc1a/artifacts
+end_time: 1707185684514
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 34a00492ee9c45358a706dbb9930cc1a
+run_name: enthused-cow-545
+run_uuid: 34a00492ee9c45358a706dbb9930cc1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185684464
+status: 3
+tags: []
+user_id: aasthakhatgarh

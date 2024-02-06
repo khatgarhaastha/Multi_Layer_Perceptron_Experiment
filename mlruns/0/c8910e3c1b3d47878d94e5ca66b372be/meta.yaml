@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/c8910e3c1b3d47878d94e5ca66b372be/artifacts
+end_time: 1707185592207
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c8910e3c1b3d47878d94e5ca66b372be
+run_name: colorful-sponge-983
+run_uuid: c8910e3c1b3d47878d94e5ca66b372be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185592140
+status: 3
+tags: []
+user_id: aasthakhatgarh

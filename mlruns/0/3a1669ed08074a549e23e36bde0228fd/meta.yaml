@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/3a1669ed08074a549e23e36bde0228fd/artifacts
+end_time: 1707181360590
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3a1669ed08074a549e23e36bde0228fd
+run_name: bemused-crab-817
+run_uuid: 3a1669ed08074a549e23e36bde0228fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707181360420
+status: 3
+tags: []
+user_id: aasthakhatgarh

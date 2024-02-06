@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/85e4ef17a7484ff58eb821c8a9785b60/artifacts
+end_time: 1707185546979
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 85e4ef17a7484ff58eb821c8a9785b60
+run_name: burly-perch-734
+run_uuid: 85e4ef17a7484ff58eb821c8a9785b60
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185546874
+status: 3
+tags: []
+user_id: aasthakhatgarh

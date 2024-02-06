@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/d2d2866e29d94781b0b2498c83a9f459/artifacts
+end_time: 1707184977314
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d2d2866e29d94781b0b2498c83a9f459
+run_name: orderly-shrew-381
+run_uuid: d2d2866e29d94781b0b2498c83a9f459
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184977234
+status: 3
+tags: []
+user_id: aasthakhatgarh

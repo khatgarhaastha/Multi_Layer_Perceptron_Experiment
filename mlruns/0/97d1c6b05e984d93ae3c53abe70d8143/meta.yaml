@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/97d1c6b05e984d93ae3c53abe70d8143/artifacts
+end_time: 1707185493958
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 97d1c6b05e984d93ae3c53abe70d8143
+run_name: puzzled-wren-512
+run_uuid: 97d1c6b05e984d93ae3c53abe70d8143
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185493880
+status: 3
+tags: []
+user_id: aasthakhatgarh

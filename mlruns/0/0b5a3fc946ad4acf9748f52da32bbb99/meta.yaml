@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/0b5a3fc946ad4acf9748f52da32bbb99/artifacts
+end_time: 1707185524464
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0b5a3fc946ad4acf9748f52da32bbb99
+run_name: gifted-finch-559
+run_uuid: 0b5a3fc946ad4acf9748f52da32bbb99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185524199
+status: 3
+tags: []
+user_id: aasthakhatgarh

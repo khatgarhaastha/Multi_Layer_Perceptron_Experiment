@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/5155992420964d26a24bf15b25b05347/artifacts
+end_time: 1707184330856
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5155992420964d26a24bf15b25b05347
+run_name: abrasive-fowl-105
+run_uuid: 5155992420964d26a24bf15b25b05347
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184330795
+status: 3
+tags: []
+user_id: aasthakhatgarh

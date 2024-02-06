@@ -46,15 +46,22 @@ def backpropagation(X, Y, Z1, A1, Z2, A2, W1, W2):
     return dW1, dW2, db1, db2
 
 # Update parameters
-def update_parameters(W1, W2, b1, b2, dW1, dW2, db1, db2, learning_rate):
-    W1 = W1 - learning_rate * dW1
-    W2 = W2 - learning_rate * dW2
+def update_parameters(W1, W2, b1, b2, dW1, dW2, db1, db2, learning_rate, regularization):
+    #lambda_reg = 0.01  # Regularization strength
+
+    # Update parameters with L2 regularization
+    W1 = W1 - learning_rate * (dW1 + regularization * W1)
+    W2 = W2 - learning_rate * (dW2 + regularization * W2)
+
+    #W1 = W1 - learning_rate * dW1
+    #W2 = W2 - learning_rate * dW2
+
     b1 = b1 - learning_rate * db1
     b2 = b2 - learning_rate * db2
     return W1, W2, b1, b2
 
 # MLP model
-def model(X,Y, n_hidden, num_iterations, learning_rate ):
+def model(X,Y, n_hidden, num_iterations, learning_rate, regularization ):
     n_input = X.shape[1] # number of input features
     n_output = Y.shape[1] # number of output features
 
@@ -64,7 +71,7 @@ def model(X,Y, n_hidden, num_iterations, learning_rate ):
         Z1, A1, Z2, A2 = forward_propagation(X, W1, W2, b1, b2) 
         loss = compute_loss(Y, A2)
         dW1, dW2, db1, db2 = backpropagation(X, Y, Z1, A1, Z2, A2, W1, W2)
-        W1, W2, b1, b2 = update_parameters(W1, W2, b1, b2, dW1, dW2, db1, db2, learning_rate)
+        W1, W2, b1, b2 = update_parameters(W1, W2, b1, b2, dW1, dW2, db1, db2, learning_rate, regularization)
 
         if i % 100 == 0:
             print(f"Loss after iteration {i}: {loss}")
@@ -79,7 +86,7 @@ def predict(X, Y, W1, W2, b1, b2):
     return accuracy 
 
 # Function to run the experiment 
-def run_experiment(train, test, validate, n_hidden, num_iterations, learning_rate):
+def run_experiment(train, test, validate, n_hidden, num_iterations, learning_rate, regularization):
 
     # load data
     X_train, Y_train = load_data(train)
@@ -90,7 +97,7 @@ def run_experiment(train, test, validate, n_hidden, num_iterations, learning_rat
     #x_test_normalized = (X_test - mean)/std # normalize input features
 
     # train model
-    W1, W2, b1, b2 = model(X_train_normalized, Y_train, n_hidden, num_iterations, learning_rate)
+    W1, W2, b1, b2 = model(X_train_normalized, Y_train, n_hidden, num_iterations, learning_rate, regularization)
 
     # evaluate model
     train_accuracy = predict(X_train_normalized, Y_train, W1, W2, b1, b2)
@@ -130,13 +137,15 @@ if __name__ == "__main__":
         n_hidden = trial.suggest_int('n_hidden', 4, 64)
         num_iterations = trial.suggest_int('num_iterations', 100, 1000)
         learning_rate = trial.suggest_float('learning_rate', 0.001, 0.1)
+        regularization = trial.suggest_float('regularization', 0.0001, 0.001)
 
         with mlflow.start_run():
             mlflow.log_param("hidden_layer_size", n_hidden)
             mlflow.log_param("num_iterations", num_iterations)
             mlflow.log_param("learning_rate", learning_rate)
+            mlflow.log_param("regularization", regularization)
 
-            validate_accuracy = run_experiment('spiral_train.csv', 'spiral_test.csv', 'spiral_valid.csv', n_hidden, num_iterations, learning_rate)
+            validate_accuracy = run_experiment('center_surround_train.csv', 'center_surround_test.csv', 'center_surround_valid.csv', n_hidden, num_iterations, learning_rate, regularization)
 
             #mlflow.log_metric("train_accuracy", train_accuracy)
             mlflow.log_metric("validation_accuracy", validate_accuracy)

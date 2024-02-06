@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/0c938ffbe6bc400fab96184bb2eef0cc/artifacts
+end_time: 1707181360110
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0c938ffbe6bc400fab96184bb2eef0cc
+run_name: abrasive-chimp-344
+run_uuid: 0c938ffbe6bc400fab96184bb2eef0cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707181359976
+status: 3
+tags: []
+user_id: aasthakhatgarh

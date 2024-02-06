@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/d1844554ee13490fb9f9f74e603ad073/artifacts
+end_time: 1707185633240
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d1844554ee13490fb9f9f74e603ad073
+run_name: salty-croc-128
+run_uuid: d1844554ee13490fb9f9f74e603ad073
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185633195
+status: 3
+tags: []
+user_id: aasthakhatgarh

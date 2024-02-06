@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/2c0d99b56bc94e3fb1519925d14915cf/artifacts
+end_time: 1707184972207
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2c0d99b56bc94e3fb1519925d14915cf
+run_name: luminous-owl-884
+run_uuid: 2c0d99b56bc94e3fb1519925d14915cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184971981
+status: 3
+tags: []
+user_id: aasthakhatgarh

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/d6301c5c80094076a74689f90b835437/artifacts
+end_time: 1707185586810
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d6301c5c80094076a74689f90b835437
+run_name: smiling-rook-52
+run_uuid: d6301c5c80094076a74689f90b835437
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185586771
+status: 3
+tags: []
+user_id: aasthakhatgarh

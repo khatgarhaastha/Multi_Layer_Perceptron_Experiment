@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/94210f9d102645fea149f955d289d2da/artifacts
+end_time: 1707185525092
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 94210f9d102645fea149f955d289d2da
+run_name: indecisive-mink-25
+run_uuid: 94210f9d102645fea149f955d289d2da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185525012
+status: 3
+tags: []
+user_id: aasthakhatgarh

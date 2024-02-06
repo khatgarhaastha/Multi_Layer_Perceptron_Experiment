@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/87109aa5ead949d2873688f469cf50ae/artifacts
+end_time: 1707185554074
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 87109aa5ead949d2873688f469cf50ae
+run_name: colorful-goat-225
+run_uuid: 87109aa5ead949d2873688f469cf50ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185554036
+status: 3
+tags: []
+user_id: aasthakhatgarh

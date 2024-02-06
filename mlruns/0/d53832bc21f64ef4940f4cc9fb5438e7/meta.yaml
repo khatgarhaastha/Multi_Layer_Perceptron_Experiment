@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/d53832bc21f64ef4940f4cc9fb5438e7/artifacts
+end_time: 1707185589577
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d53832bc21f64ef4940f4cc9fb5438e7
+run_name: magnificent-bug-538
+run_uuid: d53832bc21f64ef4940f4cc9fb5438e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185589480
+status: 3
+tags: []
+user_id: aasthakhatgarh

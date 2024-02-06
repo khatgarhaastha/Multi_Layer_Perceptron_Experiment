@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/4e68a1588a9d48aa8c3c0922d96c57cb/artifacts
+end_time: 1707181365264
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4e68a1588a9d48aa8c3c0922d96c57cb
+run_name: wise-rook-773
+run_uuid: 4e68a1588a9d48aa8c3c0922d96c57cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707181365238
+status: 3
+tags: []
+user_id: aasthakhatgarh

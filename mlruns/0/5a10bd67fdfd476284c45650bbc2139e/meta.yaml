@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/5a10bd67fdfd476284c45650bbc2139e/artifacts
+end_time: 1707185687502
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5a10bd67fdfd476284c45650bbc2139e
+run_name: welcoming-shad-740
+run_uuid: 5a10bd67fdfd476284c45650bbc2139e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185687459
+status: 3
+tags: []
+user_id: aasthakhatgarh

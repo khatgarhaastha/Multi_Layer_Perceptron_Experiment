@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/b8ec22d1d5724626b1e4a1dd6f8ce906/artifacts
+end_time: 1707185527480
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b8ec22d1d5724626b1e4a1dd6f8ce906
+run_name: youthful-sow-434
+run_uuid: b8ec22d1d5724626b1e4a1dd6f8ce906
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185527424
+status: 3
+tags: []
+user_id: aasthakhatgarh

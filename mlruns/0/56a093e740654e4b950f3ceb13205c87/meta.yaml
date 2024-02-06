@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/56a093e740654e4b950f3ceb13205c87/artifacts
+end_time: 1707185688426
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 56a093e740654e4b950f3ceb13205c87
+run_name: efficient-sponge-998
+run_uuid: 56a093e740654e4b950f3ceb13205c87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185688364
+status: 3
+tags: []
+user_id: aasthakhatgarh

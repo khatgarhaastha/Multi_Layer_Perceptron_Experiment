@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/de4cbe771245431a81219886a6ea333d/artifacts
+end_time: 1707185667811
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: de4cbe771245431a81219886a6ea333d
+run_name: dazzling-mole-404
+run_uuid: de4cbe771245431a81219886a6ea333d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185667769
+status: 3
+tags: []
+user_id: aasthakhatgarh

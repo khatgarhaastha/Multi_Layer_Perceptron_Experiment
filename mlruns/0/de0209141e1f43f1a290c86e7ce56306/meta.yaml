@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/de0209141e1f43f1a290c86e7ce56306/artifacts
+end_time: 1707181364329
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: de0209141e1f43f1a290c86e7ce56306
+run_name: bustling-flea-333
+run_uuid: de0209141e1f43f1a290c86e7ce56306
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707181364297
+status: 3
+tags: []
+user_id: aasthakhatgarh

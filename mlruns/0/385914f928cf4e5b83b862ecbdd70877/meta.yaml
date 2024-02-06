@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/385914f928cf4e5b83b862ecbdd70877/artifacts
+end_time: 1707185686602
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 385914f928cf4e5b83b862ecbdd70877
+run_name: luminous-kit-645
+run_uuid: 385914f928cf4e5b83b862ecbdd70877
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185686563
+status: 3
+tags: []
+user_id: aasthakhatgarh

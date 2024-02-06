@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/a0fcb7bf7c1444f782b94bf9c8db8e14/artifacts
+end_time: 1707184977092
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a0fcb7bf7c1444f782b94bf9c8db8e14
+run_name: traveling-auk-966
+run_uuid: a0fcb7bf7c1444f782b94bf9c8db8e14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184977059
+status: 3
+tags: []
+user_id: aasthakhatgarh

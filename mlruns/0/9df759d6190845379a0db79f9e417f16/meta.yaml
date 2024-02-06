@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/9df759d6190845379a0db79f9e417f16/artifacts
+end_time: 1707185681371
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9df759d6190845379a0db79f9e417f16
+run_name: sneaky-panda-633
+run_uuid: 9df759d6190845379a0db79f9e417f16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185681310
+status: 3
+tags: []
+user_id: aasthakhatgarh

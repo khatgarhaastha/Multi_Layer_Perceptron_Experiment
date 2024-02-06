@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/40ac918d81de4f12bb3cc4e09eb746cd/artifacts
+end_time: 1707185544490
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 40ac918d81de4f12bb3cc4e09eb746cd
+run_name: clean-goose-361
+run_uuid: 40ac918d81de4f12bb3cc4e09eb746cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185544359
+status: 3
+tags: []
+user_id: aasthakhatgarh

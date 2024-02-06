@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/c56228b6b9f54996b64f3ffbfea29902/artifacts
+end_time: 1707185500860
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c56228b6b9f54996b64f3ffbfea29902
+run_name: able-whale-911
+run_uuid: c56228b6b9f54996b64f3ffbfea29902
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185500801
+status: 3
+tags: []
+user_id: aasthakhatgarh

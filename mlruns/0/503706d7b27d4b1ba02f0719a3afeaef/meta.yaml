@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/503706d7b27d4b1ba02f0719a3afeaef/artifacts
+end_time: 1707185628324
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 503706d7b27d4b1ba02f0719a3afeaef
+run_name: aged-ray-243
+run_uuid: 503706d7b27d4b1ba02f0719a3afeaef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185628210
+status: 3
+tags: []
+user_id: aasthakhatgarh

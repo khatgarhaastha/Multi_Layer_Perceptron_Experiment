@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/e19ce939cf4f43c5b11856cbc05274dd/artifacts
+end_time: 1707184976982
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e19ce939cf4f43c5b11856cbc05274dd
+run_name: receptive-shad-114
+run_uuid: e19ce939cf4f43c5b11856cbc05274dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184976932
+status: 3
+tags: []
+user_id: aasthakhatgarh

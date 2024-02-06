@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/f59feb926f50488680b5f2ab602badd4/artifacts
+end_time: 1707184333620
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f59feb926f50488680b5f2ab602badd4
+run_name: amazing-goose-283
+run_uuid: f59feb926f50488680b5f2ab602badd4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184333596
+status: 3
+tags: []
+user_id: aasthakhatgarh

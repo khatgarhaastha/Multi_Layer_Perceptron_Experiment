@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/9eeac539cac940bba0d6051924a32e07/artifacts
+end_time: 1707185627658
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9eeac539cac940bba0d6051924a32e07
+run_name: judicious-asp-173
+run_uuid: 9eeac539cac940bba0d6051924a32e07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185627598
+status: 3
+tags: []
+user_id: aasthakhatgarh

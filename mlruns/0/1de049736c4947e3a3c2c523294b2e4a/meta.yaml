@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/1de049736c4947e3a3c2c523294b2e4a/artifacts
+end_time: 1707181364278
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1de049736c4947e3a3c2c523294b2e4a
+run_name: hilarious-elk-157
+run_uuid: 1de049736c4947e3a3c2c523294b2e4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707181364251
+status: 3
+tags: []
+user_id: aasthakhatgarh

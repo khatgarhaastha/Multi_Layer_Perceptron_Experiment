@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/bd0b687f725c4a5ab6d97b71e4bbec34/artifacts
+end_time: 1707185526844
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bd0b687f725c4a5ab6d97b71e4bbec34
+run_name: sincere-hen-447
+run_uuid: bd0b687f725c4a5ab6d97b71e4bbec34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185526790
+status: 3
+tags: []
+user_id: aasthakhatgarh

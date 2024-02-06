@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/7824acb127ad43a3b79fcb2d31d854cf/artifacts
+end_time: 1707184181365
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7824acb127ad43a3b79fcb2d31d854cf
+run_name: puzzled-frog-330
+run_uuid: 7824acb127ad43a3b79fcb2d31d854cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184181331
+status: 3
+tags: []
+user_id: aasthakhatgarh

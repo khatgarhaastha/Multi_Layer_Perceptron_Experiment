@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/29407c8325de4ac2bfb7070a69390a32/artifacts
+end_time: 1707181365863
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 29407c8325de4ac2bfb7070a69390a32
+run_name: nebulous-ant-878
+run_uuid: 29407c8325de4ac2bfb7070a69390a32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707181365827
+status: 3
+tags: []
+user_id: aasthakhatgarh

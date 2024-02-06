@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/3e71e88b58c84600a261ed122ed54859/artifacts
+end_time: 1707185667921
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3e71e88b58c84600a261ed122ed54859
+run_name: lyrical-kit-400
+run_uuid: 3e71e88b58c84600a261ed122ed54859
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185667876
+status: 3
+tags: []
+user_id: aasthakhatgarh

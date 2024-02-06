@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/7ce0bb39ea3d46eea9020f8e220691ad/artifacts
+end_time: 1707185576108
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7ce0bb39ea3d46eea9020f8e220691ad
+run_name: nebulous-trout-41
+run_uuid: 7ce0bb39ea3d46eea9020f8e220691ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185576055
+status: 3
+tags: []
+user_id: aasthakhatgarh

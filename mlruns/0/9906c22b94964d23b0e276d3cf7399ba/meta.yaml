@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/9906c22b94964d23b0e276d3cf7399ba/artifacts
+end_time: 1707185577104
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9906c22b94964d23b0e276d3cf7399ba
+run_name: luminous-doe-162
+run_uuid: 9906c22b94964d23b0e276d3cf7399ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185577055
+status: 3
+tags: []
+user_id: aasthakhatgarh

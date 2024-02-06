@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/f7ea24211ae94d5a97dd711b2a109b61/artifacts
+end_time: 1707185494923
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f7ea24211ae94d5a97dd711b2a109b61
+run_name: merciful-jay-469
+run_uuid: f7ea24211ae94d5a97dd711b2a109b61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185494876
+status: 3
+tags: []
+user_id: aasthakhatgarh

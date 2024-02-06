@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/c46529df041142c98fc66e7a54b12671/artifacts
+end_time: 1707185587400
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c46529df041142c98fc66e7a54b12671
+run_name: casual-slug-503
+run_uuid: c46529df041142c98fc66e7a54b12671
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185587325
+status: 3
+tags: []
+user_id: aasthakhatgarh

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/999cfe050c504a35877f1a967d1729c0/artifacts
+end_time: 1707185519966
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 999cfe050c504a35877f1a967d1729c0
+run_name: bold-midge-581
+run_uuid: 999cfe050c504a35877f1a967d1729c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185519940
+status: 3
+tags: []
+user_id: aasthakhatgarh

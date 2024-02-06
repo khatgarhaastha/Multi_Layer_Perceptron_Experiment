@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/06a2b5ff86e84f8bb2aa360ab94e3970/artifacts
+end_time: 1707184979036
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 06a2b5ff86e84f8bb2aa360ab94e3970
+run_name: invincible-owl-247
+run_uuid: 06a2b5ff86e84f8bb2aa360ab94e3970
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184978930
+status: 3
+tags: []
+user_id: aasthakhatgarh

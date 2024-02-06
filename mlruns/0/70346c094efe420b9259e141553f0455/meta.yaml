@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/70346c094efe420b9259e141553f0455/artifacts
+end_time: 1707185492543
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 70346c094efe420b9259e141553f0455
+run_name: glamorous-zebra-643
+run_uuid: 70346c094efe420b9259e141553f0455
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185492349
+status: 3
+tags: []
+user_id: aasthakhatgarh

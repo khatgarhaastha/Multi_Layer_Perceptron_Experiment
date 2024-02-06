@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/1cd6898323bd48b6aed0cc1092a1740d/artifacts
+end_time: 1707185573211
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1cd6898323bd48b6aed0cc1092a1740d
+run_name: aged-stork-719
+run_uuid: 1cd6898323bd48b6aed0cc1092a1740d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185573038
+status: 3
+tags: []
+user_id: aasthakhatgarh

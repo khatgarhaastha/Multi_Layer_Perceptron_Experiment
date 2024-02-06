@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/7a90bbcaf1ea43f8acebee45f0641082/artifacts
+end_time: 1707185527543
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7a90bbcaf1ea43f8acebee45f0641082
+run_name: skittish-swan-770
+run_uuid: 7a90bbcaf1ea43f8acebee45f0641082
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185527492
+status: 3
+tags: []
+user_id: aasthakhatgarh

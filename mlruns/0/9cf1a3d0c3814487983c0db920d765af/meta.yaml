@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/9cf1a3d0c3814487983c0db920d765af/artifacts
+end_time: 1707185632562
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9cf1a3d0c3814487983c0db920d765af
+run_name: thundering-kite-734
+run_uuid: 9cf1a3d0c3814487983c0db920d765af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185632516
+status: 3
+tags: []
+user_id: aasthakhatgarh

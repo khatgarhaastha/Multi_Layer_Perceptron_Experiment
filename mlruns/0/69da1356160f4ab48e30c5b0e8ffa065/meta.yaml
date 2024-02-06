@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/69da1356160f4ab48e30c5b0e8ffa065/artifacts
+end_time: 1707185576772
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 69da1356160f4ab48e30c5b0e8ffa065
+run_name: brawny-steed-573
+run_uuid: 69da1356160f4ab48e30c5b0e8ffa065
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185576604
+status: 3
+tags: []
+user_id: aasthakhatgarh

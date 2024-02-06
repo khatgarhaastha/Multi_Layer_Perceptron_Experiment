@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/5542ca801b0e4060930899db51de74e4/artifacts
+end_time: 1707185592469
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5542ca801b0e4060930899db51de74e4
+run_name: respected-bear-113
+run_uuid: 5542ca801b0e4060930899db51de74e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185592421
+status: 3
+tags: []
+user_id: aasthakhatgarh

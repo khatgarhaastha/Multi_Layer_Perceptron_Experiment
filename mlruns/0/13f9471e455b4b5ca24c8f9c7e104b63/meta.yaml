@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/13f9471e455b4b5ca24c8f9c7e104b63/artifacts
+end_time: 1707184971903
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 13f9471e455b4b5ca24c8f9c7e104b63
+run_name: able-lynx-736
+run_uuid: 13f9471e455b4b5ca24c8f9c7e104b63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184971873
+status: 3
+tags: []
+user_id: aasthakhatgarh

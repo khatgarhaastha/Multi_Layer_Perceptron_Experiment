@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/ba3b8ed1e1f44f559978792962078830/artifacts
+end_time: 1707184980042
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ba3b8ed1e1f44f559978792962078830
+run_name: clumsy-kite-391
+run_uuid: ba3b8ed1e1f44f559978792962078830
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184980032
+status: 3
+tags: []
+user_id: aasthakhatgarh

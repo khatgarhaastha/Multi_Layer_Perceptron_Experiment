@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/91a01af7910b4f84846fc4273e97a3d3/artifacts
+end_time: 1707185631056
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 91a01af7910b4f84846fc4273e97a3d3
+run_name: invincible-bug-803
+run_uuid: 91a01af7910b4f84846fc4273e97a3d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185631009
+status: 3
+tags: []
+user_id: aasthakhatgarh

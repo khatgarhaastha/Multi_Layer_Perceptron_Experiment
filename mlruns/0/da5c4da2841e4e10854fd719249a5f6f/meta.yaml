@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/da5c4da2841e4e10854fd719249a5f6f/artifacts
+end_time: 1707185492722
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: da5c4da2841e4e10854fd719249a5f6f
+run_name: upset-shrew-583
+run_uuid: da5c4da2841e4e10854fd719249a5f6f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185492652
+status: 3
+tags: []
+user_id: aasthakhatgarh

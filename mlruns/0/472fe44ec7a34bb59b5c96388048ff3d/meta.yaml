@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/472fe44ec7a34bb59b5c96388048ff3d/artifacts
+end_time: 1707185548457
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 472fe44ec7a34bb59b5c96388048ff3d
+run_name: bouncy-finch-184
+run_uuid: 472fe44ec7a34bb59b5c96388048ff3d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185548409
+status: 3
+tags: []
+user_id: aasthakhatgarh

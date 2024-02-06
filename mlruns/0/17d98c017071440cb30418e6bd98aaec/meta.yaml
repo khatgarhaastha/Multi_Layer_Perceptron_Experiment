@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/17d98c017071440cb30418e6bd98aaec/artifacts
+end_time: 1707184969220
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 17d98c017071440cb30418e6bd98aaec
+run_name: rare-fly-531
+run_uuid: 17d98c017071440cb30418e6bd98aaec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184969166
+status: 3
+tags: []
+user_id: aasthakhatgarh

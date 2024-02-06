@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/035c55f21f994d91a6f1fe63d3f9a96f/artifacts
+end_time: 1707185550598
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 035c55f21f994d91a6f1fe63d3f9a96f
+run_name: defiant-grub-589
+run_uuid: 035c55f21f994d91a6f1fe63d3f9a96f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185550533
+status: 3
+tags: []
+user_id: aasthakhatgarh

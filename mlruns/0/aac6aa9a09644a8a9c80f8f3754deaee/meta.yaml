@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/aac6aa9a09644a8a9c80f8f3754deaee/artifacts
+end_time: 1707184331193
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aac6aa9a09644a8a9c80f8f3754deaee
+run_name: bedecked-finch-422
+run_uuid: aac6aa9a09644a8a9c80f8f3754deaee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184330983
+status: 3
+tags: []
+user_id: aasthakhatgarh

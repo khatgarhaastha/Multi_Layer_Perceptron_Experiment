@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/c2ae4adb5fa84a589ebcddbfbfaa4722/artifacts
+end_time: 1707185577623
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c2ae4adb5fa84a589ebcddbfbfaa4722
+run_name: blushing-ape-510
+run_uuid: c2ae4adb5fa84a589ebcddbfbfaa4722
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185577586
+status: 3
+tags: []
+user_id: aasthakhatgarh

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/7c2998b45b6f42929b89e3fa747db795/artifacts
+end_time: 1707185590815
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7c2998b45b6f42929b89e3fa747db795
+run_name: crawling-duck-713
+run_uuid: 7c2998b45b6f42929b89e3fa747db795
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185590752
+status: 3
+tags: []
+user_id: aasthakhatgarh

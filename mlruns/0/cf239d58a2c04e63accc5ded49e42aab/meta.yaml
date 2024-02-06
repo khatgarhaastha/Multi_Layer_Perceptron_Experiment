@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/cf239d58a2c04e63accc5ded49e42aab/artifacts
+end_time: 1707184183124
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cf239d58a2c04e63accc5ded49e42aab
+run_name: resilient-gnat-57
+run_uuid: cf239d58a2c04e63accc5ded49e42aab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184183095
+status: 3
+tags: []
+user_id: aasthakhatgarh

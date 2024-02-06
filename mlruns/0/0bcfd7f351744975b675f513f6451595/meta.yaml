@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/0bcfd7f351744975b675f513f6451595/artifacts
+end_time: 1707185683688
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0bcfd7f351744975b675f513f6451595
+run_name: capable-donkey-275
+run_uuid: 0bcfd7f351744975b675f513f6451595
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185683609
+status: 3
+tags: []
+user_id: aasthakhatgarh

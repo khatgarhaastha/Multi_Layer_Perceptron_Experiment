@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/4dc2d3c8cea64c89bc620e8304a7a5d8/artifacts
+end_time: 1707185686328
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4dc2d3c8cea64c89bc620e8304a7a5d8
+run_name: abrasive-mare-643
+run_uuid: 4dc2d3c8cea64c89bc620e8304a7a5d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185686243
+status: 3
+tags: []
+user_id: aasthakhatgarh

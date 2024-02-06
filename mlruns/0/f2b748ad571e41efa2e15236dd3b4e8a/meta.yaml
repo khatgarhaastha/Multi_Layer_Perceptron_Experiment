@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/f2b748ad571e41efa2e15236dd3b4e8a/artifacts
+end_time: 1707185667091
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f2b748ad571e41efa2e15236dd3b4e8a
+run_name: puzzled-crab-640
+run_uuid: f2b748ad571e41efa2e15236dd3b4e8a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185667048
+status: 3
+tags: []
+user_id: aasthakhatgarh

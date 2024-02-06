@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/73da27f24d79485ba6310ef23021359d/artifacts
+end_time: 1707185575286
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 73da27f24d79485ba6310ef23021359d
+run_name: awesome-midge-135
+run_uuid: 73da27f24d79485ba6310ef23021359d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185575226
+status: 3
+tags: []
+user_id: aasthakhatgarh

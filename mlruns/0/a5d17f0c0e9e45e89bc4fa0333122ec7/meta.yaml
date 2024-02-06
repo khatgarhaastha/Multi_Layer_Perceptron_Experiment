@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/a5d17f0c0e9e45e89bc4fa0333122ec7/artifacts
+end_time: 1707185520060
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a5d17f0c0e9e45e89bc4fa0333122ec7
+run_name: debonair-smelt-818
+run_uuid: a5d17f0c0e9e45e89bc4fa0333122ec7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185519974
+status: 3
+tags: []
+user_id: aasthakhatgarh

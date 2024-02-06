@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/a7341958271040cd8f9514c0031f0cb1/artifacts
+end_time: 1707184330441
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a7341958271040cd8f9514c0031f0cb1
+run_name: magnificent-frog-273
+run_uuid: a7341958271040cd8f9514c0031f0cb1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184330152
+status: 3
+tags: []
+user_id: aasthakhatgarh

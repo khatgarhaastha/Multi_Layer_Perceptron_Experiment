@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/ffd28d2a6abd4a5ca7c4ab5dd575f85a/artifacts
+end_time: 1707185518931
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ffd28d2a6abd4a5ca7c4ab5dd575f85a
+run_name: chill-perch-405
+run_uuid: ffd28d2a6abd4a5ca7c4ab5dd575f85a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185518906
+status: 3
+tags: []
+user_id: aasthakhatgarh

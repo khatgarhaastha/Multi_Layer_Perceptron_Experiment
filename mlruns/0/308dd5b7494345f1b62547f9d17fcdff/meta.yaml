@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/308dd5b7494345f1b62547f9d17fcdff/artifacts
+end_time: 1707184182449
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 308dd5b7494345f1b62547f9d17fcdff
+run_name: rebellious-hound-174
+run_uuid: 308dd5b7494345f1b62547f9d17fcdff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184182426
+status: 3
+tags: []
+user_id: aasthakhatgarh

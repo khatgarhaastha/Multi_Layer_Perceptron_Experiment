@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/4b98660fac8b433eb040649145e1a408/artifacts
+end_time: 1707185683216
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4b98660fac8b433eb040649145e1a408
+run_name: industrious-eel-45
+run_uuid: 4b98660fac8b433eb040649145e1a408
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185683166
+status: 3
+tags: []
+user_id: aasthakhatgarh

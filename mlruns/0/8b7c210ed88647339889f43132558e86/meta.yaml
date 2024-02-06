@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/8b7c210ed88647339889f43132558e86/artifacts
+end_time: 1707185520669
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8b7c210ed88647339889f43132558e86
+run_name: luminous-asp-349
+run_uuid: 8b7c210ed88647339889f43132558e86
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185520591
+status: 3
+tags: []
+user_id: aasthakhatgarh

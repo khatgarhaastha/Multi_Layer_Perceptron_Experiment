@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/27766b0326be46ad8412c835453c9922/artifacts
+end_time: 1707185527171
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 27766b0326be46ad8412c835453c9922
+run_name: kindly-colt-986
+run_uuid: 27766b0326be46ad8412c835453c9922
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185527113
+status: 3
+tags: []
+user_id: aasthakhatgarh

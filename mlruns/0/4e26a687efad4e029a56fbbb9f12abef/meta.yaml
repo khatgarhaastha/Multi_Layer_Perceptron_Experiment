@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/4e26a687efad4e029a56fbbb9f12abef/artifacts
+end_time: 1707185522546
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4e26a687efad4e029a56fbbb9f12abef
+run_name: bustling-wren-743
+run_uuid: 4e26a687efad4e029a56fbbb9f12abef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185522505
+status: 3
+tags: []
+user_id: aasthakhatgarh

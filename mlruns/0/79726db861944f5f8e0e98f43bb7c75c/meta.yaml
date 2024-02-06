@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/79726db861944f5f8e0e98f43bb7c75c/artifacts
+end_time: 1707185493097
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 79726db861944f5f8e0e98f43bb7c75c
+run_name: burly-quail-400
+run_uuid: 79726db861944f5f8e0e98f43bb7c75c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185493034
+status: 3
+tags: []
+user_id: aasthakhatgarh

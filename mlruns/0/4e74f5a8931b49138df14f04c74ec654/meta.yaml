@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/4e74f5a8931b49138df14f04c74ec654/artifacts
+end_time: 1707184331713
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4e74f5a8931b49138df14f04c74ec654
+run_name: inquisitive-doe-32
+run_uuid: 4e74f5a8931b49138df14f04c74ec654
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184331662
+status: 3
+tags: []
+user_id: aasthakhatgarh

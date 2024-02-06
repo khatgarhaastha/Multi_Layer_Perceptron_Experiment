@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/eaef0947f7724276859a1856da05e5c9/artifacts
+end_time: 1707185665765
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eaef0947f7724276859a1856da05e5c9
+run_name: dazzling-boar-295
+run_uuid: eaef0947f7724276859a1856da05e5c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185665531
+status: 3
+tags: []
+user_id: aasthakhatgarh

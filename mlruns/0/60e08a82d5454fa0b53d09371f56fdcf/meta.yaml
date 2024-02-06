@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/60e08a82d5454fa0b53d09371f56fdcf/artifacts
+end_time: 1707185525825
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 60e08a82d5454fa0b53d09371f56fdcf
+run_name: valuable-finch-638
+run_uuid: 60e08a82d5454fa0b53d09371f56fdcf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185525558
+status: 3
+tags: []
+user_id: aasthakhatgarh

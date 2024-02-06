@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/6158c31b53684000ae035d95101532f8/artifacts
+end_time: 1707185545383
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6158c31b53684000ae035d95101532f8
+run_name: smiling-wasp-311
+run_uuid: 6158c31b53684000ae035d95101532f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185545299
+status: 3
+tags: []
+user_id: aasthakhatgarh

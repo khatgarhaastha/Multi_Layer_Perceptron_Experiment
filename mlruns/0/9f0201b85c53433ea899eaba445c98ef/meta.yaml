@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/9f0201b85c53433ea899eaba445c98ef/artifacts
+end_time: 1707185574297
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9f0201b85c53433ea899eaba445c98ef
+run_name: carefree-squid-716
+run_uuid: 9f0201b85c53433ea899eaba445c98ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185574171
+status: 3
+tags: []
+user_id: aasthakhatgarh

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/fb63bba5ae6e42e190000678522950eb/artifacts
+end_time: 1707185521401
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fb63bba5ae6e42e190000678522950eb
+run_name: abundant-robin-877
+run_uuid: fb63bba5ae6e42e190000678522950eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185521326
+status: 3
+tags: []
+user_id: aasthakhatgarh

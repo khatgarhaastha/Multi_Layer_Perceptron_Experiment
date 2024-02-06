@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/606e9090f52a40a6a3b72a01e77f5b47/artifacts
+end_time: 1707185683966
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 606e9090f52a40a6a3b72a01e77f5b47
+run_name: melodic-shad-658
+run_uuid: 606e9090f52a40a6a3b72a01e77f5b47
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185683914
+status: 3
+tags: []
+user_id: aasthakhatgarh

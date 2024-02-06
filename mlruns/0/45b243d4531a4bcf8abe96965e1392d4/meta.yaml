@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/45b243d4531a4bcf8abe96965e1392d4/artifacts
+end_time: 1707185549223
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 45b243d4531a4bcf8abe96965e1392d4
+run_name: funny-auk-576
+run_uuid: 45b243d4531a4bcf8abe96965e1392d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185549044
+status: 3
+tags: []
+user_id: aasthakhatgarh

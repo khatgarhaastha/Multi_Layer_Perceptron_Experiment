@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/471954f8da774ba3bcb18fe78ec92c6b/artifacts
+end_time: 1707185585893
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 471954f8da774ba3bcb18fe78ec92c6b
+run_name: rambunctious-rook-77
+run_uuid: 471954f8da774ba3bcb18fe78ec92c6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185585420
+status: 3
+tags: []
+user_id: aasthakhatgarh

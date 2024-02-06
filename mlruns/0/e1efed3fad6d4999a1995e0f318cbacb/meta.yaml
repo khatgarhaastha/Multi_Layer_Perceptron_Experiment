@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/e1efed3fad6d4999a1995e0f318cbacb/artifacts
+end_time: 1707185591626
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e1efed3fad6d4999a1995e0f318cbacb
+run_name: angry-ray-744
+run_uuid: e1efed3fad6d4999a1995e0f318cbacb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185591574
+status: 3
+tags: []
+user_id: aasthakhatgarh

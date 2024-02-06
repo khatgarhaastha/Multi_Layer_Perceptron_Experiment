@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/96ab4a18ffd342398d92879efa7dbb93/artifacts
+end_time: 1707185630553
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 96ab4a18ffd342398d92879efa7dbb93
+run_name: gifted-deer-311
+run_uuid: 96ab4a18ffd342398d92879efa7dbb93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185630522
+status: 3
+tags: []
+user_id: aasthakhatgarh

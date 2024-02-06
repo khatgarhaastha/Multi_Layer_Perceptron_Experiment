@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/6db89482a85e4125ac5925ed95bc7569/artifacts
+end_time: 1707185682071
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6db89482a85e4125ac5925ed95bc7569
+run_name: bustling-boar-979
+run_uuid: 6db89482a85e4125ac5925ed95bc7569
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185681975
+status: 3
+tags: []
+user_id: aasthakhatgarh

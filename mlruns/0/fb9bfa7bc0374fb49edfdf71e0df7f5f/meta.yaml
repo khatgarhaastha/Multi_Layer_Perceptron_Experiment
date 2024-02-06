@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/fb9bfa7bc0374fb49edfdf71e0df7f5f/artifacts
+end_time: 1707185626556
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fb9bfa7bc0374fb49edfdf71e0df7f5f
+run_name: unique-quail-653
+run_uuid: fb9bfa7bc0374fb49edfdf71e0df7f5f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185626478
+status: 3
+tags: []
+user_id: aasthakhatgarh

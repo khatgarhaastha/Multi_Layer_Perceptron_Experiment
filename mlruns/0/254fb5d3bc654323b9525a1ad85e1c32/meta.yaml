@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/254fb5d3bc654323b9525a1ad85e1c32/artifacts
+end_time: 1707185521100
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 254fb5d3bc654323b9525a1ad85e1c32
+run_name: whimsical-robin-179
+run_uuid: 254fb5d3bc654323b9525a1ad85e1c32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185521044
+status: 3
+tags: []
+user_id: aasthakhatgarh

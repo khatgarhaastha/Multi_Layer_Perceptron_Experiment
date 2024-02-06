@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/19682dbd2bf146cc9cbb3d7bf639360b/artifacts
+end_time: 1707185589916
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 19682dbd2bf146cc9cbb3d7bf639360b
+run_name: mysterious-fox-440
+run_uuid: 19682dbd2bf146cc9cbb3d7bf639360b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185589877
+status: 3
+tags: []
+user_id: aasthakhatgarh

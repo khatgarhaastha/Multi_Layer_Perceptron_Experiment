@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/f20ef4204882414eb69c71aad514bfb3/artifacts
+end_time: 1707185545589
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f20ef4204882414eb69c71aad514bfb3
+run_name: receptive-conch-466
+run_uuid: f20ef4204882414eb69c71aad514bfb3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185545517
+status: 3
+tags: []
+user_id: aasthakhatgarh

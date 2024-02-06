@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/fac138e31cfb4fb6b90b90e084d0e8d5/artifacts
+end_time: 1707185523347
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fac138e31cfb4fb6b90b90e084d0e8d5
+run_name: zealous-fowl-903
+run_uuid: fac138e31cfb4fb6b90b90e084d0e8d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185523249
+status: 3
+tags: []
+user_id: aasthakhatgarh

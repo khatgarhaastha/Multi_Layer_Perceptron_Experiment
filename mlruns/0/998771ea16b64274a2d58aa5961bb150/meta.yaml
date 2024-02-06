@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/998771ea16b64274a2d58aa5961bb150/artifacts
+end_time: 1707181363602
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 998771ea16b64274a2d58aa5961bb150
+run_name: nimble-worm-168
+run_uuid: 998771ea16b64274a2d58aa5961bb150
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707181363580
+status: 3
+tags: []
+user_id: aasthakhatgarh

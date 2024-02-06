@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/04c6564cb8a74be89801754d74a78259/artifacts
+end_time: 1707185520428
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 04c6564cb8a74be89801754d74a78259
+run_name: rogue-bird-808
+run_uuid: 04c6564cb8a74be89801754d74a78259
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185520372
+status: 3
+tags: []
+user_id: aasthakhatgarh

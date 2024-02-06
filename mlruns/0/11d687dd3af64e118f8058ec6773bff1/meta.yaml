@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/11d687dd3af64e118f8058ec6773bff1/artifacts
+end_time: 1707184978534
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 11d687dd3af64e118f8058ec6773bff1
+run_name: persistent-moth-951
+run_uuid: 11d687dd3af64e118f8058ec6773bff1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184978448
+status: 3
+tags: []
+user_id: aasthakhatgarh

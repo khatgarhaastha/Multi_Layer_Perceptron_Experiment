@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/8850b46469cc46fb9f37e34004b0987a/artifacts
+end_time: 1707185648018
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8850b46469cc46fb9f37e34004b0987a
+run_name: selective-moth-674
+run_uuid: 8850b46469cc46fb9f37e34004b0987a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185647961
+status: 3
+tags: []
+user_id: aasthakhatgarh

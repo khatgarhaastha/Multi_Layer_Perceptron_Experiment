@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/091b0c8782be4fe093fd5b31814d12be/artifacts
+end_time: 1707185646804
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 091b0c8782be4fe093fd5b31814d12be
+run_name: flawless-turtle-241
+run_uuid: 091b0c8782be4fe093fd5b31814d12be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185646732
+status: 3
+tags: []
+user_id: aasthakhatgarh

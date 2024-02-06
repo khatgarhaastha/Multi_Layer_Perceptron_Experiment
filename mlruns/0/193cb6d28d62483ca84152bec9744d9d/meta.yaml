@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/193cb6d28d62483ca84152bec9744d9d/artifacts
+end_time: 1707185555264
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 193cb6d28d62483ca84152bec9744d9d
+run_name: flawless-crow-810
+run_uuid: 193cb6d28d62483ca84152bec9744d9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185555055
+status: 3
+tags: []
+user_id: aasthakhatgarh

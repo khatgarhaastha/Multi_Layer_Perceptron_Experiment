@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/e233a250ca604c398c5a91466649f975/artifacts
+end_time: 1707185633571
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e233a250ca604c398c5a91466649f975
+run_name: nebulous-boar-159
+run_uuid: e233a250ca604c398c5a91466649f975
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185633528
+status: 3
+tags: []
+user_id: aasthakhatgarh

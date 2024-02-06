@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/e24658073f0b47cb8ec80f9d09a1cdf9/artifacts
+end_time: 1707185647321
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e24658073f0b47cb8ec80f9d09a1cdf9
+run_name: clean-eel-621
+run_uuid: e24658073f0b47cb8ec80f9d09a1cdf9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185647251
+status: 3
+tags: []
+user_id: aasthakhatgarh

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/37dda949a36849d58609a9c35fe9e7aa/artifacts
+end_time: 1707184977134
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 37dda949a36849d58609a9c35fe9e7aa
+run_name: amusing-steed-248
+run_uuid: 37dda949a36849d58609a9c35fe9e7aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184977103
+status: 3
+tags: []
+user_id: aasthakhatgarh

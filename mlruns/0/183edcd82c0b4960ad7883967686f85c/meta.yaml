@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/183edcd82c0b4960ad7883967686f85c/artifacts
+end_time: 1707185649945
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 183edcd82c0b4960ad7883967686f85c
+run_name: thoughtful-bear-107
+run_uuid: 183edcd82c0b4960ad7883967686f85c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185649907
+status: 3
+tags: []
+user_id: aasthakhatgarh

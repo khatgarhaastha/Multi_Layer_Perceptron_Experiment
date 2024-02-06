@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/19c27d9a746f4daf967b1fd8af5f579f/artifacts
+end_time: 1707181361930
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 19c27d9a746f4daf967b1fd8af5f579f
+run_name: chill-bird-887
+run_uuid: 19c27d9a746f4daf967b1fd8af5f579f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707181361847
+status: 3
+tags: []
+user_id: aasthakhatgarh

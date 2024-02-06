@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/6aec3b93aebd42c58e285cffac80a413/artifacts
+end_time: 1707185492651
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6aec3b93aebd42c58e285cffac80a413
+run_name: skillful-roo-306
+run_uuid: 6aec3b93aebd42c58e285cffac80a413
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185492545
+status: 3
+tags: []
+user_id: aasthakhatgarh

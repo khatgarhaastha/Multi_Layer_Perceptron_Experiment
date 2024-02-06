@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/cca15c2d8f4e4841b0b8f5bd6e13259c/artifacts
+end_time: 1707185494369
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cca15c2d8f4e4841b0b8f5bd6e13259c
+run_name: rebellious-doe-940
+run_uuid: cca15c2d8f4e4841b0b8f5bd6e13259c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185494325
+status: 3
+tags: []
+user_id: aasthakhatgarh

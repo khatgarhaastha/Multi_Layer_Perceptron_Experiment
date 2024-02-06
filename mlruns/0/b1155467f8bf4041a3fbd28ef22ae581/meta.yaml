@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/b1155467f8bf4041a3fbd28ef22ae581/artifacts
+end_time: 1707185570665
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b1155467f8bf4041a3fbd28ef22ae581
+run_name: honorable-pig-759
+run_uuid: b1155467f8bf4041a3fbd28ef22ae581
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185570601
+status: 3
+tags: []
+user_id: aasthakhatgarh

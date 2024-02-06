@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/9f4942e01f8543c1a08a8bf16ab775f5/artifacts
+end_time: 1707184975144
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9f4942e01f8543c1a08a8bf16ab775f5
+run_name: respected-ram-1000
+run_uuid: 9f4942e01f8543c1a08a8bf16ab775f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184975047
+status: 3
+tags: []
+user_id: aasthakhatgarh

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/e1b1f909e9b3491ab783bbc65a00354f/artifacts
+end_time: 1707181362332
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e1b1f909e9b3491ab783bbc65a00354f
+run_name: victorious-swan-356
+run_uuid: e1b1f909e9b3491ab783bbc65a00354f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707181362289
+status: 3
+tags: []
+user_id: aasthakhatgarh

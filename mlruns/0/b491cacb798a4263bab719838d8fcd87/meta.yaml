@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/b491cacb798a4263bab719838d8fcd87/artifacts
+end_time: 1707181363521
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b491cacb798a4263bab719838d8fcd87
+run_name: debonair-ape-948
+run_uuid: b491cacb798a4263bab719838d8fcd87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707181363487
+status: 3
+tags: []
+user_id: aasthakhatgarh

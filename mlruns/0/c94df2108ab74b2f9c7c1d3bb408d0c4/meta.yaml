@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/c94df2108ab74b2f9c7c1d3bb408d0c4/artifacts
+end_time: 1707185591403
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c94df2108ab74b2f9c7c1d3bb408d0c4
+run_name: adorable-crab-694
+run_uuid: c94df2108ab74b2f9c7c1d3bb408d0c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185591368
+status: 3
+tags: []
+user_id: aasthakhatgarh

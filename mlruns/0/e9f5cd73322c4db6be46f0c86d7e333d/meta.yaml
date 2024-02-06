@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/e9f5cd73322c4db6be46f0c86d7e333d/artifacts
+end_time: 1707184328153
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e9f5cd73322c4db6be46f0c86d7e333d
+run_name: nebulous-yak-516
+run_uuid: e9f5cd73322c4db6be46f0c86d7e333d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184328085
+status: 3
+tags: []
+user_id: aasthakhatgarh

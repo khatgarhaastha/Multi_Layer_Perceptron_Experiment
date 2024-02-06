@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/f85a294d9d844ed9adfe10d59ded3ea2/artifacts
+end_time: 1707184327711
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f85a294d9d844ed9adfe10d59ded3ea2
+run_name: rogue-robin-57
+run_uuid: f85a294d9d844ed9adfe10d59ded3ea2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184327679
+status: 3
+tags: []
+user_id: aasthakhatgarh

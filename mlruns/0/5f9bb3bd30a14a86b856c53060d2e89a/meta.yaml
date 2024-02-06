@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/5f9bb3bd30a14a86b856c53060d2e89a/artifacts
+end_time: 1707185577897
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5f9bb3bd30a14a86b856c53060d2e89a
+run_name: defiant-conch-886
+run_uuid: 5f9bb3bd30a14a86b856c53060d2e89a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185577855
+status: 3
+tags: []
+user_id: aasthakhatgarh

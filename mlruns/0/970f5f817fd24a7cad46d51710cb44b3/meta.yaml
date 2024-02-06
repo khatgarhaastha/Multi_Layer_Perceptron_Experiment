@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/970f5f817fd24a7cad46d51710cb44b3/artifacts
+end_time: 1707185569918
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 970f5f817fd24a7cad46d51710cb44b3
+run_name: enchanting-flea-57
+run_uuid: 970f5f817fd24a7cad46d51710cb44b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185569872
+status: 3
+tags: []
+user_id: aasthakhatgarh

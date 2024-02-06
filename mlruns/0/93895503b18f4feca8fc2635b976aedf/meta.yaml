@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/93895503b18f4feca8fc2635b976aedf/artifacts
+end_time: 1707185647901
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 93895503b18f4feca8fc2635b976aedf
+run_name: colorful-fowl-563
+run_uuid: 93895503b18f4feca8fc2635b976aedf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185647846
+status: 3
+tags: []
+user_id: aasthakhatgarh

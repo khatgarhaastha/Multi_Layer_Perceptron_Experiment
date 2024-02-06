@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/7eaf901392804b899c2dc868047dfb5a/artifacts
+end_time: 1707185526778
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7eaf901392804b899c2dc868047dfb5a
+run_name: crawling-newt-418
+run_uuid: 7eaf901392804b899c2dc868047dfb5a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185526722
+status: 3
+tags: []
+user_id: aasthakhatgarh

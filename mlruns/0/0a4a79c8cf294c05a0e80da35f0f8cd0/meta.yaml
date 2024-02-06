@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/0a4a79c8cf294c05a0e80da35f0f8cd0/artifacts
+end_time: 1707185630723
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0a4a79c8cf294c05a0e80da35f0f8cd0
+run_name: unequaled-skunk-569
+run_uuid: 0a4a79c8cf294c05a0e80da35f0f8cd0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185630686
+status: 3
+tags: []
+user_id: aasthakhatgarh

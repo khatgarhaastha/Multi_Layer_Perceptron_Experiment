@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/15f0fe79cc1547b8b0b0dd076d6b3700/artifacts
+end_time: 1707185630086
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 15f0fe79cc1547b8b0b0dd076d6b3700
+run_name: powerful-koi-507
+run_uuid: 15f0fe79cc1547b8b0b0dd076d6b3700
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185630045
+status: 3
+tags: []
+user_id: aasthakhatgarh

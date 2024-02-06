@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/f70de099480f46fda2ae3ee5f01242e5/artifacts
+end_time: 1707185670589
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f70de099480f46fda2ae3ee5f01242e5
+run_name: aged-loon-995
+run_uuid: f70de099480f46fda2ae3ee5f01242e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185670527
+status: 3
+tags: []
+user_id: aasthakhatgarh

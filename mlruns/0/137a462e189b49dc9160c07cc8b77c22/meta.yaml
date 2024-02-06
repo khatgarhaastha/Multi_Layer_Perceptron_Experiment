@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/137a462e189b49dc9160c07cc8b77c22/artifacts
+end_time: 1707185576586
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 137a462e189b49dc9160c07cc8b77c22
+run_name: bittersweet-trout-56
+run_uuid: 137a462e189b49dc9160c07cc8b77c22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185576516
+status: 3
+tags: []
+user_id: aasthakhatgarh

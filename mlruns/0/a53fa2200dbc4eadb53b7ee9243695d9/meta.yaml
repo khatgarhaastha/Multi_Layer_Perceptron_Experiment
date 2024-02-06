@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/a53fa2200dbc4eadb53b7ee9243695d9/artifacts
+end_time: 1707184328077
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a53fa2200dbc4eadb53b7ee9243695d9
+run_name: clumsy-mule-430
+run_uuid: a53fa2200dbc4eadb53b7ee9243695d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184328035
+status: 3
+tags: []
+user_id: aasthakhatgarh

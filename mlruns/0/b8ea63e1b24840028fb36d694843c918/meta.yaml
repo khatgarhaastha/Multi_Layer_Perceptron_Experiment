@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/b8ea63e1b24840028fb36d694843c918/artifacts
+end_time: 1707185671266
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b8ea63e1b24840028fb36d694843c918
+run_name: marvelous-mole-94
+run_uuid: b8ea63e1b24840028fb36d694843c918
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185671190
+status: 3
+tags: []
+user_id: aasthakhatgarh

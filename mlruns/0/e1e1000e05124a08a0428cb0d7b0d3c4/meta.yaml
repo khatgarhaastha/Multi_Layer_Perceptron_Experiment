@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/e1e1000e05124a08a0428cb0d7b0d3c4/artifacts
+end_time: 1707184179868
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e1e1000e05124a08a0428cb0d7b0d3c4
+run_name: flawless-fowl-624
+run_uuid: e1e1000e05124a08a0428cb0d7b0d3c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184179765
+status: 3
+tags: []
+user_id: aasthakhatgarh

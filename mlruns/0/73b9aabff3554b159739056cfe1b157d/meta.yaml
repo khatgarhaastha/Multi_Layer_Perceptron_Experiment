@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/73b9aabff3554b159739056cfe1b157d/artifacts
+end_time: 1707185571913
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 73b9aabff3554b159739056cfe1b157d
+run_name: agreeable-sponge-517
+run_uuid: 73b9aabff3554b159739056cfe1b157d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185571849
+status: 3
+tags: []
+user_id: aasthakhatgarh

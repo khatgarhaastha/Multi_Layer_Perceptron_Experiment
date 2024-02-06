@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/04dd6fd3c397467694c880fc2d37645e/artifacts
+end_time: 1707185630261
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 04dd6fd3c397467694c880fc2d37645e
+run_name: delightful-ram-63
+run_uuid: 04dd6fd3c397467694c880fc2d37645e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185630224
+status: 3
+tags: []
+user_id: aasthakhatgarh

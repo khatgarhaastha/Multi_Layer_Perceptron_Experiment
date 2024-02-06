@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/127f10c4318b4c04a2b888c5691d9501/artifacts
+end_time: 1707184179757
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 127f10c4318b4c04a2b888c5691d9501
+run_name: burly-sow-574
+run_uuid: 127f10c4318b4c04a2b888c5691d9501
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184179540
+status: 3
+tags: []
+user_id: aasthakhatgarh

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/0d6975e790b947568bf05846c17a6965/artifacts
+end_time: 1707185500153
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0d6975e790b947568bf05846c17a6965
+run_name: gaudy-fowl-944
+run_uuid: 0d6975e790b947568bf05846c17a6965
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185500025
+status: 3
+tags: []
+user_id: aasthakhatgarh

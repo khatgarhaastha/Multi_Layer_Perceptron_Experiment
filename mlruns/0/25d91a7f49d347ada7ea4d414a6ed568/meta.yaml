@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/25d91a7f49d347ada7ea4d414a6ed568/artifacts
+end_time: 1707185686648
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 25d91a7f49d347ada7ea4d414a6ed568
+run_name: gregarious-robin-620
+run_uuid: 25d91a7f49d347ada7ea4d414a6ed568
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185686613
+status: 3
+tags: []
+user_id: aasthakhatgarh

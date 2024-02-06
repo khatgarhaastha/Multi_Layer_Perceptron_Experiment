@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/030a9d0e2c1f4b64a103a743e556c77e/artifacts
+end_time: 1707185651077
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 030a9d0e2c1f4b64a103a743e556c77e
+run_name: awesome-gnu-578
+run_uuid: 030a9d0e2c1f4b64a103a743e556c77e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185651051
+status: 3
+tags: []
+user_id: aasthakhatgarh

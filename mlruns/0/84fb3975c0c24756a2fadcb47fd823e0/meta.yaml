@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/84fb3975c0c24756a2fadcb47fd823e0/artifacts
+end_time: 1707184333652
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 84fb3975c0c24756a2fadcb47fd823e0
+run_name: painted-skunk-352
+run_uuid: 84fb3975c0c24756a2fadcb47fd823e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184333631
+status: 3
+tags: []
+user_id: aasthakhatgarh

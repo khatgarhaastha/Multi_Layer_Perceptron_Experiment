@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/a2af3282266d4192b9666990fc5797dd/artifacts
+end_time: 1707185670733
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a2af3282266d4192b9666990fc5797dd
+run_name: vaunted-bug-496
+run_uuid: a2af3282266d4192b9666990fc5797dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185670674
+status: 3
+tags: []
+user_id: aasthakhatgarh

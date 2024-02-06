@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/e40d2ebdf62c414291e5bc8b93690780/artifacts
+end_time: 1707181361313
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e40d2ebdf62c414291e5bc8b93690780
+run_name: valuable-wolf-452
+run_uuid: e40d2ebdf62c414291e5bc8b93690780
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707181361273
+status: 3
+tags: []
+user_id: aasthakhatgarh

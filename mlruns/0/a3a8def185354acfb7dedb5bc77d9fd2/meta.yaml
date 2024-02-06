@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/a3a8def185354acfb7dedb5bc77d9fd2/artifacts
+end_time: 1707185629639
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a3a8def185354acfb7dedb5bc77d9fd2
+run_name: likeable-shoat-129
+run_uuid: a3a8def185354acfb7dedb5bc77d9fd2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185629529
+status: 3
+tags: []
+user_id: aasthakhatgarh

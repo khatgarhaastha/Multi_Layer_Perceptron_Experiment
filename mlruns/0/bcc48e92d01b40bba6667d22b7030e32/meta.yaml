@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/bcc48e92d01b40bba6667d22b7030e32/artifacts
+end_time: 1707185552569
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bcc48e92d01b40bba6667d22b7030e32
+run_name: resilient-hen-67
+run_uuid: bcc48e92d01b40bba6667d22b7030e32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185552450
+status: 3
+tags: []
+user_id: aasthakhatgarh

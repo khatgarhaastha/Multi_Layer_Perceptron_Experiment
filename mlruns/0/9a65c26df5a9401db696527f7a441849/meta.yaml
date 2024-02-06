@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/9a65c26df5a9401db696527f7a441849/artifacts
+end_time: 1707184978049
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9a65c26df5a9401db696527f7a441849
+run_name: sneaky-ram-624
+run_uuid: 9a65c26df5a9401db696527f7a441849
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184977994
+status: 3
+tags: []
+user_id: aasthakhatgarh

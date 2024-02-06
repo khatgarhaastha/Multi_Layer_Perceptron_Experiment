@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/0dc42d2acdbb4a8db9e1224f64ba912a/artifacts
+end_time: 1707184980030
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0dc42d2acdbb4a8db9e1224f64ba912a
+run_name: wise-mare-417
+run_uuid: 0dc42d2acdbb4a8db9e1224f64ba912a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184979963
+status: 3
+tags: []
+user_id: aasthakhatgarh

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/bcebe3b90ecd4e8784cec564acb97188/artifacts
+end_time: 1707185496779
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bcebe3b90ecd4e8784cec564acb97188
+run_name: luxuriant-cub-168
+run_uuid: bcebe3b90ecd4e8784cec564acb97188
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185496724
+status: 3
+tags: []
+user_id: aasthakhatgarh

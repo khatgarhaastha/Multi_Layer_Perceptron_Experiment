@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/3d85e523d63f423da39642cf82700a41/artifacts
+end_time: 1707185632219
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3d85e523d63f423da39642cf82700a41
+run_name: luxuriant-toad-460
+run_uuid: 3d85e523d63f423da39642cf82700a41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185632164
+status: 3
+tags: []
+user_id: aasthakhatgarh

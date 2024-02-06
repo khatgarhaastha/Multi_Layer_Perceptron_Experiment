@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/0164e75f95cd46509daf7fe530eb519b/artifacts
+end_time: 1707181361221
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0164e75f95cd46509daf7fe530eb519b
+run_name: sassy-shrike-1
+run_uuid: 0164e75f95cd46509daf7fe530eb519b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707181361199
+status: 3
+tags: []
+user_id: aasthakhatgarh

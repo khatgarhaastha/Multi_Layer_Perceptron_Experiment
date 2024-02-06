@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/47cebe5aeb8f4753808c835f8ab8b6c8/artifacts
+end_time: 1707185630313
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 47cebe5aeb8f4753808c835f8ab8b6c8
+run_name: dapper-crab-820
+run_uuid: 47cebe5aeb8f4753808c835f8ab8b6c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185630271
+status: 3
+tags: []
+user_id: aasthakhatgarh

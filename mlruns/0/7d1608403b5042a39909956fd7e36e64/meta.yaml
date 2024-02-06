@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/7d1608403b5042a39909956fd7e36e64/artifacts
+end_time: 1707181364449
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7d1608403b5042a39909956fd7e36e64
+run_name: gentle-perch-624
+run_uuid: 7d1608403b5042a39909956fd7e36e64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707181364432
+status: 3
+tags: []
+user_id: aasthakhatgarh

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/c695d806423b4f399b23e7fa34881182/artifacts
+end_time: 1707184179126
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c695d806423b4f399b23e7fa34881182
+run_name: bright-grouse-203
+run_uuid: c695d806423b4f399b23e7fa34881182
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184179107
+status: 3
+tags: []
+user_id: aasthakhatgarh

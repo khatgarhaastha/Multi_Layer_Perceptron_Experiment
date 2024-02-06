@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/cb283853c1294746ab786f2d5d131427/artifacts
+end_time: 1707184182483
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cb283853c1294746ab786f2d5d131427
+run_name: debonair-deer-267
+run_uuid: cb283853c1294746ab786f2d5d131427
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184182458
+status: 3
+tags: []
+user_id: aasthakhatgarh

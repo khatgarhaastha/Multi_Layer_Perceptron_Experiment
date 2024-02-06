@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/47b8cdd5eac745d49d500916e55debf4/artifacts
+end_time: 1707184979501
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 47b8cdd5eac745d49d500916e55debf4
+run_name: sneaky-stoat-880
+run_uuid: 47b8cdd5eac745d49d500916e55debf4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184979433
+status: 3
+tags: []
+user_id: aasthakhatgarh

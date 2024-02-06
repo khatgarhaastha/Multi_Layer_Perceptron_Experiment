@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/625dd182f7be438dbdc1806595545821/artifacts
+end_time: 1707185589470
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 625dd182f7be438dbdc1806595545821
+run_name: incongruous-ant-157
+run_uuid: 625dd182f7be438dbdc1806595545821
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185589345
+status: 3
+tags: []
+user_id: aasthakhatgarh

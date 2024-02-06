@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/b827ed1a602d4d4aad8d0d2ccc65ac8c/artifacts
+end_time: 1707185493159
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b827ed1a602d4d4aad8d0d2ccc65ac8c
+run_name: fearless-horse-305
+run_uuid: b827ed1a602d4d4aad8d0d2ccc65ac8c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185493105
+status: 3
+tags: []
+user_id: aasthakhatgarh

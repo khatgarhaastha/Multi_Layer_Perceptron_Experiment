@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/5e15ac3879bd4bc2858817229cbd548e/artifacts
+end_time: 1707185571784
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5e15ac3879bd4bc2858817229cbd548e
+run_name: charming-grub-422
+run_uuid: 5e15ac3879bd4bc2858817229cbd548e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185571668
+status: 3
+tags: []
+user_id: aasthakhatgarh

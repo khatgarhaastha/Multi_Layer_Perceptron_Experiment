@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/94d88c7f773c4e4f9a1cf92b7de22d8e/artifacts
+end_time: 1707185577166
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 94d88c7f773c4e4f9a1cf92b7de22d8e
+run_name: loud-gnu-703
+run_uuid: 94d88c7f773c4e4f9a1cf92b7de22d8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185577115
+status: 3
+tags: []
+user_id: aasthakhatgarh

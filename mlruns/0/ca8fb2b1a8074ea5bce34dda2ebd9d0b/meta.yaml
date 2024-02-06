@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/ca8fb2b1a8074ea5bce34dda2ebd9d0b/artifacts
+end_time: 1707184330012
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ca8fb2b1a8074ea5bce34dda2ebd9d0b
+run_name: worried-lynx-259
+run_uuid: ca8fb2b1a8074ea5bce34dda2ebd9d0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184329969
+status: 3
+tags: []
+user_id: aasthakhatgarh

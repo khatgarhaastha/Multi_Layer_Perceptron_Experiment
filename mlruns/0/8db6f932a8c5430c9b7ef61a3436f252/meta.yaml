@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/8db6f932a8c5430c9b7ef61a3436f252/artifacts
+end_time: 1707184977614
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8db6f932a8c5430c9b7ef61a3436f252
+run_name: rogue-mouse-962
+run_uuid: 8db6f932a8c5430c9b7ef61a3436f252
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184977554
+status: 3
+tags: []
+user_id: aasthakhatgarh

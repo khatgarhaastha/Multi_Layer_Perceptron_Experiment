@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/ca40a1e44f2d4532b1e71c8403a724c9/artifacts
+end_time: 1707185651935
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ca40a1e44f2d4532b1e71c8403a724c9
+run_name: redolent-hawk-354
+run_uuid: ca40a1e44f2d4532b1e71c8403a724c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185651868
+status: 3
+tags: []
+user_id: aasthakhatgarh

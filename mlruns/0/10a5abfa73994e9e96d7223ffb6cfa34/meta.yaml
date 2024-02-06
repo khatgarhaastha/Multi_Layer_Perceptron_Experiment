@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/10a5abfa73994e9e96d7223ffb6cfa34/artifacts
+end_time: 1707185547610
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 10a5abfa73994e9e96d7223ffb6cfa34
+run_name: dashing-roo-986
+run_uuid: 10a5abfa73994e9e96d7223ffb6cfa34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185547454
+status: 3
+tags: []
+user_id: aasthakhatgarh

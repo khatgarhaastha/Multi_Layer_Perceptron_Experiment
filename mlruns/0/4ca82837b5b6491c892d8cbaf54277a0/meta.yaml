@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/4ca82837b5b6491c892d8cbaf54277a0/artifacts
+end_time: 1707185570177
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4ca82837b5b6491c892d8cbaf54277a0
+run_name: treasured-ram-198
+run_uuid: 4ca82837b5b6491c892d8cbaf54277a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185570093
+status: 3
+tags: []
+user_id: aasthakhatgarh

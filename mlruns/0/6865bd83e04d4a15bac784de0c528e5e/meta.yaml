@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/6865bd83e04d4a15bac784de0c528e5e/artifacts
+end_time: 1707181360413
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6865bd83e04d4a15bac784de0c528e5e
+run_name: lyrical-gnat-427
+run_uuid: 6865bd83e04d4a15bac784de0c528e5e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707181360348
+status: 3
+tags: []
+user_id: aasthakhatgarh

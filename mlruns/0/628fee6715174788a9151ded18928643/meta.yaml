@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/628fee6715174788a9151ded18928643/artifacts
+end_time: 1707184179303
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 628fee6715174788a9151ded18928643
+run_name: handsome-colt-936
+run_uuid: 628fee6715174788a9151ded18928643
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184179227
+status: 3
+tags: []
+user_id: aasthakhatgarh

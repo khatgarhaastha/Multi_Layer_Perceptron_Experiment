@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/c6731068b24849878bc06e5400351bef/artifacts
+end_time: 1707185492943
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c6731068b24849878bc06e5400351bef
+run_name: skittish-mare-265
+run_uuid: c6731068b24849878bc06e5400351bef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185492912
+status: 3
+tags: []
+user_id: aasthakhatgarh

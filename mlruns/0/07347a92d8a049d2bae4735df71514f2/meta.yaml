@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/07347a92d8a049d2bae4735df71514f2/artifacts
+end_time: 1707185552431
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 07347a92d8a049d2bae4735df71514f2
+run_name: burly-dog-315
+run_uuid: 07347a92d8a049d2bae4735df71514f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185552226
+status: 3
+tags: []
+user_id: aasthakhatgarh

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/94e70f2a6ace4467a46da192e4e7447c/artifacts
+end_time: 1707184183352
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 94e70f2a6ace4467a46da192e4e7447c
+run_name: monumental-wolf-874
+run_uuid: 94e70f2a6ace4467a46da192e4e7447c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184183318
+status: 3
+tags: []
+user_id: aasthakhatgarh

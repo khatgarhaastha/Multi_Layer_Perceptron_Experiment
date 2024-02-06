@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/c526d1a3d85d49bc8a073c2dcb11c334/artifacts
+end_time: 1707181364067
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c526d1a3d85d49bc8a073c2dcb11c334
+run_name: persistent-lamb-156
+run_uuid: c526d1a3d85d49bc8a073c2dcb11c334
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707181363918
+status: 3
+tags: []
+user_id: aasthakhatgarh

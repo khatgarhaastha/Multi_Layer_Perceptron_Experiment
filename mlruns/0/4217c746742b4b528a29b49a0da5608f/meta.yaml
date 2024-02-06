@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/4217c746742b4b528a29b49a0da5608f/artifacts
+end_time: 1707185576190
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4217c746742b4b528a29b49a0da5608f
+run_name: monumental-fish-156
+run_uuid: 4217c746742b4b528a29b49a0da5608f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185576121
+status: 3
+tags: []
+user_id: aasthakhatgarh

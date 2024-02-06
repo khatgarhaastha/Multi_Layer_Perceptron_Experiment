@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/0bff2f8f69624947abbfc5dfc5295a25/artifacts
+end_time: 1707185668873
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0bff2f8f69624947abbfc5dfc5295a25
+run_name: receptive-hawk-47
+run_uuid: 0bff2f8f69624947abbfc5dfc5295a25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185668811
+status: 3
+tags: []
+user_id: aasthakhatgarh

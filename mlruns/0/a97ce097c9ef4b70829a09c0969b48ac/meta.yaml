@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/a97ce097c9ef4b70829a09c0969b48ac/artifacts
+end_time: 1707185669332
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a97ce097c9ef4b70829a09c0969b48ac
+run_name: delicate-chimp-795
+run_uuid: a97ce097c9ef4b70829a09c0969b48ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185669278
+status: 3
+tags: []
+user_id: aasthakhatgarh

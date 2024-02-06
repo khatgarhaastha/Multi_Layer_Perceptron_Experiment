@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/60f4416d4b524d299e92ee6ad2e0db2e/artifacts
+end_time: 1707185681307
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 60f4416d4b524d299e92ee6ad2e0db2e
+run_name: defiant-shrew-41
+run_uuid: 60f4416d4b524d299e92ee6ad2e0db2e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185680984
+status: 3
+tags: []
+user_id: aasthakhatgarh

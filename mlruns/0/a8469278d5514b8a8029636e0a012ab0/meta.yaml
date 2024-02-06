@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/a8469278d5514b8a8029636e0a012ab0/artifacts
+end_time: 1707184332847
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a8469278d5514b8a8029636e0a012ab0
+run_name: gifted-bass-217
+run_uuid: a8469278d5514b8a8029636e0a012ab0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184332805
+status: 3
+tags: []
+user_id: aasthakhatgarh

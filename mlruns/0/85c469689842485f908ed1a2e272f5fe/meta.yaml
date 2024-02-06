@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/85c469689842485f908ed1a2e272f5fe/artifacts
+end_time: 1707184969280
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 85c469689842485f908ed1a2e272f5fe
+run_name: powerful-gull-420
+run_uuid: 85c469689842485f908ed1a2e272f5fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184969222
+status: 3
+tags: []
+user_id: aasthakhatgarh

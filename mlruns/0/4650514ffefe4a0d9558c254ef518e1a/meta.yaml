@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/4650514ffefe4a0d9558c254ef518e1a/artifacts
+end_time: 1707185645975
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4650514ffefe4a0d9558c254ef518e1a
+run_name: puzzled-squid-159
+run_uuid: 4650514ffefe4a0d9558c254ef518e1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185645939
+status: 3
+tags: []
+user_id: aasthakhatgarh

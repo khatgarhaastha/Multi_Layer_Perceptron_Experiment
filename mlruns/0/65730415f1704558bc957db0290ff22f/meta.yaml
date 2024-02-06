@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/65730415f1704558bc957db0290ff22f/artifacts
+end_time: 1707185549952
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 65730415f1704558bc957db0290ff22f
+run_name: delicate-fawn-463
+run_uuid: 65730415f1704558bc957db0290ff22f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185549777
+status: 3
+tags: []
+user_id: aasthakhatgarh

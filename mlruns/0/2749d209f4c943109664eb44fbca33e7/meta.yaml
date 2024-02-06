@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/2749d209f4c943109664eb44fbca33e7/artifacts
+end_time: 1707185577844
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2749d209f4c943109664eb44fbca33e7
+run_name: victorious-hawk-159
+run_uuid: 2749d209f4c943109664eb44fbca33e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185577802
+status: 3
+tags: []
+user_id: aasthakhatgarh

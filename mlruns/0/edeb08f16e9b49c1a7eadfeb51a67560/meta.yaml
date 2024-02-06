@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/edeb08f16e9b49c1a7eadfeb51a67560/artifacts
+end_time: 1707185632398
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: edeb08f16e9b49c1a7eadfeb51a67560
+run_name: aged-swan-207
+run_uuid: edeb08f16e9b49c1a7eadfeb51a67560
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185632328
+status: 3
+tags: []
+user_id: aasthakhatgarh

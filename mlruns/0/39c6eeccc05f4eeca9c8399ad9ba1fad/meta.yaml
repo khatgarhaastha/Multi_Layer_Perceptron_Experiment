@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/39c6eeccc05f4eeca9c8399ad9ba1fad/artifacts
+end_time: 1707185553863
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 39c6eeccc05f4eeca9c8399ad9ba1fad
+run_name: zealous-stag-288
+run_uuid: 39c6eeccc05f4eeca9c8399ad9ba1fad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185553764
+status: 3
+tags: []
+user_id: aasthakhatgarh

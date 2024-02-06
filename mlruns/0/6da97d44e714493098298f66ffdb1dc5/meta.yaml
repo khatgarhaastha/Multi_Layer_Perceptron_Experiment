@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/6da97d44e714493098298f66ffdb1dc5/artifacts
+end_time: 1707185554316
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6da97d44e714493098298f66ffdb1dc5
+run_name: dazzling-cod-427
+run_uuid: 6da97d44e714493098298f66ffdb1dc5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185554245
+status: 3
+tags: []
+user_id: aasthakhatgarh

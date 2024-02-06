@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/a8e5f5b06c4b432995ef07ee3b9b8f99/artifacts
+end_time: 1707184178429
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a8e5f5b06c4b432995ef07ee3b9b8f99
+run_name: caring-loon-551
+run_uuid: a8e5f5b06c4b432995ef07ee3b9b8f99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184178346
+status: 3
+tags: []
+user_id: aasthakhatgarh

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/4b550ee5b8c742d18e3c2a4eb26ccd7b/artifacts
+end_time: 1707185587789
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4b550ee5b8c742d18e3c2a4eb26ccd7b
+run_name: thoughtful-fawn-162
+run_uuid: 4b550ee5b8c742d18e3c2a4eb26ccd7b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185587704
+status: 3
+tags: []
+user_id: aasthakhatgarh

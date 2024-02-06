@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/6894a988ce9d4722bad6da5d76e960fb/artifacts
+end_time: 1707185590006
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6894a988ce9d4722bad6da5d76e960fb
+run_name: resilient-rat-201
+run_uuid: 6894a988ce9d4722bad6da5d76e960fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185589978
+status: 3
+tags: []
+user_id: aasthakhatgarh

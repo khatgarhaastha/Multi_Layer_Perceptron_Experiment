@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/ed2f65292a1d461f8fc975a2c79d34c7/artifacts
+end_time: 1707185630035
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ed2f65292a1d461f8fc975a2c79d34c7
+run_name: languid-hound-31
+run_uuid: ed2f65292a1d461f8fc975a2c79d34c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185629972
+status: 3
+tags: []
+user_id: aasthakhatgarh

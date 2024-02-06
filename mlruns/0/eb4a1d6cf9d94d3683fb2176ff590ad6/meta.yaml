@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/eb4a1d6cf9d94d3683fb2176ff590ad6/artifacts
+end_time: 1707181361780
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eb4a1d6cf9d94d3683fb2176ff590ad6
+run_name: fearless-swan-666
+run_uuid: eb4a1d6cf9d94d3683fb2176ff590ad6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707181361747
+status: 3
+tags: []
+user_id: aasthakhatgarh

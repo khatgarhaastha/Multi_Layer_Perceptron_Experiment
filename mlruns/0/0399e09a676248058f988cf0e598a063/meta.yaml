@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/0399e09a676248058f988cf0e598a063/artifacts
+end_time: 1707185663975
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0399e09a676248058f988cf0e598a063
+run_name: resilient-loon-2
+run_uuid: 0399e09a676248058f988cf0e598a063
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185663888
+status: 3
+tags: []
+user_id: aasthakhatgarh

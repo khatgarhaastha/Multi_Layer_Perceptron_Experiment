@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/55cc1c26c9574aec8cfc7e9b3720b7e3/artifacts
+end_time: 1707184182583
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 55cc1c26c9574aec8cfc7e9b3720b7e3
+run_name: marvelous-dog-261
+run_uuid: 55cc1c26c9574aec8cfc7e9b3720b7e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184182557
+status: 3
+tags: []
+user_id: aasthakhatgarh

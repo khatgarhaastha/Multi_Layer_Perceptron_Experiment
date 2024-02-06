@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/10f5a91196944b6d8aa90b86dd17cea6/artifacts
+end_time: 1707184182124
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 10f5a91196944b6d8aa90b86dd17cea6
+run_name: loud-quail-124
+run_uuid: 10f5a91196944b6d8aa90b86dd17cea6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184182077
+status: 3
+tags: []
+user_id: aasthakhatgarh

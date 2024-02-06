@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/cf63a8db0ebe4553888fa555ae35c1da/artifacts
+end_time: 1707185490684
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cf63a8db0ebe4553888fa555ae35c1da
+run_name: vaunted-mole-198
+run_uuid: cf63a8db0ebe4553888fa555ae35c1da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185490639
+status: 3
+tags: []
+user_id: aasthakhatgarh

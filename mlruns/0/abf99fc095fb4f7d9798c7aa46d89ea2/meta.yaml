@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/abf99fc095fb4f7d9798c7aa46d89ea2/artifacts
+end_time: 1707185668033
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: abf99fc095fb4f7d9798c7aa46d89ea2
+run_name: useful-smelt-558
+run_uuid: abf99fc095fb4f7d9798c7aa46d89ea2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185667994
+status: 3
+tags: []
+user_id: aasthakhatgarh

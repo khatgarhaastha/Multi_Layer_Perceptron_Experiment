@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/44db968bc4d44d7381ae9eb5b88bc9ca/artifacts
+end_time: 1707185550226
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 44db968bc4d44d7381ae9eb5b88bc9ca
+run_name: fun-ram-4
+run_uuid: 44db968bc4d44d7381ae9eb5b88bc9ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185549961
+status: 3
+tags: []
+user_id: aasthakhatgarh

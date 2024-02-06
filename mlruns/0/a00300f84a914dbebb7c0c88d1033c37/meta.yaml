@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/a00300f84a914dbebb7c0c88d1033c37/artifacts
+end_time: 1707185587950
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a00300f84a914dbebb7c0c88d1033c37
+run_name: adventurous-colt-487
+run_uuid: a00300f84a914dbebb7c0c88d1033c37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185587900
+status: 3
+tags: []
+user_id: aasthakhatgarh

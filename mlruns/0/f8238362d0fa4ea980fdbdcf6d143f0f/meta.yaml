@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/f8238362d0fa4ea980fdbdcf6d143f0f/artifacts
+end_time: 1707181363746
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f8238362d0fa4ea980fdbdcf6d143f0f
+run_name: agreeable-foal-225
+run_uuid: f8238362d0fa4ea980fdbdcf6d143f0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707181363694
+status: 3
+tags: []
+user_id: aasthakhatgarh

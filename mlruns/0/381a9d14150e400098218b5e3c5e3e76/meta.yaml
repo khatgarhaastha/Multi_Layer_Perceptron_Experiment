@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/381a9d14150e400098218b5e3c5e3e76/artifacts
+end_time: 1707185666505
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 381a9d14150e400098218b5e3c5e3e76
+run_name: capricious-stoat-861
+run_uuid: 381a9d14150e400098218b5e3c5e3e76
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185666464
+status: 3
+tags: []
+user_id: aasthakhatgarh

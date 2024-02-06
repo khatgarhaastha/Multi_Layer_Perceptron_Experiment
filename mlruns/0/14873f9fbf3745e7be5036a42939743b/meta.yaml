@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/14873f9fbf3745e7be5036a42939743b/artifacts
+end_time: 1707185527289
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 14873f9fbf3745e7be5036a42939743b
+run_name: gifted-snail-626
+run_uuid: 14873f9fbf3745e7be5036a42939743b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185527261
+status: 3
+tags: []
+user_id: aasthakhatgarh

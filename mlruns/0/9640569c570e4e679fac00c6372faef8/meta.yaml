@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/9640569c570e4e679fac00c6372faef8/artifacts
+end_time: 1707185664104
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9640569c570e4e679fac00c6372faef8
+run_name: magnificent-gull-151
+run_uuid: 9640569c570e4e679fac00c6372faef8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185664025
+status: 3
+tags: []
+user_id: aasthakhatgarh

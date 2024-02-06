@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/2ff7ed90610a48d198728b1999c51ef7/artifacts
+end_time: 1707185524188
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2ff7ed90610a48d198728b1999c51ef7
+run_name: burly-bear-32
+run_uuid: 2ff7ed90610a48d198728b1999c51ef7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185524101
+status: 3
+tags: []
+user_id: aasthakhatgarh

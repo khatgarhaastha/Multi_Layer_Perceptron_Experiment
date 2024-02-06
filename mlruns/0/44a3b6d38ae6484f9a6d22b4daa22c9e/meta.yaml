@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/44a3b6d38ae6484f9a6d22b4daa22c9e/artifacts
+end_time: 1707185554731
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 44a3b6d38ae6484f9a6d22b4daa22c9e
+run_name: tasteful-cow-331
+run_uuid: 44a3b6d38ae6484f9a6d22b4daa22c9e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185554537
+status: 3
+tags: []
+user_id: aasthakhatgarh

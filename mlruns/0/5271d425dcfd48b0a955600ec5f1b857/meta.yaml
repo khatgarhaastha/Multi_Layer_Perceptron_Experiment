@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/5271d425dcfd48b0a955600ec5f1b857/artifacts
+end_time: 1707184329454
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5271d425dcfd48b0a955600ec5f1b857
+run_name: sincere-shad-875
+run_uuid: 5271d425dcfd48b0a955600ec5f1b857
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184329302
+status: 3
+tags: []
+user_id: aasthakhatgarh

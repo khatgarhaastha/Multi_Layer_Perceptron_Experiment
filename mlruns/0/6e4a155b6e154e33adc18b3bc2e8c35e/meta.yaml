@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/6e4a155b6e154e33adc18b3bc2e8c35e/artifacts
+end_time: 1707184177691
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6e4a155b6e154e33adc18b3bc2e8c35e
+run_name: overjoyed-ram-109
+run_uuid: 6e4a155b6e154e33adc18b3bc2e8c35e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184177595
+status: 3
+tags: []
+user_id: aasthakhatgarh

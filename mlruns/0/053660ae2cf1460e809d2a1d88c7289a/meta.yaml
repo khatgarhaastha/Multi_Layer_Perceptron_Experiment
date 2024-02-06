@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/053660ae2cf1460e809d2a1d88c7289a/artifacts
+end_time: 1707185667759
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 053660ae2cf1460e809d2a1d88c7289a
+run_name: blushing-snipe-240
+run_uuid: 053660ae2cf1460e809d2a1d88c7289a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185667713
+status: 3
+tags: []
+user_id: aasthakhatgarh

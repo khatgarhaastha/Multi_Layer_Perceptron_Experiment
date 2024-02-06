@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/6831f96186db4a5da463f1f80283bbda/artifacts
+end_time: 1707185496146
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6831f96186db4a5da463f1f80283bbda
+run_name: carefree-hawk-166
+run_uuid: 6831f96186db4a5da463f1f80283bbda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185496079
+status: 3
+tags: []
+user_id: aasthakhatgarh

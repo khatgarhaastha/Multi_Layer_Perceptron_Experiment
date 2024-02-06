@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/53eba291b2484c83add90d4b78526c2d/artifacts
+end_time: 1707181364528
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 53eba291b2484c83add90d4b78526c2d
+run_name: rumbling-quail-435
+run_uuid: 53eba291b2484c83add90d4b78526c2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707181364500
+status: 3
+tags: []
+user_id: aasthakhatgarh

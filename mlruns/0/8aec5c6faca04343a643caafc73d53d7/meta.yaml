@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/8aec5c6faca04343a643caafc73d53d7/artifacts
+end_time: 1707184975315
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8aec5c6faca04343a643caafc73d53d7
+run_name: unruly-flea-57
+run_uuid: 8aec5c6faca04343a643caafc73d53d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184975155
+status: 3
+tags: []
+user_id: aasthakhatgarh

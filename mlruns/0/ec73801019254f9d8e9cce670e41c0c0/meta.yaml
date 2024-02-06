@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/ec73801019254f9d8e9cce670e41c0c0/artifacts
+end_time: 1707185632727
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ec73801019254f9d8e9cce670e41c0c0
+run_name: sneaky-crane-160
+run_uuid: ec73801019254f9d8e9cce670e41c0c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185632689
+status: 3
+tags: []
+user_id: aasthakhatgarh

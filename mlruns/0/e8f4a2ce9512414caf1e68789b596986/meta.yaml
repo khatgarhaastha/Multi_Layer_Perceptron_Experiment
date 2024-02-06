@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/e8f4a2ce9512414caf1e68789b596986/artifacts
+end_time: 1707184331822
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e8f4a2ce9512414caf1e68789b596986
+run_name: popular-mole-418
+run_uuid: e8f4a2ce9512414caf1e68789b596986
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707184331787
+status: 3
+tags: []
+user_id: aasthakhatgarh

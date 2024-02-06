@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/f9e16289d72e464f835d0520664e400c/artifacts
+end_time: 1707185554160
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f9e16289d72e464f835d0520664e400c
+run_name: rare-snail-821
+run_uuid: f9e16289d72e464f835d0520664e400c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707185554107
+status: 3
+tags: []
+user_id: aasthakhatgarh
