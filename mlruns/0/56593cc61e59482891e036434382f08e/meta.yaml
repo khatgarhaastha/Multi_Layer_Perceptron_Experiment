@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/56593cc61e59482891e036434382f08e/artifacts
+end_time: 1707180992649
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 56593cc61e59482891e036434382f08e
+run_name: sassy-shrew-411
+run_uuid: 56593cc61e59482891e036434382f08e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707180992374
+status: 3
+tags: []
+user_id: aasthakhatgarh

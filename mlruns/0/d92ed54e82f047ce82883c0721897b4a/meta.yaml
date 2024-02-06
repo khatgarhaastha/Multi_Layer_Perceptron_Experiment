@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/d92ed54e82f047ce82883c0721897b4a/artifacts
+end_time: 1707180990824
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d92ed54e82f047ce82883c0721897b4a
+run_name: glamorous-hawk-853
+run_uuid: d92ed54e82f047ce82883c0721897b4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707180990631
+status: 3
+tags: []
+user_id: aasthakhatgarh

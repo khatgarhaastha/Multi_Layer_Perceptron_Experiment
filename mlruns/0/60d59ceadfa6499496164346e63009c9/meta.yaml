@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/60d59ceadfa6499496164346e63009c9/artifacts
+end_time: 1707180993434
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 60d59ceadfa6499496164346e63009c9
+run_name: industrious-carp-401
+run_uuid: 60d59ceadfa6499496164346e63009c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707180993386
+status: 3
+tags: []
+user_id: aasthakhatgarh

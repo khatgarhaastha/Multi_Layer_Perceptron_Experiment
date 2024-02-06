@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/332e360949734407ae107bd08f4af171/artifacts
+end_time: 1707181134792
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 332e360949734407ae107bd08f4af171
+run_name: persistent-calf-494
+run_uuid: 332e360949734407ae107bd08f4af171
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707181134745
+status: 3
+tags: []
+user_id: aasthakhatgarh

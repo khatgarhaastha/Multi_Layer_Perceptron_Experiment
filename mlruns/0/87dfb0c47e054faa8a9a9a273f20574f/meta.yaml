@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/87dfb0c47e054faa8a9a9a273f20574f/artifacts
+end_time: 1707181140609
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 87dfb0c47e054faa8a9a9a273f20574f
+run_name: agreeable-horse-973
+run_uuid: 87dfb0c47e054faa8a9a9a273f20574f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707181140559
+status: 3
+tags: []
+user_id: aasthakhatgarh

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/ab2b23fee6944b14a03d2a46ccee019e/artifacts
+end_time: 1707180990545
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ab2b23fee6944b14a03d2a46ccee019e
+run_name: delicate-sloth-504
+run_uuid: ab2b23fee6944b14a03d2a46ccee019e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707180990490
+status: 3
+tags: []
+user_id: aasthakhatgarh

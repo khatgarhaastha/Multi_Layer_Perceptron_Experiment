@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/fc0be07a3e6746e1a891ba6430459874/artifacts
+end_time: 1707180997797
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fc0be07a3e6746e1a891ba6430459874
+run_name: orderly-lark-215
+run_uuid: fc0be07a3e6746e1a891ba6430459874
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707180997768
+status: 3
+tags: []
+user_id: aasthakhatgarh

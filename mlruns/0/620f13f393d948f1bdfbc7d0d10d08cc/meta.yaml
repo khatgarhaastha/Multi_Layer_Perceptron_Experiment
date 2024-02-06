@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/620f13f393d948f1bdfbc7d0d10d08cc/artifacts
+end_time: 1707181137424
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 620f13f393d948f1bdfbc7d0d10d08cc
+run_name: adventurous-hare-620
+run_uuid: 620f13f393d948f1bdfbc7d0d10d08cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707181137365
+status: 3
+tags: []
+user_id: aasthakhatgarh

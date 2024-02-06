@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/98cba3481a604925a663667c66c53120/artifacts
+end_time: 1707181133131
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 98cba3481a604925a663667c66c53120
+run_name: brawny-stag-594
+run_uuid: 98cba3481a604925a663667c66c53120
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707181133078
+status: 3
+tags: []
+user_id: aasthakhatgarh

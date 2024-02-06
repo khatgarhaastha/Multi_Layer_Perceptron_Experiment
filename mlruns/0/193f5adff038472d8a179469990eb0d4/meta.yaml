@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/193f5adff038472d8a179469990eb0d4/artifacts
+end_time: 1707180993244
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 193f5adff038472d8a179469990eb0d4
+run_name: abundant-chimp-328
+run_uuid: 193f5adff038472d8a179469990eb0d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707180993228
+status: 3
+tags: []
+user_id: aasthakhatgarh

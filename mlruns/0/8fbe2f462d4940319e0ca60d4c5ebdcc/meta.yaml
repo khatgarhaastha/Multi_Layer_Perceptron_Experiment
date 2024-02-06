@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/8fbe2f462d4940319e0ca60d4c5ebdcc/artifacts
+end_time: 1707180992373
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8fbe2f462d4940319e0ca60d4c5ebdcc
+run_name: gentle-foal-157
+run_uuid: 8fbe2f462d4940319e0ca60d4c5ebdcc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707180992099
+status: 3
+tags: []
+user_id: aasthakhatgarh

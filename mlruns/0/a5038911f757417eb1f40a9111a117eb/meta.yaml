@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/a5038911f757417eb1f40a9111a117eb/artifacts
+end_time: 1707181136244
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a5038911f757417eb1f40a9111a117eb
+run_name: hilarious-skink-146
+run_uuid: a5038911f757417eb1f40a9111a117eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707181136145
+status: 3
+tags: []
+user_id: aasthakhatgarh

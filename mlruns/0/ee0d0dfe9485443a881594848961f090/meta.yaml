@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/ee0d0dfe9485443a881594848961f090/artifacts
+end_time: 1707180991627
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ee0d0dfe9485443a881594848961f090
+run_name: sedate-swan-559
+run_uuid: ee0d0dfe9485443a881594848961f090
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707180991567
+status: 3
+tags: []
+user_id: aasthakhatgarh

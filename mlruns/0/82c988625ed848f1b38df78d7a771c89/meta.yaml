@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/82c988625ed848f1b38df78d7a771c89/artifacts
+end_time: 1707181133594
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 82c988625ed848f1b38df78d7a771c89
+run_name: lyrical-asp-71
+run_uuid: 82c988625ed848f1b38df78d7a771c89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707181133548
+status: 3
+tags: []
+user_id: aasthakhatgarh

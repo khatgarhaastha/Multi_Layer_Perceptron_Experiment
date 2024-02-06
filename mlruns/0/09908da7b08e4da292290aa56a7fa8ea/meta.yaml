@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/09908da7b08e4da292290aa56a7fa8ea/artifacts
+end_time: 1707180990411
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 09908da7b08e4da292290aa56a7fa8ea
+run_name: amusing-ant-30
+run_uuid: 09908da7b08e4da292290aa56a7fa8ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707180990321
+status: 3
+tags: []
+user_id: aasthakhatgarh

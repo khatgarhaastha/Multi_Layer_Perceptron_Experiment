@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/933f9451b14c4dcfa11162ef05928943/artifacts
+end_time: 1707180990487
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 933f9451b14c4dcfa11162ef05928943
+run_name: gentle-dolphin-116
+run_uuid: 933f9451b14c4dcfa11162ef05928943
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707180990413
+status: 3
+tags: []
+user_id: aasthakhatgarh

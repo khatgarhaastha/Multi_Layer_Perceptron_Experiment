@@ -2,6 +2,7 @@
 import numpy as np
 import pandas as pd
 import mlflow # for logging the results
+import optuna # for hyperparameter optimization
 
 # Initalize parameters
 def initalize_parameters(n_input, n_hidden, n_output):
@@ -78,45 +79,29 @@ def predict(X, Y, W1, W2, b1, b2):
     return accuracy 
 
 # Function to run the experiment 
-# mlfow is used to log the results
 def run_experiment(train, test, validate, n_hidden, num_iterations, learning_rate):
 
-    with mlflow.start_run():
-        mlflow.log_param("hidden_layer_size", n_hidden)
-        mlflow.log_param("num_iterations", num_iterations)
-        mlflow.log_param("learning_rate", learning_rate)
+    # load data
+    X_train, Y_train = load_data(train)
+    X_train_normalized, mean, std = normalize_features(X_train) # normalize input features
+    X_validate, Y_validate = load_data(validate)
+    x_validate_normalized = (X_validate - mean)/std # normalize input features
+    #X_test, Y_test = load_data(test)
+    #x_test_normalized = (X_test - mean)/std # normalize input features
 
-        # load data
-        X_train, Y_train = load_data(train)
-        X_train_normalized, mean, std = normalize_features(X_train) # normalize input features
-        X_validate, Y_validate = load_data(validate)
-        x_validate_normalized = (X_validate - mean)/std # normalize input features
-        #X_test, Y_test = load_data(test)
-        #x_test_normalized = (X_test - mean)/std # normalize input features
+    # train model
+    W1, W2, b1, b2 = model(X_train_normalized, Y_train, n_hidden, num_iterations, learning_rate)
 
-        # train model
-        W1, W2, b1, b2 = model(X_train_normalized, Y_train, n_hidden, num_iterations, learning_rate)
+    # evaluate model
+    train_accuracy = predict(X_train_normalized, Y_train, W1, W2, b1, b2)
+    validate_accuracy = predict(x_validate_normalized, Y_validate, W1, W2, b1, b2)
+    #test_accuracy = predict(X_test_normalized, Y_test, W1, W2, b1, b2)
 
-        # evaluate model
-        train_accuracy = predict(X_train_normalized, Y_train, W1, W2, b1, b2)
-        validate_accuracy = predict(x_validate_normalized, Y_validate, W1, W2, b1, b2)
-        #test_accuracy = predict(X_test_normalized, Y_test, W1, W2, b1, b2)
+    print(f"Train accuracy: {train_accuracy}")
+    print(f"Validation accuracy: {validate_accuracy}")
+    #print(f"Test accuracy: {test_accuracy}")
 
-        print(f"Train accuracy: {train_accuracy}")
-        print(f"Validation accuracy: {validate_accuracy}")
-        #print(f"Test accuracy: {test_accuracy}")
-
-        mlflow.log_metric("train_accuracy", train_accuracy)
-        mlflow.log_metric("validation_accuracy", validate_accuracy)
-        #mlflow.log_metric("test_accuracy", test_accuracy)
-
-        # save model parameters
-        save_model_parameters(W1, W2, b1, b2, 'model_parameters.npz')
-        mlflow.log_artifact('model_parameters.npz')
-
-# save model parameters
-def save_model_parameters(W1, W2, b1, b2, filename='model_parameters.npz'):
-    np.savez(filename, W1=W1, W2=W2, b1=b1, b2=b2)
+    return validate_accuracy
 
 
 # load data
@@ -135,7 +120,42 @@ def normalize_features(X):
 
 # main function
 if __name__ == "__main__":
-    for i in range(1, 10):
-        print(f"Hidden layer size: {i}")
-        run_experiment('spiral_train.csv', 'spiral_test.csv', 'spiral_valid.csv', i, 1000, 0.01) # run the experiment
+
+    # save model parameters
+    #def save_model_parameters(W1, W2, b1, b2, filename='model_parameters.npz'):
+        #np.savez(filename, W1=W1, W2=W2, b1=b1, b2=b2)
+
+    def objective(trial):
+        # Define the hyperparameters to be optimized
+        n_hidden = trial.suggest_int('n_hidden', 4, 64)
+        num_iterations = trial.suggest_int('num_iterations', 100, 1000)
+        learning_rate = trial.suggest_float('learning_rate', 0.001, 0.1)
+
+        with mlflow.start_run():
+            mlflow.log_param("hidden_layer_size", n_hidden)
+            mlflow.log_param("num_iterations", num_iterations)
+            mlflow.log_param("learning_rate", learning_rate)
+
+            validate_accuracy = run_experiment('spiral_train.csv', 'spiral_test.csv', 'spiral_valid.csv', n_hidden, num_iterations, learning_rate)
+
+            #mlflow.log_metric("train_accuracy", train_accuracy)
+            mlflow.log_metric("validation_accuracy", validate_accuracy)
+            #mlflow.log_metric("test_accuracy", test_accuracy)
+
+            # save model parameters
+            #save_model_parameters(W1, W2, b1, b2, 'model_parameters.npz')
+            #mlflow.log_artifact('model_parameters.npz')
+
+            #mlflow.log_metric("train_accuracy", train_accuracy)
+            mlflow.log_metric("validation_accuracy", validate_accuracy)
+
+        return validate_accuracy
+    
+    study = optuna.create_study(direction="maximize")
+    study.optimize(objective, n_trials=100)
+
+    # log the best hyperparameters
+    best_params = study.best_params
+    mlflow.log_params(best_params)
+    print(f"Best hyperparameters: {best_params}")
 

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/4c4657cb1b35476c88784c6fb3347745/artifacts
+end_time: 1707180997287
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4c4657cb1b35476c88784c6fb3347745
+run_name: sassy-swan-145
+run_uuid: 4c4657cb1b35476c88784c6fb3347745
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707180997229
+status: 3
+tags: []
+user_id: aasthakhatgarh

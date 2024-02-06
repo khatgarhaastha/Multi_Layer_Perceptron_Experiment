@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/118d61405e6d4f17a82c268499067257/artifacts
+end_time: 1707180987386
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 118d61405e6d4f17a82c268499067257
+run_name: zealous-squid-845
+run_uuid: 118d61405e6d4f17a82c268499067257
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707180987357
+status: 3
+tags: []
+user_id: aasthakhatgarh

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/7ac2682c65d94714974395dc4fa0a80f/artifacts
+end_time: 1707181133211
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7ac2682c65d94714974395dc4fa0a80f
+run_name: classy-bug-727
+run_uuid: 7ac2682c65d94714974395dc4fa0a80f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707181133132
+status: 3
+tags: []
+user_id: aasthakhatgarh

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/f829979b890340509c99b71a2a572629/artifacts
+end_time: 1707180991946
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f829979b890340509c99b71a2a572629
+run_name: enthused-smelt-154
+run_uuid: f829979b890340509c99b71a2a572629
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707180991719
+status: 3
+tags: []
+user_id: aasthakhatgarh

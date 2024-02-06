@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/95fcfe66769e4a36a157ebb9eec5221a/artifacts
+end_time: 1707181138852
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 95fcfe66769e4a36a157ebb9eec5221a
+run_name: funny-wasp-61
+run_uuid: 95fcfe66769e4a36a157ebb9eec5221a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707181138777
+status: 3
+tags: []
+user_id: aasthakhatgarh

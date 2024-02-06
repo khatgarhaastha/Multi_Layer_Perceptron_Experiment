@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/eb048228f6464aa3b254fc5968a051d5/artifacts
+end_time: 1707180992681
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eb048228f6464aa3b254fc5968a051d5
+run_name: marvelous-perch-186
+run_uuid: eb048228f6464aa3b254fc5968a051d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707180992650
+status: 3
+tags: []
+user_id: aasthakhatgarh

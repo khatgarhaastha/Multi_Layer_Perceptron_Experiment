@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/4a7fef35eec54b68b5f4a950591e35d0/artifacts
+end_time: 1707181136996
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4a7fef35eec54b68b5f4a950591e35d0
+run_name: efficient-cub-505
+run_uuid: 4a7fef35eec54b68b5f4a950591e35d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707181136905
+status: 3
+tags: []
+user_id: aasthakhatgarh

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/72c72210af514ec29d55179ca9d2ddf7/artifacts
+end_time: 1707181137093
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 72c72210af514ec29d55179ca9d2ddf7
+run_name: aged-snake-461
+run_uuid: 72c72210af514ec29d55179ca9d2ddf7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707181137010
+status: 3
+tags: []
+user_id: aasthakhatgarh

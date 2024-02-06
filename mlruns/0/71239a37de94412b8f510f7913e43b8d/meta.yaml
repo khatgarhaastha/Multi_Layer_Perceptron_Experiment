@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/71239a37de94412b8f510f7913e43b8d/artifacts
+end_time: 1707181140363
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 71239a37de94412b8f510f7913e43b8d
+run_name: beautiful-lynx-3
+run_uuid: 71239a37de94412b8f510f7913e43b8d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707181140289
+status: 3
+tags: []
+user_id: aasthakhatgarh

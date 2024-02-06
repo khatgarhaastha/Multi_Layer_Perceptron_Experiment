@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/27f88916ebed4eddb6bb3fd297520994/artifacts
+end_time: 1707180992778
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 27f88916ebed4eddb6bb3fd297520994
+run_name: worried-robin-679
+run_uuid: 27f88916ebed4eddb6bb3fd297520994
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707180992722
+status: 3
+tags: []
+user_id: aasthakhatgarh

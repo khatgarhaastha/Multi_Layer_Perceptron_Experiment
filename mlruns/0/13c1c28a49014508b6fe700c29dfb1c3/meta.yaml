@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/13c1c28a49014508b6fe700c29dfb1c3/artifacts
+end_time: 1707180987455
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 13c1c28a49014508b6fe700c29dfb1c3
+run_name: illustrious-stag-716
+run_uuid: 13c1c28a49014508b6fe700c29dfb1c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707180987423
+status: 3
+tags: []
+user_id: aasthakhatgarh

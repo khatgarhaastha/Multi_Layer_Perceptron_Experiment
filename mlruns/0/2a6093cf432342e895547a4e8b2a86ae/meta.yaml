@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/2a6093cf432342e895547a4e8b2a86ae/artifacts
+end_time: 1707180993538
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2a6093cf432342e895547a4e8b2a86ae
+run_name: angry-roo-260
+run_uuid: 2a6093cf432342e895547a4e8b2a86ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707180993521
+status: 3
+tags: []
+user_id: aasthakhatgarh

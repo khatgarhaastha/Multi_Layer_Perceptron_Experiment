@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/355d1305819b4551ad824b3b2d7760d2/artifacts
+end_time: 1707180989205
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 355d1305819b4551ad824b3b2d7760d2
+run_name: calm-kite-643
+run_uuid: 355d1305819b4551ad824b3b2d7760d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707180989120
+status: 3
+tags: []
+user_id: aasthakhatgarh

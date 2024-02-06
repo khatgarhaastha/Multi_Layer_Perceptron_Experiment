@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/b6a750ae232b47a6b3d1c3351ac0682f/artifacts
+end_time: 1707180991163
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b6a750ae232b47a6b3d1c3351ac0682f
+run_name: thoughtful-squid-514
+run_uuid: b6a750ae232b47a6b3d1c3351ac0682f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707180990826
+status: 3
+tags: []
+user_id: aasthakhatgarh

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/768fd627939c4d3db265d9daf5db458b/artifacts
+end_time: 1707181134122
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 768fd627939c4d3db265d9daf5db458b
+run_name: sassy-sponge-992
+run_uuid: 768fd627939c4d3db265d9daf5db458b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707181134042
+status: 3
+tags: []
+user_id: aasthakhatgarh

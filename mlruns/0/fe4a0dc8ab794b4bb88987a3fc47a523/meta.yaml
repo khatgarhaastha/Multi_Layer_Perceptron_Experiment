@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/fe4a0dc8ab794b4bb88987a3fc47a523/artifacts
+end_time: 1707180989522
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fe4a0dc8ab794b4bb88987a3fc47a523
+run_name: rare-steed-919
+run_uuid: fe4a0dc8ab794b4bb88987a3fc47a523
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707180989207
+status: 3
+tags: []
+user_id: aasthakhatgarh

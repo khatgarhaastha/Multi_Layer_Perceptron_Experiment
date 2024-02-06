@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/4f4d4bbe4ab540c3b9f174bf13fd6563/artifacts
+end_time: 1707181138190
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4f4d4bbe4ab540c3b9f174bf13fd6563
+run_name: mercurial-dog-512
+run_uuid: 4f4d4bbe4ab540c3b9f174bf13fd6563
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707181138112
+status: 3
+tags: []
+user_id: aasthakhatgarh

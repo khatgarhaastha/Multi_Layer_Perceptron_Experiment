@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/8788eb054b40400980535be84de68b15/artifacts
+end_time: 1707181134914
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8788eb054b40400980535be84de68b15
+run_name: inquisitive-shrew-99
+run_uuid: 8788eb054b40400980535be84de68b15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707181134860
+status: 3
+tags: []
+user_id: aasthakhatgarh

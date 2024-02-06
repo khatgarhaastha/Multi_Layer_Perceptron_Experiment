@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/6007d95b274f43f19dddcd7b0f42a8c6/artifacts
+end_time: 1707181136456
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6007d95b274f43f19dddcd7b0f42a8c6
+run_name: wistful-croc-54
+run_uuid: 6007d95b274f43f19dddcd7b0f42a8c6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707181136376
+status: 3
+tags: []
+user_id: aasthakhatgarh

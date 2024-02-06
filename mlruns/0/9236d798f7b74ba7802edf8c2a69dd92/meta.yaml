@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/9236d798f7b74ba7802edf8c2a69dd92/artifacts
+end_time: 1707181140453
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9236d798f7b74ba7802edf8c2a69dd92
+run_name: skillful-conch-436
+run_uuid: 9236d798f7b74ba7802edf8c2a69dd92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707181140371
+status: 3
+tags: []
+user_id: aasthakhatgarh

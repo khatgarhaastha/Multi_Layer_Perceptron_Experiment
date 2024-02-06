@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/7064c675b26a49c197c2fcd3bfd8f192/artifacts
+end_time: 1707180991717
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7064c675b26a49c197c2fcd3bfd8f192
+run_name: melodic-smelt-400
+run_uuid: 7064c675b26a49c197c2fcd3bfd8f192
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707180991630
+status: 3
+tags: []
+user_id: aasthakhatgarh

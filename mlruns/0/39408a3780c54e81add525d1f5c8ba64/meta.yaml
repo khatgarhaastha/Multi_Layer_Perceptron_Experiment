@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/39408a3780c54e81add525d1f5c8ba64/artifacts
+end_time: 1707181137754
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 39408a3780c54e81add525d1f5c8ba64
+run_name: gregarious-yak-185
+run_uuid: 39408a3780c54e81add525d1f5c8ba64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707181137712
+status: 3
+tags: []
+user_id: aasthakhatgarh

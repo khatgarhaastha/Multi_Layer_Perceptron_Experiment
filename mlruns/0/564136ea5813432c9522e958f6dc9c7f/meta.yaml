@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/564136ea5813432c9522e958f6dc9c7f/artifacts
+end_time: 1707180993756
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 564136ea5813432c9522e958f6dc9c7f
+run_name: burly-bat-17
+run_uuid: 564136ea5813432c9522e958f6dc9c7f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707180993736
+status: 3
+tags: []
+user_id: aasthakhatgarh

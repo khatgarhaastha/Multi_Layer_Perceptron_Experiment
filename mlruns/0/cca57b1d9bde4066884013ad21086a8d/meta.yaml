@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/cca57b1d9bde4066884013ad21086a8d/artifacts
+end_time: 1707181139316
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cca57b1d9bde4066884013ad21086a8d
+run_name: unequaled-snake-473
+run_uuid: cca57b1d9bde4066884013ad21086a8d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707181139247
+status: 3
+tags: []
+user_id: aasthakhatgarh

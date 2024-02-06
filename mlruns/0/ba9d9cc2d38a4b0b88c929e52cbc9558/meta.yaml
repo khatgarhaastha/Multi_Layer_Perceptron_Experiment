@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/ba9d9cc2d38a4b0b88c929e52cbc9558/artifacts
+end_time: 1707180995692
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ba9d9cc2d38a4b0b88c929e52cbc9558
+run_name: nervous-snipe-221
+run_uuid: ba9d9cc2d38a4b0b88c929e52cbc9558
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707180995610
+status: 3
+tags: []
+user_id: aasthakhatgarh

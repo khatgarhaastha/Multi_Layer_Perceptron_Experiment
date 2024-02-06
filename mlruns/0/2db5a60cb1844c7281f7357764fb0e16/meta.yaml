@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/2db5a60cb1844c7281f7357764fb0e16/artifacts
+end_time: 1707181138544
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2db5a60cb1844c7281f7357764fb0e16
+run_name: delicate-bear-312
+run_uuid: 2db5a60cb1844c7281f7357764fb0e16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707181138478
+status: 3
+tags: []
+user_id: aasthakhatgarh

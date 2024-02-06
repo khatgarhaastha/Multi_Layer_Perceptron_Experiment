@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/51180eb3120a4787920214b41d7a410b/artifacts
+end_time: 1707181134159
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 51180eb3120a4787920214b41d7a410b
+run_name: classy-moth-764
+run_uuid: 51180eb3120a4787920214b41d7a410b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707181134129
+status: 3
+tags: []
+user_id: aasthakhatgarh

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/a92c973b42144407ac3506038ac4eeef/artifacts
+end_time: 1707181135119
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a92c973b42144407ac3506038ac4eeef
+run_name: capricious-deer-161
+run_uuid: a92c973b42144407ac3506038ac4eeef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707181135057
+status: 3
+tags: []
+user_id: aasthakhatgarh

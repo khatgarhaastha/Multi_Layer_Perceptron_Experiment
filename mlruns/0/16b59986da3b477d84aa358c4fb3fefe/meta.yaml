@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/16b59986da3b477d84aa358c4fb3fefe/artifacts
+end_time: 1707180995283
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 16b59986da3b477d84aa358c4fb3fefe
+run_name: grandiose-grouse-173
+run_uuid: 16b59986da3b477d84aa358c4fb3fefe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707180995239
+status: 3
+tags: []
+user_id: aasthakhatgarh

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/3fbc94d2459d4f3799fab286c1236712/artifacts
+end_time: 1707180997445
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3fbc94d2459d4f3799fab286c1236712
+run_name: fun-chimp-1
+run_uuid: 3fbc94d2459d4f3799fab286c1236712
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707180997289
+status: 3
+tags: []
+user_id: aasthakhatgarh

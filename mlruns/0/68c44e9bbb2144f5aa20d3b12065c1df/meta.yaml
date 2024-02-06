@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/68c44e9bbb2144f5aa20d3b12065c1df/artifacts
+end_time: 1707180997091
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 68c44e9bbb2144f5aa20d3b12065c1df
+run_name: incongruous-wasp-40
+run_uuid: 68c44e9bbb2144f5aa20d3b12065c1df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707180997052
+status: 3
+tags: []
+user_id: aasthakhatgarh

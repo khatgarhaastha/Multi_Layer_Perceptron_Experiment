@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/370767dde1754f639427b98d9d6d96c1/artifacts
+end_time: 1707181138371
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 370767dde1754f639427b98d9d6d96c1
+run_name: welcoming-shrimp-923
+run_uuid: 370767dde1754f639427b98d9d6d96c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707181138323
+status: 3
+tags: []
+user_id: aasthakhatgarh

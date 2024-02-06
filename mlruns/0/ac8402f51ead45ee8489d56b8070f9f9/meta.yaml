@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/ac8402f51ead45ee8489d56b8070f9f9/artifacts
+end_time: 1707180997654
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ac8402f51ead45ee8489d56b8070f9f9
+run_name: rumbling-rat-188
+run_uuid: ac8402f51ead45ee8489d56b8070f9f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707180997617
+status: 3
+tags: []
+user_id: aasthakhatgarh

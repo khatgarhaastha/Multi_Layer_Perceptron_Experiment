@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/d64c1ca2b9df4c6c9b59e82b09b67914/artifacts
+end_time: 1707181139850
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d64c1ca2b9df4c6c9b59e82b09b67914
+run_name: handsome-jay-823
+run_uuid: d64c1ca2b9df4c6c9b59e82b09b67914
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707181139769
+status: 3
+tags: []
+user_id: aasthakhatgarh

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/d8864b2297d041e5b97d4b2b4fc72ac3/artifacts
+end_time: 1707180991381
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d8864b2297d041e5b97d4b2b4fc72ac3
+run_name: peaceful-squid-319
+run_uuid: d8864b2297d041e5b97d4b2b4fc72ac3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707180991167
+status: 3
+tags: []
+user_id: aasthakhatgarh

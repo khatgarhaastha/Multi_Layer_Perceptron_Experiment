@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/4786c58786f14adaa1f45a59b7b22ef9/artifacts
+end_time: 1707180996613
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4786c58786f14adaa1f45a59b7b22ef9
+run_name: caring-perch-149
+run_uuid: 4786c58786f14adaa1f45a59b7b22ef9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707180996548
+status: 3
+tags: []
+user_id: aasthakhatgarh

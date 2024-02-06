@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/df682a01ac0842d395c2d252ae5feeb1/artifacts
+end_time: 1707180988709
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: df682a01ac0842d395c2d252ae5feeb1
+run_name: redolent-sponge-226
+run_uuid: df682a01ac0842d395c2d252ae5feeb1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707180987564
+status: 3
+tags: []
+user_id: aasthakhatgarh

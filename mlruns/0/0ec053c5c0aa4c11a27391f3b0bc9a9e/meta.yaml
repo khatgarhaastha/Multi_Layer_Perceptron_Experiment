@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/0ec053c5c0aa4c11a27391f3b0bc9a9e/artifacts
+end_time: 1707180995108
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0ec053c5c0aa4c11a27391f3b0bc9a9e
+run_name: fun-moose-425
+run_uuid: 0ec053c5c0aa4c11a27391f3b0bc9a9e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707180994979
+status: 3
+tags: []
+user_id: aasthakhatgarh

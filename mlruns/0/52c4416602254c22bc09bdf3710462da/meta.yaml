@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/52c4416602254c22bc09bdf3710462da/artifacts
+end_time: 1707180993662
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 52c4416602254c22bc09bdf3710462da
+run_name: sneaky-conch-491
+run_uuid: 52c4416602254c22bc09bdf3710462da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707180993640
+status: 3
+tags: []
+user_id: aasthakhatgarh

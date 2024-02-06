@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/483e314d5c6b44ba9850a577471538ed/artifacts
+end_time: 1707181139094
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 483e314d5c6b44ba9850a577471538ed
+run_name: delicate-rook-48
+run_uuid: 483e314d5c6b44ba9850a577471538ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707181139023
+status: 3
+tags: []
+user_id: aasthakhatgarh

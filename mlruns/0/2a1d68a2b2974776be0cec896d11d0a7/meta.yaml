@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/2a1d68a2b2974776be0cec896d11d0a7/artifacts
+end_time: 1707180997613
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2a1d68a2b2974776be0cec896d11d0a7
+run_name: bittersweet-ox-14
+run_uuid: 2a1d68a2b2974776be0cec896d11d0a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707180997550
+status: 3
+tags: []
+user_id: aasthakhatgarh

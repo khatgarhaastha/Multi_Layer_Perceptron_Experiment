@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/700dd2b1693e4ecbb63ba13799dddc87/artifacts
+end_time: 1707181137272
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 700dd2b1693e4ecbb63ba13799dddc87
+run_name: dapper-carp-370
+run_uuid: 700dd2b1693e4ecbb63ba13799dddc87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707181137206
+status: 3
+tags: []
+user_id: aasthakhatgarh

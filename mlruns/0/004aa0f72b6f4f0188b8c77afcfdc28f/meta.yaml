@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/004aa0f72b6f4f0188b8c77afcfdc28f/artifacts
+end_time: 1707181133947
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 004aa0f72b6f4f0188b8c77afcfdc28f
+run_name: puzzled-midge-753
+run_uuid: 004aa0f72b6f4f0188b8c77afcfdc28f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707181133891
+status: 3
+tags: []
+user_id: aasthakhatgarh

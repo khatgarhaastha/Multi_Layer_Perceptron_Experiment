@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/d8bce714135a4751aa3d52d2f32a10f0/artifacts
+end_time: 1707181140103
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d8bce714135a4751aa3d52d2f32a10f0
+run_name: delicate-fly-565
+run_uuid: d8bce714135a4751aa3d52d2f32a10f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707181140033
+status: 3
+tags: []
+user_id: aasthakhatgarh

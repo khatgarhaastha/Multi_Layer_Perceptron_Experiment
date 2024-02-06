@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/eecdc61bfe144db9b9db1159b9790b65/artifacts
+end_time: 1707181134738
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eecdc61bfe144db9b9db1159b9790b65
+run_name: capricious-ram-523
+run_uuid: eecdc61bfe144db9b9db1159b9790b65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707181134660
+status: 3
+tags: []
+user_id: aasthakhatgarh

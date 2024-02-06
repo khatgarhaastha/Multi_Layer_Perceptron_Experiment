@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/5fef5d3caf514df4b8c6878d3178cac5/artifacts
+end_time: 1707181135050
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5fef5d3caf514df4b8c6878d3178cac5
+run_name: victorious-crane-981
+run_uuid: 5fef5d3caf514df4b8c6878d3178cac5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707181134992
+status: 3
+tags: []
+user_id: aasthakhatgarh

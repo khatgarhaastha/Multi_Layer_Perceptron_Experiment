@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/255bef917f3245118095aa56f8b056fd/artifacts
+end_time: 1707181139394
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 255bef917f3245118095aa56f8b056fd
+run_name: popular-boar-319
+run_uuid: 255bef917f3245118095aa56f8b056fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707181139324
+status: 3
+tags: []
+user_id: aasthakhatgarh

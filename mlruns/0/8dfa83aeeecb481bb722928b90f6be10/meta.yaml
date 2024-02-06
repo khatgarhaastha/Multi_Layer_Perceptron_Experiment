@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/8dfa83aeeecb481bb722928b90f6be10/artifacts
+end_time: 1707181133885
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8dfa83aeeecb481bb722928b90f6be10
+run_name: peaceful-crane-595
+run_uuid: 8dfa83aeeecb481bb722928b90f6be10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707181133844
+status: 3
+tags: []
+user_id: aasthakhatgarh

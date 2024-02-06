@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/94fa57800cd14d8c9a5cabc7f8f27b8b/artifacts
+end_time: 1707180995361
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 94fa57800cd14d8c9a5cabc7f8f27b8b
+run_name: salty-robin-553
+run_uuid: 94fa57800cd14d8c9a5cabc7f8f27b8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707180995317
+status: 3
+tags: []
+user_id: aasthakhatgarh

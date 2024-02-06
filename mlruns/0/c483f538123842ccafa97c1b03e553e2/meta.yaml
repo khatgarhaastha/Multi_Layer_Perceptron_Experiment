@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/c483f538123842ccafa97c1b03e553e2/artifacts
+end_time: 1707180990044
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c483f538123842ccafa97c1b03e553e2
+run_name: adaptable-stork-47
+run_uuid: c483f538123842ccafa97c1b03e553e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707180989790
+status: 3
+tags: []
+user_id: aasthakhatgarh

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/eb5a39a1ed3d4b7990fa5b74e9c44c02/artifacts
+end_time: 1707181140673
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eb5a39a1ed3d4b7990fa5b74e9c44c02
+run_name: angry-squirrel-202
+run_uuid: eb5a39a1ed3d4b7990fa5b74e9c44c02
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707181140618
+status: 3
+tags: []
+user_id: aasthakhatgarh

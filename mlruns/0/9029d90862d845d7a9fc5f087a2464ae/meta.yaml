@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/9029d90862d845d7a9fc5f087a2464ae/artifacts
+end_time: 1707180992954
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9029d90862d845d7a9fc5f087a2464ae
+run_name: bustling-hen-538
+run_uuid: 9029d90862d845d7a9fc5f087a2464ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707180992857
+status: 3
+tags: []
+user_id: aasthakhatgarh

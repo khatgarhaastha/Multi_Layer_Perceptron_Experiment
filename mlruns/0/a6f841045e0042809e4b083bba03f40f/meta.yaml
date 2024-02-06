@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/a6f841045e0042809e4b083bba03f40f/artifacts
+end_time: 1707180996712
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a6f841045e0042809e4b083bba03f40f
+run_name: treasured-boar-672
+run_uuid: a6f841045e0042809e4b083bba03f40f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707180996671
+status: 3
+tags: []
+user_id: aasthakhatgarh

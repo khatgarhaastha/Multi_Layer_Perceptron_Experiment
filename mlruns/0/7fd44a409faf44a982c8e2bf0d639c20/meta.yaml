@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/7fd44a409faf44a982c8e2bf0d639c20/artifacts
+end_time: 1707180993520
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7fd44a409faf44a982c8e2bf0d639c20
+run_name: traveling-fox-312
+run_uuid: 7fd44a409faf44a982c8e2bf0d639c20
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707180993454
+status: 3
+tags: []
+user_id: aasthakhatgarh

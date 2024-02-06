@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/bbb913acea9c48c6a89afd252b87f92c/artifacts
+end_time: 1707180993157
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bbb913acea9c48c6a89afd252b87f92c
+run_name: caring-bear-406
+run_uuid: bbb913acea9c48c6a89afd252b87f92c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707180993076
+status: 3
+tags: []
+user_id: aasthakhatgarh

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/ca739e5f24064aae969c2b3e840b3f13/artifacts
+end_time: 1707180989022
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ca739e5f24064aae969c2b3e840b3f13
+run_name: upset-cow-860
+run_uuid: ca739e5f24064aae969c2b3e840b3f13
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707180988974
+status: 3
+tags: []
+user_id: aasthakhatgarh

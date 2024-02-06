@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/abe91a15a9f146ef872b38486aae5ffd/artifacts
+end_time: 1707181140551
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: abe91a15a9f146ef872b38486aae5ffd
+run_name: skillful-dove-216
+run_uuid: abe91a15a9f146ef872b38486aae5ffd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707181140534
+status: 3
+tags: []
+user_id: aasthakhatgarh

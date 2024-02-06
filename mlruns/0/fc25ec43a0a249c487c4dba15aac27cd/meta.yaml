@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/fc25ec43a0a249c487c4dba15aac27cd/artifacts
+end_time: 1707180995237
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fc25ec43a0a249c487c4dba15aac27cd
+run_name: spiffy-jay-83
+run_uuid: fc25ec43a0a249c487c4dba15aac27cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707180995203
+status: 3
+tags: []
+user_id: aasthakhatgarh

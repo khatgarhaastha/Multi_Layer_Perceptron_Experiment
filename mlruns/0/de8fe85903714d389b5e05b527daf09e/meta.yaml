@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/de8fe85903714d389b5e05b527daf09e/artifacts
+end_time: 1707180997547
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: de8fe85903714d389b5e05b527daf09e
+run_name: bustling-shoat-133
+run_uuid: de8fe85903714d389b5e05b527daf09e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707180997490
+status: 3
+tags: []
+user_id: aasthakhatgarh

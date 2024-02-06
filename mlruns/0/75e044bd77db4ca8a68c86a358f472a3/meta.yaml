@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aasthakhatgarh/Desktop/W_Quarter/Deep_Learning/HW%231/mlruns/0/75e044bd77db4ca8a68c86a358f472a3/artifacts
+end_time: 1707181134653
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 75e044bd77db4ca8a68c86a358f472a3
+run_name: charming-steed-733
+run_uuid: 75e044bd77db4ca8a68c86a358f472a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707181134550
+status: 3
+tags: []
+user_id: aasthakhatgarh
